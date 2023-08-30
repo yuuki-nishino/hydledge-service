@@ -1,0 +1,35 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "AtomsBreadCrumb": {
+    "description": "Auto imported from components/atoms/BreadCrumb.vue"
+  },
+  "LayoutsTheFooter": {
+    "description": "Auto imported from components/layouts/TheFooter.vue"
+  },
+  "LayoutsTheHeader": {
+    "description": "Auto imported from components/layouts/TheHeader.vue"
+  },
+  "PagesAboutSec": {
+    "description": "Auto imported from components/pages/AboutSec.vue"
+  },
+  "PagesContentsSec": {
+    "description": "Auto imported from components/pages/ContentsSec.vue"
+  },
+  "PagesMissionSec": {
+    "description": "Auto imported from components/pages/MissionSec.vue"
+  },
+  "PagesNewsSec": {
+    "description": "Auto imported from components/pages/NewsSec.vue"
+  },
+  "PagesPurposeSec": {
+    "description": "Auto imported from components/pages/PurposeSec.vue"
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "charge",
+    "path": "/charge",
+    "component": "/code/front/pages/charge/index.vue",
+    "chunkName": "pages/charge/index"
+  },
+  {
+    "name": "hardness",
+    "path": "/hardness",
+    "component": "/code/front/pages/hardness/index.vue",
+    "chunkName": "pages/hardness/index"
+  },
+  {
+    "name": "charge-data",
+    "path": "/charge/data",
+    "component": "/code/front/pages/charge/data/index.vue",
+    "chunkName": "pages/charge/data/index"
+  },
+  {
+    "name": "hardness-data",
+    "path": "/hardness/data",
+    "component": "/code/front/pages/hardness/data/index.vue",
+    "chunkName": "pages/hardness/data/index"
+  },
+  {
+    "name": "charge-data-pref",
+    "path": "/charge/data/pref",
+    "component": "/code/front/pages/charge/data/pref.vue",
+    "chunkName": "pages/charge/data/pref"
+  },
+  {
+    "name": "charge-data-select_pref",
+    "path": "/charge/data/select_pref",
+    "component": "/code/front/pages/charge/data/select_pref.vue",
+    "chunkName": "pages/charge/data/select_pref"
+  },
+  {
+    "name": "hardness-data-pref",
+    "path": "/hardness/data/pref",
+    "component": "/code/front/pages/hardness/data/pref.vue",
+    "chunkName": "pages/hardness/data/pref"
+  },
+  {
+    "name": "hardness-data-select_pref",
+    "path": "/hardness/data/select_pref",
+    "component": "/code/front/pages/hardness/data/select_pref.vue",
+    "chunkName": "pages/hardness/data/select_pref"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/code/front/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

@@ -1,0 +1,7584 @@
+{
+  "北海道": [
+    {
+      "Organization": "札幌市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1452.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "函館市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 781.0,
+      "ExtraCharge": 118.0
+    },
+    {
+      "Organization": "小樽市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1397.0,
+      "ExtraCharge": 204.0
+    },
+    {
+      "Organization": "旭川市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1122.0,
+      "ExtraCharge": 157.0
+    },
+    {
+      "Organization": "室蘭市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 16.0
+    },
+    {
+      "Organization": "釧路市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1363.0,
+      "ExtraCharge": 12.0
+    },
+    {
+      "Organization": "帯広市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 50.0
+    },
+    {
+      "Organization": "北見市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1619.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "夕張市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 3000.0,
+      "ExtraCharge": 387.0
+    },
+    {
+      "Organization": "岩見沢市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "網走市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1606.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "留萌市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1703.0,
+      "ExtraCharge": 245.0
+    },
+    {
+      "Organization": "苫小牧市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 979.0,
+      "ExtraCharge": 22.0
+    },
+    {
+      "Organization": "稚内市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "美唄市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1144.0,
+      "ExtraCharge": 271.0
+    },
+    {
+      "Organization": "芦別市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1518.0,
+      "ExtraCharge": 253.0
+    },
+    {
+      "Organization": "江別市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 203.0
+    },
+    {
+      "Organization": "赤平市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1865.0,
+      "ExtraCharge": 288.0
+    },
+    {
+      "Organization": "紋別市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "士別市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1002.0,
+      "ExtraCharge": 218.0
+    },
+    {
+      "Organization": "名寄市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 917.0,
+      "ExtraCharge": 265.0
+    },
+    {
+      "Organization": "三笠市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2069.0,
+      "ExtraCharge": 305.0
+    },
+    {
+      "Organization": "根室市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "千歳市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 913.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "深川市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1826.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "富良野市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1474.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "登別市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1511.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "恵庭市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1309.0,
+      "ExtraCharge": 234.0
+    },
+    {
+      "Organization": "伊達市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "北広島市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 792.0,
+      "ExtraCharge": 168.0
+    },
+    {
+      "Organization": "石狩市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1672.0,
+      "ExtraCharge": 217.0
+    },
+    {
+      "Organization": "北斗市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "当別町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 836.0,
+      "ExtraCharge": 205.0
+    },
+    {
+      "Organization": "松前町",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 159.0
+    },
+    {
+      "Organization": "知内町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1299.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "七飯町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1375.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "鹿部町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "森町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1940.0,
+      "ExtraCharge": 240.0
+    },
+    {
+      "Organization": "八雲町",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "長万部町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1496.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "江差町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2479.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "倶知安町",
+      "BaseAmount": 6.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "岩内町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "余市町",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1826.0,
+      "ExtraCharge": 270.0
+    },
+    {
+      "Organization": "由仁町",
+      "BaseAmount": 7.0,
+      "BaseCharge": 2165.0,
+      "ExtraCharge": 308.0
+    },
+    {
+      "Organization": "栗山町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 413.0,
+      "ExtraCharge": 264.0
+    },
+    {
+      "Organization": "沼田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2354.0,
+      "ExtraCharge": 286.0
+    },
+    {
+      "Organization": "鷹栖町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1936.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "東神楽町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1383.0,
+      "ExtraCharge": 147.0
+    },
+    {
+      "Organization": "当麻町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2070.0,
+      "ExtraCharge": 210.0
+    },
+    {
+      "Organization": "美瑛町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1686.0,
+      "ExtraCharge": 234.0
+    },
+    {
+      "Organization": "上富良野町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1584.0,
+      "ExtraCharge": 164.0
+    },
+    {
+      "Organization": "増毛町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 230.0
+    },
+    {
+      "Organization": "羽幌町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2850.0,
+      "ExtraCharge": 300.0
+    },
+    {
+      "Organization": "枝幸町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "美幌町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 214.0
+    },
+    {
+      "Organization": "斜里町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1510.0,
+      "ExtraCharge": 173.0
+    },
+    {
+      "Organization": "遠軽町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1672.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "湧別町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "白老町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1375.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "洞爺湖町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1628.0,
+      "ExtraCharge": 203.0
+    },
+    {
+      "Organization": "安平町",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1510.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "むかわ町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 167.0
+    },
+    {
+      "Organization": "日高町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 241.0
+    },
+    {
+      "Organization": "浦河町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1170.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "様似町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "新ひだか町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "音更町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1194.0,
+      "ExtraCharge": 251.0
+    },
+    {
+      "Organization": "新得町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1321.0,
+      "ExtraCharge": 147.0
+    },
+    {
+      "Organization": "清水町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1800.0,
+      "ExtraCharge": 180.0
+    },
+    {
+      "Organization": "芽室町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2607.0,
+      "ExtraCharge": 264.0
+    },
+    {
+      "Organization": "大樹町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2095.0,
+      "ExtraCharge": 272.0
+    },
+    {
+      "Organization": "広尾町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "幕別町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 350.0,
+      "ExtraCharge": 210.0
+    },
+    {
+      "Organization": "池田町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 264.0
+    },
+    {
+      "Organization": "本別町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 262.0
+    },
+    {
+      "Organization": "足寄町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2169.0,
+      "ExtraCharge": 203.0
+    },
+    {
+      "Organization": "厚岸町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1133.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "浜中町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "標茶町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1480.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "弟子屈町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1925.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "白糠町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "別海町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 983.0,
+      "ExtraCharge": 181.0
+    },
+    {
+      "Organization": "中標津町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "羅臼町",
+      "BaseAmount": 7.0,
+      "BaseCharge": 2140.0,
+      "ExtraCharge": 340.0
+    },
+    {
+      "Organization": "長幌上水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "西空知広域水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2475.0,
+      "ExtraCharge": 308.0
+    },
+    {
+      "Organization": "月新水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "中空知広域水道企業団",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1576.0,
+      "ExtraCharge": 255.0
+    }
+  ],
+  "青森県": [
+    {
+      "Organization": "青森市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 638.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "弘前市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1702.0,
+      "ExtraCharge": 222.0
+    },
+    {
+      "Organization": "黒石市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1078.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "五所川原市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1120.0,
+      "ExtraCharge": 116.0
+    },
+    {
+      "Organization": "十和田市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1934.0,
+      "ExtraCharge": 210.0
+    },
+    {
+      "Organization": "三沢市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "むつ市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1826.0,
+      "ExtraCharge": 284.0
+    },
+    {
+      "Organization": "平川市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2090.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "平内町",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 264.0
+    },
+    {
+      "Organization": "鰺ケ沢町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2723.0,
+      "ExtraCharge": 292.0
+    },
+    {
+      "Organization": "深浦町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 286.0
+    },
+    {
+      "Organization": "藤崎町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2112.0,
+      "ExtraCharge": 264.0
+    },
+    {
+      "Organization": "田舎館村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1970.0,
+      "ExtraCharge": 246.0
+    },
+    {
+      "Organization": "板柳町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2410.0,
+      "ExtraCharge": 241.0
+    },
+    {
+      "Organization": "鶴田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "中泊町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2805.0,
+      "ExtraCharge": 297.0
+    },
+    {
+      "Organization": "野辺地町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "七戸町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1500.0,
+      "ExtraCharge": 163.0
+    },
+    {
+      "Organization": "東北町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "六ケ所村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "大間町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "東通村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "田子町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "津軽広域水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2057.0,
+      "ExtraCharge": 297.0
+    },
+    {
+      "Organization": "久吉ダム水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2841.0,
+      "ExtraCharge": 308.0
+    },
+    {
+      "Organization": "八戸圏域水道企業団",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 44.0
+    }
+  ],
+  "岩手県": [
+    {
+      "Organization": "盛岡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 124.0
+    },
+    {
+      "Organization": "宮古市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "大船渡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1808.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "久慈市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1815.0,
+      "ExtraCharge": 236.0
+    },
+    {
+      "Organization": "遠野市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2400.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "一関市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "陸前高田市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "釜石市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "二戸市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1276.0,
+      "ExtraCharge": 237.0
+    },
+    {
+      "Organization": "八幡平市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1617.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "奥州市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 104.0
+    },
+    {
+      "Organization": "滝沢市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1088.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "雫石町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1441.0,
+      "ExtraCharge": 159.0
+    },
+    {
+      "Organization": "葛巻町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 167.0
+    },
+    {
+      "Organization": "岩手町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2032.0,
+      "ExtraCharge": 214.0
+    },
+    {
+      "Organization": "矢巾町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 748.0,
+      "ExtraCharge": 182.0
+    },
+    {
+      "Organization": "西和賀町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "金ケ崎町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 130.0
+    },
+    {
+      "Organization": "平泉町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2123.0,
+      "ExtraCharge": 265.0
+    },
+    {
+      "Organization": "大槌町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "山田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1573.0,
+      "ExtraCharge": 181.0
+    },
+    {
+      "Organization": "岩泉町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1950.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "軽米町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2266.0,
+      "ExtraCharge": 264.0
+    },
+    {
+      "Organization": "九戸村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1794.0,
+      "ExtraCharge": 205.0
+    },
+    {
+      "Organization": "洋野町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2090.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "一戸町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1914.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "岩手中部水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 132.0
+    }
+  ],
+  "宮城県": [
+    {
+      "Organization": "仙台市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 638.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "塩竈市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 91.0
+    },
+    {
+      "Organization": "気仙沼市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1001.0,
+      "ExtraCharge": 95.0
+    },
+    {
+      "Organization": "白石市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2035.0,
+      "ExtraCharge": 214.0
+    },
+    {
+      "Organization": "名取市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1078.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "角田市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 281.0
+    },
+    {
+      "Organization": "多賀城市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1012.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "岩沼市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 814.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "登米市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 147.0
+    },
+    {
+      "Organization": "栗原市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1911.0,
+      "ExtraCharge": 107.0
+    },
+    {
+      "Organization": "大崎市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1067.0,
+      "ExtraCharge": 101.0
+    },
+    {
+      "Organization": "富谷市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 704.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "蔵王町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "大河原町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 253.0
+    },
+    {
+      "Organization": "村田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "柴田町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1089.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "川崎町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2420.0,
+      "ExtraCharge": 203.0
+    },
+    {
+      "Organization": "丸森町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2266.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "亘理町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "山元町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "松島町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "七ケ浜町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 40.0
+    },
+    {
+      "Organization": "利府町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "大和町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "大郷町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2530.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "大衡村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2420.0,
+      "ExtraCharge": 297.0
+    },
+    {
+      "Organization": "色麻町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2090.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "加美町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2043.0,
+      "ExtraCharge": 204.0
+    },
+    {
+      "Organization": "涌谷町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1480.0,
+      "ExtraCharge": 151.0
+    },
+    {
+      "Organization": "美里町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1180.0,
+      "ExtraCharge": 223.0
+    },
+    {
+      "Organization": "女川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "南三陸町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "石巻地方広域水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1353.0,
+      "ExtraCharge": 237.0
+    }
+  ],
+  "秋田県": [
+    {
+      "Organization": "秋田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 60.0
+    },
+    {
+      "Organization": "能代市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 126.0
+    },
+    {
+      "Organization": "横手市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1177.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "大館市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 704.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "男鹿市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1276.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "湯沢市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 2095.0,
+      "ExtraCharge": 189.0
+    },
+    {
+      "Organization": "鹿角市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1812.0,
+      "ExtraCharge": 208.0
+    },
+    {
+      "Organization": "由利本荘市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 800.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "潟上市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 792.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "大仙市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 830.0,
+      "ExtraCharge": 74.0
+    },
+    {
+      "Organization": "北秋田市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1350.0,
+      "ExtraCharge": 120.0
+    },
+    {
+      "Organization": "にかほ市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 970.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "仙北市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "小坂町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2090.0,
+      "ExtraCharge": 319.0
+    },
+    {
+      "Organization": "三種町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1257.0,
+      "ExtraCharge": 168.0
+    },
+    {
+      "Organization": "五城目町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "八郎潟町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 260.0
+    },
+    {
+      "Organization": "井川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1810.0,
+      "ExtraCharge": 181.0
+    },
+    {
+      "Organization": "美郷町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 605.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "羽後町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1925.0,
+      "ExtraCharge": 242.0
+    }
+  ],
+  "山形県": [
+    {
+      "Organization": "山形市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 41.0
+    },
+    {
+      "Organization": "米沢市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 105.0
+    },
+    {
+      "Organization": "鶴岡市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 71.0
+    },
+    {
+      "Organization": "酒田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1144.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "新庄市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "寒河江市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 561.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "上山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "村山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "長井市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "天童市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "東根市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "南陽市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1936.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "河北町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "西川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2130.0,
+      "ExtraCharge": 213.0
+    },
+    {
+      "Organization": "朝日町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1925.0,
+      "ExtraCharge": 253.0
+    },
+    {
+      "Organization": "大江町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 264.0
+    },
+    {
+      "Organization": "金山町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2520.0,
+      "ExtraCharge": 264.0
+    },
+    {
+      "Organization": "最上町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1040.0,
+      "ExtraCharge": 230.0
+    },
+    {
+      "Organization": "舟形町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "真室川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2354.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "高畠町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "川西町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1012.0,
+      "ExtraCharge": 184.0
+    },
+    {
+      "Organization": "小国町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "白鷹町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "飯豊町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2310.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "庄内町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 230.0
+    },
+    {
+      "Organization": "遊佐町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2090.0,
+      "ExtraCharge": 319.0
+    },
+    {
+      "Organization": "最上川中部水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 520.0,
+      "ExtraCharge": 170.0
+    },
+    {
+      "Organization": "尾花沢市大石田町環境衛生事業組合（事業会計分）",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 220.0
+    }
+  ],
+  "福島県": [
+    {
+      "Organization": "福島市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1375.0,
+      "ExtraCharge": 141.0
+    },
+    {
+      "Organization": "会津若松市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1496.0,
+      "ExtraCharge": 215.0
+    },
+    {
+      "Organization": "郡山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1166.0,
+      "ExtraCharge": 102.0
+    },
+    {
+      "Organization": "いわき市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1188.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "白河市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 539.0,
+      "ExtraCharge": 68.0
+    },
+    {
+      "Organization": "須賀川市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1575.0,
+      "ExtraCharge": 223.0
+    },
+    {
+      "Organization": "喜多方市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "二本松市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 59.0
+    },
+    {
+      "Organization": "田村市",
+      "BaseAmount": 1.0,
+      "BaseCharge": 1222.0,
+      "ExtraCharge": 112.0
+    },
+    {
+      "Organization": "南相馬市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1199.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "伊達市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 182.0
+    },
+    {
+      "Organization": "本宮市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "桑折町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1408.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "国見町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 253.0
+    },
+    {
+      "Organization": "川俣町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1375.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "大玉村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "鏡石町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "天栄村",
+      "BaseAmount": 20.0,
+      "BaseCharge": 1885.0,
+      "ExtraCharge": 203.0
+    },
+    {
+      "Organization": "南会津町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "西会津町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "猪苗代町",
+      "BaseAmount": 1.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "会津坂下町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2396.0,
+      "ExtraCharge": 217.0
+    },
+    {
+      "Organization": "会津美里町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2508.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "西郷村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "泉崎村",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "矢吹町",
+      "BaseAmount": 1.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "棚倉町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "矢祭町",
+      "BaseAmount": 20.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "塙町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "石川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1639.0,
+      "ExtraCharge": 202.0
+    },
+    {
+      "Organization": "玉川村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "浅川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "三春町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 105.0
+    },
+    {
+      "Organization": "小野町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "浪江町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "双葉地方水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1268.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "相馬地方広域水道企業団",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 83.0
+    }
+  ],
+  "茨城県": [
+    {
+      "Organization": "水戸市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 893.0,
+      "ExtraCharge": 51.0
+    },
+    {
+      "Organization": "日立市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 869.0,
+      "ExtraCharge": 25.0
+    },
+    {
+      "Organization": "土浦市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 495.0,
+      "ExtraCharge": 126.0
+    },
+    {
+      "Organization": "古河市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 605.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "石岡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2346.0,
+      "ExtraCharge": 235.0
+    },
+    {
+      "Organization": "結城市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1331.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "下妻市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 230.0
+    },
+    {
+      "Organization": "常総市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1885.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "常陸太田市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1572.0,
+      "ExtraCharge": 183.0
+    },
+    {
+      "Organization": "高萩市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1232.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "北茨城市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "笠間市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1897.0,
+      "ExtraCharge": 190.0
+    },
+    {
+      "Organization": "つくば市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "ひたちなか市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 27.0
+    },
+    {
+      "Organization": "鹿嶋市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1595.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "潮来市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2035.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "守谷市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 512.0,
+      "ExtraCharge": 127.0
+    },
+    {
+      "Organization": "常陸大宮市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1990.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "那珂市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "筑西市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "坂東市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2120.0,
+      "ExtraCharge": 225.0
+    },
+    {
+      "Organization": "稲敷市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2750.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "かすみがうら市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 2145.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "桜川市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2420.0,
+      "ExtraCharge": 286.0
+    },
+    {
+      "Organization": "神栖市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "行方市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2640.0,
+      "ExtraCharge": 264.0
+    },
+    {
+      "Organization": "鉾田市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2035.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "つくばみらい市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "小美玉市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "茨城町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "大洗町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1166.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "城里町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "東海村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1436.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "大子町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "美浦村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "阿見町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "河内町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2420.0,
+      "ExtraCharge": 253.0
+    },
+    {
+      "Organization": "八千代町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1925.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "五霞町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "境町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "茨城県南水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "湖北水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 110.0
+    }
+  ],
+  "栃木県": [
+    {
+      "Organization": "宇都宮市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 858.0,
+      "ExtraCharge": 24.0
+    },
+    {
+      "Organization": "足利市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 600.0,
+      "ExtraCharge": 118.0
+    },
+    {
+      "Organization": "栃木市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 962.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "佐野市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1047.0,
+      "ExtraCharge": 126.0
+    },
+    {
+      "Organization": "鹿沼市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "日光市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "小山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "真岡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "大田原市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "矢板市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "那須塩原市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 951.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "さくら市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1408.0,
+      "ExtraCharge": 179.0
+    },
+    {
+      "Organization": "那須烏山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 74.0
+    },
+    {
+      "Organization": "下野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 715.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "上三川町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "茂木町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "壬生町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 836.0,
+      "ExtraCharge": 62.0
+    },
+    {
+      "Organization": "野木町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "塩谷町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "高根沢町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1705.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "那須町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "那珂川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "芳賀中部上水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1595.0,
+      "ExtraCharge": 187.0
+    }
+  ],
+  "群馬県": [
+    {
+      "Organization": "前橋市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 122.0
+    },
+    {
+      "Organization": "高崎市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 786.0,
+      "ExtraCharge": 128.0
+    },
+    {
+      "Organization": "桐生市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "伊勢崎市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 759.0,
+      "ExtraCharge": 72.0
+    },
+    {
+      "Organization": "沼田市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "渋川市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1265.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "藤岡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 169.0
+    },
+    {
+      "Organization": "富岡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1111.0,
+      "ExtraCharge": 196.0
+    },
+    {
+      "Organization": "安中市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "榛東村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "吉岡町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "下仁田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1529.0,
+      "ExtraCharge": 189.0
+    },
+    {
+      "Organization": "甘楽町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 125.0
+    },
+    {
+      "Organization": "中之条町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1116.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "嬬恋村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 605.0,
+      "ExtraCharge": 67.0
+    },
+    {
+      "Organization": "草津町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 594.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "東吾妻町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "みなかみ町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "玉村町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 129.0
+    },
+    {
+      "Organization": "群馬東部水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 88.0
+    }
+  ],
+  "埼玉県": [
+    {
+      "Organization": "さいたま市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 979.0,
+      "ExtraCharge": 193.0
+    },
+    {
+      "Organization": "川越市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 275.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "熊谷市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "川口市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1111.0,
+      "ExtraCharge": 174.0
+    },
+    {
+      "Organization": "行田市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "所沢市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 264.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "飯能市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "加須市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 440.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "本庄市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 748.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "東松山市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "春日部市",
+      "BaseAmount": 16.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "狭山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 495.0,
+      "ExtraCharge": 49.0
+    },
+    {
+      "Organization": "羽生市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "鴻巣市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1078.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "深谷市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 50.0
+    },
+    {
+      "Organization": "上尾市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "草加市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "蕨市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 148.0
+    },
+    {
+      "Organization": "戸田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 374.0,
+      "ExtraCharge": 49.0
+    },
+    {
+      "Organization": "入間市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 275.0,
+      "ExtraCharge": 83.0
+    },
+    {
+      "Organization": "朝霞市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 440.0,
+      "ExtraCharge": 61.0
+    },
+    {
+      "Organization": "志木市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 605.0,
+      "ExtraCharge": 97.0
+    },
+    {
+      "Organization": "和光市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 785.0,
+      "ExtraCharge": 104.0
+    },
+    {
+      "Organization": "新座市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 517.0,
+      "ExtraCharge": 63.0
+    },
+    {
+      "Organization": "久喜市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1001.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "八潮市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "富士見市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 127.0
+    },
+    {
+      "Organization": "三郷市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "蓮田市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1276.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "幸手市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "日高市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "吉川市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "ふじみ野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 261.0,
+      "ExtraCharge": 73.0
+    },
+    {
+      "Organization": "白岡市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1199.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "伊奈町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "三芳町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 468.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "毛呂山町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1053.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "越生町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1705.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "滑川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "嵐山町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 83.0
+    },
+    {
+      "Organization": "小川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "川島町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 756.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "吉見町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "鳩山町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 127.0
+    },
+    {
+      "Organization": "ときがわ町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1397.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "美里町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1048.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "神川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 180.0
+    },
+    {
+      "Organization": "上里町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 902.0,
+      "ExtraCharge": 113.0
+    },
+    {
+      "Organization": "寄居町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1281.0,
+      "ExtraCharge": 170.0
+    },
+    {
+      "Organization": "宮代町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1463.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "杉戸町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 715.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "越谷・松伏水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 913.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "桶川北本水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 737.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "坂戸、鶴ケ島水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 572.0,
+      "ExtraCharge": 85.0
+    },
+    {
+      "Organization": "秩父広域市町村圏組合",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1078.0,
+      "ExtraCharge": 77.0
+    }
+  ],
+  "千葉県": [
+    {
+      "Organization": "千葉県",
+      "BaseAmount": 0.0,
+      "BaseCharge": 418.0,
+      "ExtraCharge": 62.0
+    },
+    {
+      "Organization": "千葉市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 410.0,
+      "ExtraCharge": 62.0
+    },
+    {
+      "Organization": "銚子市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1023.0,
+      "ExtraCharge": 170.0
+    },
+    {
+      "Organization": "松戸市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1001.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "野田市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1628.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "成田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 462.0,
+      "ExtraCharge": 63.0
+    },
+    {
+      "Organization": "佐倉市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 572.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "旭市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2310.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "習志野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 583.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "柏市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 506.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "勝浦市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 286.0
+    },
+    {
+      "Organization": "市原市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 418.0,
+      "ExtraCharge": 63.0
+    },
+    {
+      "Organization": "流山市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1056.0,
+      "ExtraCharge": 15.0
+    },
+    {
+      "Organization": "八千代市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "我孫子市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 979.0,
+      "ExtraCharge": 24.0
+    },
+    {
+      "Organization": "鴨川市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1661.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "四街道市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 330.0,
+      "ExtraCharge": 90.0
+    },
+    {
+      "Organization": "八街市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 671.0,
+      "ExtraCharge": 141.0
+    },
+    {
+      "Organization": "印西市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "白井市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 847.0,
+      "ExtraCharge": 114.0
+    },
+    {
+      "Organization": "富里市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2068.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "南房総市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 810.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "香取市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "山武市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 352.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "いすみ市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "酒々井町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 105.0
+    },
+    {
+      "Organization": "神崎町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "多古町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "東庄町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2310.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "大多喜町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1815.0,
+      "ExtraCharge": 259.0
+    },
+    {
+      "Organization": "御宿町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2310.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "鋸南町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1896.0,
+      "ExtraCharge": 245.0
+    },
+    {
+      "Organization": "三芳水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 811.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "長門川水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "八匝水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2266.0,
+      "ExtraCharge": 226.0
+    },
+    {
+      "Organization": "山武郡市広域水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1661.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "長生郡市広域市町村圏組合（事業会計分）",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1468.0,
+      "ExtraCharge": 189.0
+    },
+    {
+      "Organization": "かずさ水道広域連合企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 105.0
+    }
+  ],
+  "東京都": [
+    {
+      "Organization": "東京都",
+      "BaseAmount": 5.0,
+      "BaseCharge": 946.0,
+      "ExtraCharge": 24.0
+    },
+    {
+      "Organization": "武蔵野市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 926.0,
+      "ExtraCharge": 24.0
+    },
+    {
+      "Organization": "昭島市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 528.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "羽村市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 572.0,
+      "ExtraCharge": 33.0
+    },
+    {
+      "Organization": "大島町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 159.0
+    },
+    {
+      "Organization": "八丈町",
+      "BaseAmount": 1.0,
+      "BaseCharge": 121.0,
+      "ExtraCharge": 160.0
+    }
+  ],
+  "神奈川県": [
+    {
+      "Organization": "神奈川県",
+      "BaseAmount": 8.0,
+      "BaseCharge": 781.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "横浜市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 4.0
+    },
+    {
+      "Organization": "川崎市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 583.0,
+      "ExtraCharge": 104.0
+    },
+    {
+      "Organization": "横須賀市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 979.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "小田原市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 902.0,
+      "ExtraCharge": 16.0
+    },
+    {
+      "Organization": "三浦市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1177.0,
+      "ExtraCharge": 190.0
+    },
+    {
+      "Organization": "秦野市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 748.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "座間市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 836.0,
+      "ExtraCharge": 117.0
+    },
+    {
+      "Organization": "南足柄市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "中井町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "大井町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 913.0,
+      "ExtraCharge": 16.0
+    },
+    {
+      "Organization": "松田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 715.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "山北町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 682.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "開成町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 93.0
+    },
+    {
+      "Organization": "箱根町",
+      "BaseAmount": 20.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "真鶴町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1547.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "湯河原町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 851.0,
+      "ExtraCharge": 92.0
+    },
+    {
+      "Organization": "愛川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 839.0,
+      "ExtraCharge": 123.0
+    }
+  ],
+  "新潟県": [
+    {
+      "Organization": "新潟市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 40.0
+    },
+    {
+      "Organization": "長岡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1188.0,
+      "ExtraCharge": 181.0
+    },
+    {
+      "Organization": "三条市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1001.0,
+      "ExtraCharge": 174.0
+    },
+    {
+      "Organization": "柏崎市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 803.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "新発田市",
+      "BaseAmount": 3.0,
+      "BaseCharge": 979.0,
+      "ExtraCharge": 96.0
+    },
+    {
+      "Organization": "小千谷市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1595.0,
+      "ExtraCharge": 173.0
+    },
+    {
+      "Organization": "加茂市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 147.0
+    },
+    {
+      "Organization": "十日町市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 215.0
+    },
+    {
+      "Organization": "見附市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1265.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "村上市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "糸魚川市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 781.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "妙高市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 185.0
+    },
+    {
+      "Organization": "五泉市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 146.0
+    },
+    {
+      "Organization": "上越市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1232.0,
+      "ExtraCharge": 56.0
+    },
+    {
+      "Organization": "阿賀野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "佐渡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1886.0,
+      "ExtraCharge": 259.0
+    },
+    {
+      "Organization": "魚沼市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 52.0
+    },
+    {
+      "Organization": "南魚沼市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2460.0,
+      "ExtraCharge": 246.0
+    },
+    {
+      "Organization": "胎内市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1925.0,
+      "ExtraCharge": 204.0
+    },
+    {
+      "Organization": "聖籠町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1958.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "田上町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1264.0,
+      "ExtraCharge": 184.0
+    },
+    {
+      "Organization": "阿賀町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2134.0,
+      "ExtraCharge": 280.0
+    },
+    {
+      "Organization": "湯沢町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 22.0
+    },
+    {
+      "Organization": "燕・弥彦総合事務組合",
+      "BaseAmount": 0.0,
+      "BaseCharge": 363.0,
+      "ExtraCharge": 144.0
+    }
+  ],
+  "富山県": [
+    {
+      "Organization": "富山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 440.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "高岡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1337.0,
+      "ExtraCharge": 210.0
+    },
+    {
+      "Organization": "魚津市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 948.0,
+      "ExtraCharge": 202.0
+    },
+    {
+      "Organization": "氷見市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1644.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "滑川市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "黒部市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 804.0,
+      "ExtraCharge": 80.0
+    },
+    {
+      "Organization": "砺波市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 49.0
+    },
+    {
+      "Organization": "小矢部市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1782.0,
+      "ExtraCharge": 178.0
+    },
+    {
+      "Organization": "南砺市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1595.0,
+      "ExtraCharge": 159.0
+    },
+    {
+      "Organization": "射水市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "上市町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "立山町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1557.0,
+      "ExtraCharge": 179.0
+    }
+  ],
+  "石川県": [
+    {
+      "Organization": "金沢市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "七尾市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 828.0,
+      "ExtraCharge": 130.0
+    },
+    {
+      "Organization": "小松市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1375.0,
+      "ExtraCharge": 141.0
+    },
+    {
+      "Organization": "輪島市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1780.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "珠洲市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2420.0,
+      "ExtraCharge": 286.0
+    },
+    {
+      "Organization": "加賀市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1144.0,
+      "ExtraCharge": 157.0
+    },
+    {
+      "Organization": "羽咋市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1826.0,
+      "ExtraCharge": 201.0
+    },
+    {
+      "Organization": "かほく市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1342.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "白山市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 900.0,
+      "ExtraCharge": 104.0
+    },
+    {
+      "Organization": "能美市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 330.0,
+      "ExtraCharge": 116.0
+    },
+    {
+      "Organization": "野々市市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 136.0
+    },
+    {
+      "Organization": "津幡町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 148.0
+    },
+    {
+      "Organization": "内灘町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1012.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "志賀町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "宝達志水町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2116.0,
+      "ExtraCharge": 211.0
+    },
+    {
+      "Organization": "中能登町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1375.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "穴水町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 253.0
+    },
+    {
+      "Organization": "能登町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2540.0,
+      "ExtraCharge": 280.0
+    }
+  ],
+  "福井県": [
+    {
+      "Organization": "福井市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1023.0,
+      "ExtraCharge": 15.0
+    },
+    {
+      "Organization": "敦賀市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1056.0,
+      "ExtraCharge": 4.0
+    },
+    {
+      "Organization": "小浜市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "大野市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 182.0
+    },
+    {
+      "Organization": "勝山市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1265.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "鯖江市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "あわら市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 181.0
+    },
+    {
+      "Organization": "越前市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "坂井市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "永平寺町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "南越前町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1485.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "越前町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "美浜町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "高浜町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "若狭町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 286.0
+    }
+  ],
+  "山梨県": [
+    {
+      "Organization": "甲府市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 64.0
+    },
+    {
+      "Organization": "富士吉田市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 780.0,
+      "ExtraCharge": 74.0
+    },
+    {
+      "Organization": "都留市",
+      "BaseAmount": 20.0,
+      "BaseCharge": 2101.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "山梨市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1353.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "韮崎市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1199.0,
+      "ExtraCharge": 150.0
+    },
+    {
+      "Organization": "南アルプス市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1298.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "北杜市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1040.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "甲斐市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 946.0,
+      "ExtraCharge": 141.0
+    },
+    {
+      "Organization": "笛吹市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1234.0,
+      "ExtraCharge": 150.0
+    },
+    {
+      "Organization": "甲州市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "中央市",
+      "BaseAmount": 20.0,
+      "BaseCharge": 2545.0,
+      "ExtraCharge": 117.0
+    },
+    {
+      "Organization": "市川三郷町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "富士川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "忍野村",
+      "BaseAmount": 20.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "富士河口湖町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 572.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "東部地域広域水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1463.0,
+      "ExtraCharge": 217.0
+    }
+  ],
+  "長野県": [
+    {
+      "Organization": "長野県",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1413.0,
+      "ExtraCharge": 190.0
+    },
+    {
+      "Organization": "長野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1199.0,
+      "ExtraCharge": 68.0
+    },
+    {
+      "Organization": "松本市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 858.0,
+      "ExtraCharge": 71.0
+    },
+    {
+      "Organization": "上田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 712.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "岡谷市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1298.0,
+      "ExtraCharge": 48.0
+    },
+    {
+      "Organization": "飯田市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1116.0,
+      "ExtraCharge": 155.0
+    },
+    {
+      "Organization": "諏訪市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 862.0,
+      "ExtraCharge": 111.0
+    },
+    {
+      "Organization": "須坂市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 590.0,
+      "ExtraCharge": 95.0
+    },
+    {
+      "Organization": "小諸市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "伊那市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 122.0
+    },
+    {
+      "Organization": "駒ケ根市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 858.0,
+      "ExtraCharge": 112.0
+    },
+    {
+      "Organization": "中野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 528.0,
+      "ExtraCharge": 69.0
+    },
+    {
+      "Organization": "大町市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "飯山市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1990.0,
+      "ExtraCharge": 230.0
+    },
+    {
+      "Organization": "茅野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "塩尻市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "千曲市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1413.0,
+      "ExtraCharge": 190.0
+    },
+    {
+      "Organization": "東御市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "安曇野市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1436.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "小海町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "軽井沢町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 126.0
+    },
+    {
+      "Organization": "御代田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1512.0,
+      "ExtraCharge": 162.0
+    },
+    {
+      "Organization": "立科町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "長和町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1067.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "下諏訪町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 564.0,
+      "ExtraCharge": 26.0
+    },
+    {
+      "Organization": "富士見町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "原村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "辰野町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 576.0,
+      "ExtraCharge": 81.0
+    },
+    {
+      "Organization": "箕輪町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1628.0,
+      "ExtraCharge": 108.0
+    },
+    {
+      "Organization": "飯島町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 138.0
+    },
+    {
+      "Organization": "南箕輪村",
+      "BaseAmount": 0.0,
+      "BaseCharge": 599.0,
+      "ExtraCharge": 103.0
+    },
+    {
+      "Organization": "中川村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 117.0
+    },
+    {
+      "Organization": "宮田村",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "松川町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1538.0,
+      "ExtraCharge": 182.0
+    },
+    {
+      "Organization": "高森町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1471.0,
+      "ExtraCharge": 199.0
+    },
+    {
+      "Organization": "阿智村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1133.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "喬木村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1513.0,
+      "ExtraCharge": 168.0
+    },
+    {
+      "Organization": "豊丘村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 150.0
+    },
+    {
+      "Organization": "木曽町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "山形村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "池田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1728.0,
+      "ExtraCharge": 267.0
+    },
+    {
+      "Organization": "松川村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "白馬村",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "小布施町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1034.0,
+      "ExtraCharge": 170.0
+    },
+    {
+      "Organization": "高山村",
+      "BaseAmount": 0.0,
+      "BaseCharge": 385.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "山ノ内町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1356.0,
+      "ExtraCharge": 69.0
+    },
+    {
+      "Organization": "木島平村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 214.0
+    },
+    {
+      "Organization": "野沢温泉村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1019.0,
+      "ExtraCharge": 102.0
+    },
+    {
+      "Organization": "信濃町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "飯綱町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1350.0,
+      "ExtraCharge": 172.0
+    },
+    {
+      "Organization": "佐久水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 110.0
+    }
+  ],
+  "岐阜県": [
+    {
+      "Organization": "岐阜市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 753.0,
+      "ExtraCharge": 5.0
+    },
+    {
+      "Organization": "大垣市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 90.0
+    },
+    {
+      "Organization": "高山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "多治見市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 704.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "関市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 616.0,
+      "ExtraCharge": 22.0
+    },
+    {
+      "Organization": "中津川市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "美濃市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "瑞浪市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "羽島市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 940.0,
+      "ExtraCharge": 104.0
+    },
+    {
+      "Organization": "恵那市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1375.0,
+      "ExtraCharge": 83.0
+    },
+    {
+      "Organization": "美濃加茂市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1925.0,
+      "ExtraCharge": 193.0
+    },
+    {
+      "Organization": "土岐市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "各務原市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 781.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "可児市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 583.0,
+      "ExtraCharge": 116.0
+    },
+    {
+      "Organization": "山県市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "瑞穂市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "飛騨市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "本巣市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 104.0
+    },
+    {
+      "Organization": "郡上市",
+      "BaseAmount": 20.0,
+      "BaseCharge": 2640.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "下呂市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1173.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "海津市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "岐南町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 645.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "笠松町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 641.0,
+      "ExtraCharge": 91.0
+    },
+    {
+      "Organization": "養老町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 148.0
+    },
+    {
+      "Organization": "垂井町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 960.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "関ケ原町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "神戸町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "輪之内町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "安八町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 70.0
+    },
+    {
+      "Organization": "揖斐川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "大野町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "池田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "北方町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "坂祝町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2130.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "富加町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1914.0,
+      "ExtraCharge": 182.0
+    },
+    {
+      "Organization": "川辺町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2095.0,
+      "ExtraCharge": 192.0
+    },
+    {
+      "Organization": "八百津町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2233.0,
+      "ExtraCharge": 223.0
+    },
+    {
+      "Organization": "御嵩町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1089.0,
+      "ExtraCharge": 79.0
+    }
+  ],
+  "静岡県": [
+    {
+      "Organization": "静岡市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "浜松市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "沼津市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 460.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "熱海市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1255.0,
+      "ExtraCharge": 136.0
+    },
+    {
+      "Organization": "三島市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 940.0,
+      "ExtraCharge": 120.0
+    },
+    {
+      "Organization": "富士宮市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "伊東市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1037.0,
+      "ExtraCharge": 146.0
+    },
+    {
+      "Organization": "島田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 16.0
+    },
+    {
+      "Organization": "富士市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 979.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "磐田市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 92.0
+    },
+    {
+      "Organization": "焼津市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 748.0,
+      "ExtraCharge": 103.0
+    },
+    {
+      "Organization": "掛川市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 183.0
+    },
+    {
+      "Organization": "藤枝市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1056.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "御殿場市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1020.0,
+      "ExtraCharge": 129.0
+    },
+    {
+      "Organization": "袋井市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 726.0,
+      "ExtraCharge": 158.0
+    },
+    {
+      "Organization": "下田市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1166.0,
+      "ExtraCharge": 148.0
+    },
+    {
+      "Organization": "裾野市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 149.0
+    },
+    {
+      "Organization": "湖西市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 138.0
+    },
+    {
+      "Organization": "伊豆市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 655.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "御前崎市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "菊川市",
+      "BaseAmount": 16.0,
+      "BaseCharge": 2514.0,
+      "ExtraCharge": 199.0
+    },
+    {
+      "Organization": "伊豆の国市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 56.0
+    },
+    {
+      "Organization": "牧之原市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 193.0
+    },
+    {
+      "Organization": "東伊豆町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 141.0
+    },
+    {
+      "Organization": "河津町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "南伊豆町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "松崎町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1212.0,
+      "ExtraCharge": 142.0
+    },
+    {
+      "Organization": "西伊豆町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "函南町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 126.0
+    },
+    {
+      "Organization": "長泉町",
+      "BaseAmount": 20.0,
+      "BaseCharge": 1140.0,
+      "ExtraCharge": 58.0
+    },
+    {
+      "Organization": "小山町",
+      "BaseAmount": 13.0,
+      "BaseCharge": 500.0,
+      "ExtraCharge": 90.0
+    },
+    {
+      "Organization": "吉田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 116.0
+    },
+    {
+      "Organization": "森町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "大井上水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 141.0
+    }
+  ],
+  "愛知県": [
+    {
+      "Organization": "名古屋市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 687.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "豊橋市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 583.0,
+      "ExtraCharge": 61.0
+    },
+    {
+      "Organization": "岡崎市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 572.0,
+      "ExtraCharge": 72.0
+    },
+    {
+      "Organization": "一宮市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 666.0,
+      "ExtraCharge": 125.0
+    },
+    {
+      "Organization": "瀬戸市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1073.0,
+      "ExtraCharge": 171.0
+    },
+    {
+      "Organization": "半田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 560.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "春日井市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 20.0
+    },
+    {
+      "Organization": "豊川市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 49.0
+    },
+    {
+      "Organization": "津島市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 863.0,
+      "ExtraCharge": 71.0
+    },
+    {
+      "Organization": "碧南市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 38.0
+    },
+    {
+      "Organization": "刈谷市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 539.0,
+      "ExtraCharge": 61.0
+    },
+    {
+      "Organization": "豊田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 979.0,
+      "ExtraCharge": 89.0
+    },
+    {
+      "Organization": "安城市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "西尾市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 605.0,
+      "ExtraCharge": 48.0
+    },
+    {
+      "Organization": "蒲郡市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 583.0,
+      "ExtraCharge": 67.0
+    },
+    {
+      "Organization": "犬山市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 500.0,
+      "ExtraCharge": 39.0
+    },
+    {
+      "Organization": "常滑市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 440.0,
+      "ExtraCharge": 80.0
+    },
+    {
+      "Organization": "江南市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 605.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "小牧市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "稲沢市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "新城市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 814.0,
+      "ExtraCharge": 83.0
+    },
+    {
+      "Organization": "東海市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 63.0
+    },
+    {
+      "Organization": "大府市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "知多市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 495.0,
+      "ExtraCharge": 71.0
+    },
+    {
+      "Organization": "知立市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 616.0,
+      "ExtraCharge": 73.0
+    },
+    {
+      "Organization": "尾張旭市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "高浜市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 605.0,
+      "ExtraCharge": 36.0
+    },
+    {
+      "Organization": "岩倉市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "田原市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "愛西市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 149.0
+    },
+    {
+      "Organization": "清須市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 687.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "あま市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "蟹江町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1265.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "阿久比町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 148.0
+    },
+    {
+      "Organization": "東浦町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 429.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "南知多町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1362.0,
+      "ExtraCharge": 155.0
+    },
+    {
+      "Organization": "美浜町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 530.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "武豊町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "幸田町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "海部南部水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "北名古屋水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "丹羽広域事務組合（事業会計分）",
+      "BaseAmount": 0.0,
+      "BaseCharge": 418.0,
+      "ExtraCharge": 41.0
+    },
+    {
+      "Organization": "愛知中部水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 45.0
+    }
+  ],
+  "三重県": [
+    {
+      "Organization": "津市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 528.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "四日市市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 946.0,
+      "ExtraCharge": 22.0
+    },
+    {
+      "Organization": "伊勢市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 917.0,
+      "ExtraCharge": 69.0
+    },
+    {
+      "Organization": "松阪市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 440.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "桑名市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "鈴鹿市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "名張市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 127.0
+    },
+    {
+      "Organization": "尾鷲市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "亀山市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 726.0,
+      "ExtraCharge": 100.0
+    },
+    {
+      "Organization": "鳥羽市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "熊野市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "いなべ市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 33.0
+    },
+    {
+      "Organization": "志摩市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1408.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "伊賀市",
+      "BaseAmount": 1.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "木曽岬町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "東員町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 675.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "菰野町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1782.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "朝日町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 946.0,
+      "ExtraCharge": 40.0
+    },
+    {
+      "Organization": "川越町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 762.0,
+      "ExtraCharge": 12.0
+    },
+    {
+      "Organization": "多気町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "明和町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1150.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "大台町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "玉城町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 509.0,
+      "ExtraCharge": 102.0
+    },
+    {
+      "Organization": "度会町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1150.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "大紀町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1350.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "南伊勢町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "紀北町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "御浜町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1391.0,
+      "ExtraCharge": 177.0
+    },
+    {
+      "Organization": "紀宝町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1360.0,
+      "ExtraCharge": 170.0
+    }
+  ],
+  "滋賀県": [
+    {
+      "Organization": "大津市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1111.0,
+      "ExtraCharge": 6.0
+    },
+    {
+      "Organization": "彦根市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "近江八幡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1331.0,
+      "ExtraCharge": 172.0
+    },
+    {
+      "Organization": "草津市",
+      "BaseAmount": 20.0,
+      "BaseCharge": 2090.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "守山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 288.0,
+      "ExtraCharge": 96.0
+    },
+    {
+      "Organization": "栗東市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1089.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "甲賀市",
+      "BaseAmount": 20.0,
+      "BaseCharge": 2838.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "野洲市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 462.0,
+      "ExtraCharge": 75.0
+    },
+    {
+      "Organization": "湖南市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 69.0
+    },
+    {
+      "Organization": "高島市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "東近江市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1720.0,
+      "ExtraCharge": 173.0
+    },
+    {
+      "Organization": "米原市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 440.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "日野町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "竜王町",
+      "BaseAmount": 15.0,
+      "BaseCharge": 3350.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "豊郷町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "甲良町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "多賀町",
+      "BaseAmount": 1.0,
+      "BaseCharge": 440.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "長浜水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1257.0,
+      "ExtraCharge": 157.0
+    },
+    {
+      "Organization": "愛知郡広域行政組合（事業会計分）",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1360.0,
+      "ExtraCharge": 105.0
+    }
+  ],
+  "京都府": [
+    {
+      "Organization": "京都市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1012.0,
+      "ExtraCharge": 10.0
+    },
+    {
+      "Organization": "福知山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1034.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "舞鶴市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 704.0,
+      "ExtraCharge": 92.0
+    },
+    {
+      "Organization": "綾部市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1265.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "宇治市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1001.0,
+      "ExtraCharge": 157.0
+    },
+    {
+      "Organization": "宮津市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1900.0,
+      "ExtraCharge": 21.0
+    },
+    {
+      "Organization": "亀岡市",
+      "BaseAmount": 20.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "城陽市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "向日市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 60.0
+    },
+    {
+      "Organization": "長岡京市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1111.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "八幡市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 869.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "京田辺市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 608.0,
+      "ExtraCharge": 30.0
+    },
+    {
+      "Organization": "京丹後市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1009.0,
+      "ExtraCharge": 180.0
+    },
+    {
+      "Organization": "南丹市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "木津川市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "大山崎町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 33.0
+    },
+    {
+      "Organization": "久御山町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "井手町",
+      "BaseAmount": 3.0,
+      "BaseCharge": 543.0,
+      "ExtraCharge": 80.0
+    },
+    {
+      "Organization": "宇治田原町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 847.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "精華町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 786.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "京丹波町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2750.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "与謝野町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1571.0,
+      "ExtraCharge": 179.0
+    }
+  ],
+  "大阪府": [
+    {
+      "Organization": "大阪市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "堺市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 715.0,
+      "ExtraCharge": 40.0
+    },
+    {
+      "Organization": "岸和田市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 638.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "豊中市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 836.0,
+      "ExtraCharge": 22.0
+    },
+    {
+      "Organization": "池田市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 781.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "吹田市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1089.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "泉大津市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 466.0,
+      "ExtraCharge": 41.0
+    },
+    {
+      "Organization": "高槻市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 759.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "貝塚市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1034.0,
+      "ExtraCharge": 138.0
+    },
+    {
+      "Organization": "守口市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 810.0,
+      "ExtraCharge": 111.0
+    },
+    {
+      "Organization": "枚方市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 726.0,
+      "ExtraCharge": 4.0
+    },
+    {
+      "Organization": "茨木市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 61.0
+    },
+    {
+      "Organization": "八尾市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 37.0
+    },
+    {
+      "Organization": "泉佐野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "富田林市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 796.0,
+      "ExtraCharge": 168.0
+    },
+    {
+      "Organization": "寝屋川市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1060.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "河内長野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 720.0,
+      "ExtraCharge": 40.0
+    },
+    {
+      "Organization": "松原市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 726.0,
+      "ExtraCharge": 41.0
+    },
+    {
+      "Organization": "大東市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "和泉市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 50.0
+    },
+    {
+      "Organization": "箕面市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 754.0,
+      "ExtraCharge": 138.0
+    },
+    {
+      "Organization": "柏原市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 704.0,
+      "ExtraCharge": 64.0
+    },
+    {
+      "Organization": "羽曳野市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 698.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "門真市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 985.0,
+      "ExtraCharge": 174.0
+    },
+    {
+      "Organization": "摂津市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 748.0,
+      "ExtraCharge": 64.0
+    },
+    {
+      "Organization": "高石市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 500.0,
+      "ExtraCharge": 42.0
+    },
+    {
+      "Organization": "東大阪市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 668.0,
+      "ExtraCharge": 108.0
+    },
+    {
+      "Organization": "交野市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 847.0,
+      "ExtraCharge": 136.0
+    },
+    {
+      "Organization": "島本町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 726.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "能勢町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1892.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "大阪広域水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 33.0
+    }
+  ],
+  "兵庫県": [
+    {
+      "Organization": "神戸市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 160.0
+    },
+    {
+      "Organization": "姫路市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1005.0,
+      "ExtraCharge": 5.0
+    },
+    {
+      "Organization": "尼崎市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 605.0,
+      "ExtraCharge": 49.0
+    },
+    {
+      "Organization": "明石市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 957.0,
+      "ExtraCharge": 10.0
+    },
+    {
+      "Organization": "西宮市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 918.0,
+      "ExtraCharge": 15.0
+    },
+    {
+      "Organization": "芦屋市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "伊丹市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 451.0,
+      "ExtraCharge": 38.0
+    },
+    {
+      "Organization": "豊岡市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 704.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "加古川市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 929.0,
+      "ExtraCharge": 36.0
+    },
+    {
+      "Organization": "赤穂市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 374.0,
+      "ExtraCharge": 49.0
+    },
+    {
+      "Organization": "西脇市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2035.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "宝塚市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 22.0
+    },
+    {
+      "Organization": "三木市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "高砂市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 583.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "川西市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "小野市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1298.0,
+      "ExtraCharge": 145.0
+    },
+    {
+      "Organization": "三田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 16.0
+    },
+    {
+      "Organization": "加西市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 775.0,
+      "ExtraCharge": 155.0
+    },
+    {
+      "Organization": "丹波篠山市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1722.0,
+      "ExtraCharge": 297.0
+    },
+    {
+      "Organization": "養父市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1720.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "丹波市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1393.0,
+      "ExtraCharge": 185.0
+    },
+    {
+      "Organization": "朝来市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1280.0,
+      "ExtraCharge": 160.0
+    },
+    {
+      "Organization": "宍粟市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "加東市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 139.0
+    },
+    {
+      "Organization": "たつの市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "猪名川町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "多可町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "稲美町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 155.0
+    },
+    {
+      "Organization": "播磨町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 440.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "市川町",
+      "BaseAmount": 7.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 150.0
+    },
+    {
+      "Organization": "福崎町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "神河町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1892.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "太子町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "上郡町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "香美町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 715.0,
+      "ExtraCharge": 63.0
+    },
+    {
+      "Organization": "新温泉町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "西播磨水道企業団",
+      "BaseAmount": 5.0,
+      "BaseCharge": 597.0,
+      "ExtraCharge": 47.0
+    },
+    {
+      "Organization": "淡路広域水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "播磨高原広域事務組合（事業会計分）",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 154.0
+    }
+  ],
+  "奈良県": [
+    {
+      "Organization": "奈良市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1023.0,
+      "ExtraCharge": 170.0
+    },
+    {
+      "Organization": "大和高田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 484.0,
+      "ExtraCharge": 160.0
+    },
+    {
+      "Organization": "大和郡山市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1287.0,
+      "ExtraCharge": 171.0
+    },
+    {
+      "Organization": "天理市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1089.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "橿原市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 297.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "桜井市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1276.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "五條市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1727.0,
+      "ExtraCharge": 204.0
+    },
+    {
+      "Organization": "御所市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1195.0,
+      "ExtraCharge": 190.0
+    },
+    {
+      "Organization": "生駒市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 190.0
+    },
+    {
+      "Organization": "香芝市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "葛城市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 520.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "宇陀市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1562.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "平群町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "三郷町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "斑鳩町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 605.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "安堵町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 90.0
+    },
+    {
+      "Organization": "川西町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 640.0,
+      "ExtraCharge": 180.0
+    },
+    {
+      "Organization": "三宅町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "田原本町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "高取町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 230.0
+    },
+    {
+      "Organization": "明日香村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1955.0,
+      "ExtraCharge": 195.0
+    },
+    {
+      "Organization": "上牧町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "王寺町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 126.0
+    },
+    {
+      "Organization": "広陵町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 713.0,
+      "ExtraCharge": 148.0
+    },
+    {
+      "Organization": "河合町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "吉野町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1265.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "大淀町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "下市町",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 242.0
+    }
+  ],
+  "和歌山県": [
+    {
+      "Organization": "和歌山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 22.0
+    },
+    {
+      "Organization": "海南市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1397.0,
+      "ExtraCharge": 139.0
+    },
+    {
+      "Organization": "橋本市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "有田市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "御坊市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "田辺市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "新宮市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "紀の川市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1258.0,
+      "ExtraCharge": 47.0
+    },
+    {
+      "Organization": "岩出市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "かつらぎ町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1353.0,
+      "ExtraCharge": 194.0
+    },
+    {
+      "Organization": "高野町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1800.0,
+      "ExtraCharge": 225.0
+    },
+    {
+      "Organization": "湯浅町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 972.0,
+      "ExtraCharge": 123.0
+    },
+    {
+      "Organization": "有田川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "美浜町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 126.0
+    },
+    {
+      "Organization": "日高町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1678.0,
+      "ExtraCharge": 195.0
+    },
+    {
+      "Organization": "由良町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 215.0
+    },
+    {
+      "Organization": "印南町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 134.0
+    },
+    {
+      "Organization": "みなべ町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 753.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "日高川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1050.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "白浜町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 70.0
+    },
+    {
+      "Organization": "上富田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 104.0
+    },
+    {
+      "Organization": "すさみ町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "那智勝浦町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "串本町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1048.0,
+      "ExtraCharge": 199.0
+    }
+  ],
+  "鳥取県": [
+    {
+      "Organization": "鳥取市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 57.0
+    },
+    {
+      "Organization": "米子市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 902.0,
+      "ExtraCharge": 111.0
+    },
+    {
+      "Organization": "倉吉市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 737.0,
+      "ExtraCharge": 127.0
+    },
+    {
+      "Organization": "岩美町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 715.0,
+      "ExtraCharge": 127.0
+    },
+    {
+      "Organization": "智頭町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2090.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "三朝町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "湯梨浜町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "琴浦町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1188.0,
+      "ExtraCharge": 191.0
+    },
+    {
+      "Organization": "北栄町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 170.0
+    },
+    {
+      "Organization": "大山町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "南部町",
+      "BaseAmount": 6.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 128.0
+    },
+    {
+      "Organization": "伯耆町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 110.0
+    }
+  ],
+  "島根県": [
+    {
+      "Organization": "松江市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 74.0
+    },
+    {
+      "Organization": "浜田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "出雲市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1276.0,
+      "ExtraCharge": 166.0
+    },
+    {
+      "Organization": "益田市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "大田市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1705.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "安来市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1375.0,
+      "ExtraCharge": 171.0
+    },
+    {
+      "Organization": "江津市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "雲南市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1496.0,
+      "ExtraCharge": 207.0
+    },
+    {
+      "Organization": "奥出雲町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1420.0,
+      "ExtraCharge": 177.0
+    },
+    {
+      "Organization": "邑南町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1223.0,
+      "ExtraCharge": 92.0
+    },
+    {
+      "Organization": "津和野町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "吉賀町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 81.0
+    },
+    {
+      "Organization": "隠岐の島町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1189.0,
+      "ExtraCharge": 286.0
+    },
+    {
+      "Organization": "斐川宍道水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1034.0,
+      "ExtraCharge": 138.0
+    }
+  ],
+  "岡山県": [
+    {
+      "Organization": "岡山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 737.0,
+      "ExtraCharge": 33.0
+    },
+    {
+      "Organization": "倉敷市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "津山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 83.0
+    },
+    {
+      "Organization": "玉野市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "笠岡市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "井原市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "総社市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "高梁市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2090.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "新見市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "備前市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "瀬戸内市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1056.0,
+      "ExtraCharge": 187.0
+    },
+    {
+      "Organization": "赤磐市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1530.0,
+      "ExtraCharge": 183.0
+    },
+    {
+      "Organization": "真庭市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "美作市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1254.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "浅口市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "和気町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1004.0,
+      "ExtraCharge": 134.0
+    },
+    {
+      "Organization": "早島町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 847.0,
+      "ExtraCharge": 113.0
+    },
+    {
+      "Organization": "里庄町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "矢掛町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 171.0
+    },
+    {
+      "Organization": "鏡野町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "勝央町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "奈義町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "美咲町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "吉備中央町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1672.0,
+      "ExtraCharge": 214.0
+    }
+  ],
+  "広島県": [
+    {
+      "Organization": "広島市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 836.0,
+      "ExtraCharge": 5.0
+    },
+    {
+      "Organization": "呉市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1254.0,
+      "ExtraCharge": 24.0
+    },
+    {
+      "Organization": "竹原市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 748.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "三原市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1518.0,
+      "ExtraCharge": 49.0
+    },
+    {
+      "Organization": "尾道市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1023.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "福山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 792.0,
+      "ExtraCharge": 22.0
+    },
+    {
+      "Organization": "府中市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 248.0
+    },
+    {
+      "Organization": "三次市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1336.0,
+      "ExtraCharge": 188.0
+    },
+    {
+      "Organization": "庄原市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1425.0,
+      "ExtraCharge": 189.0
+    },
+    {
+      "Organization": "大竹市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 638.0,
+      "ExtraCharge": 147.0
+    },
+    {
+      "Organization": "東広島市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1739.0,
+      "ExtraCharge": 226.0
+    },
+    {
+      "Organization": "廿日市市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1281.0,
+      "ExtraCharge": 169.0
+    },
+    {
+      "Organization": "安芸高田市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1386.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "江田島市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1705.0,
+      "ExtraCharge": 269.0
+    },
+    {
+      "Organization": "海田町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 745.0,
+      "ExtraCharge": 12.0
+    },
+    {
+      "Organization": "熊野町",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 238.0
+    },
+    {
+      "Organization": "北広島町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1633.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "大崎上島町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "世羅町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 187.0
+    }
+  ],
+  "山口県": [
+    {
+      "Organization": "下関市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1143.0,
+      "ExtraCharge": 10.0
+    },
+    {
+      "Organization": "宇部市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1243.0,
+      "ExtraCharge": 185.0
+    },
+    {
+      "Organization": "山口市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1056.0,
+      "ExtraCharge": 22.0
+    },
+    {
+      "Organization": "萩市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "防府市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1056.0,
+      "ExtraCharge": 16.0
+    },
+    {
+      "Organization": "下松市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 748.0,
+      "ExtraCharge": 74.0
+    },
+    {
+      "Organization": "岩国市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 440.0,
+      "ExtraCharge": 33.0
+    },
+    {
+      "Organization": "光市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 572.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "長門市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 138.0
+    },
+    {
+      "Organization": "柳井市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "美祢市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1133.0,
+      "ExtraCharge": 15.0
+    },
+    {
+      "Organization": "周南市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "山陽小野田市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1188.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "周防大島町",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1152.0,
+      "ExtraCharge": 262.0
+    },
+    {
+      "Organization": "田布施・平生水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1584.0,
+      "ExtraCharge": 253.0
+    }
+  ],
+  "徳島県": [
+    {
+      "Organization": "徳島市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 648.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "鳴門市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 308.0,
+      "ExtraCharge": 92.0
+    },
+    {
+      "Organization": "小松島市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 156.0
+    },
+    {
+      "Organization": "阿南市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "吉野川市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1044.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "阿波市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "美馬市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "三好市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "石井町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2035.0,
+      "ExtraCharge": 215.0
+    },
+    {
+      "Organization": "美波町",
+      "BaseAmount": 7.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "海陽町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 130.0
+    },
+    {
+      "Organization": "松茂町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "北島町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1040.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "藍住町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 520.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "板野町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "上板町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1050.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "つるぎ町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1705.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "東みよし町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 150.0
+    }
+  ],
+  "香川県": [
+    {
+      "Organization": "香川県広域水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 44.0
+    }
+  ],
+  "愛媛県": [
+    {
+      "Organization": "松山市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 785.0,
+      "ExtraCharge": 39.0
+    },
+    {
+      "Organization": "今治市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1123.0,
+      "ExtraCharge": 38.0
+    },
+    {
+      "Organization": "宇和島市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1573.0,
+      "ExtraCharge": 272.0
+    },
+    {
+      "Organization": "八幡浜市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "新居浜市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 918.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "西条市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "大洲市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "伊予市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1010.0,
+      "ExtraCharge": 130.0
+    },
+    {
+      "Organization": "四国中央市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1490.0,
+      "ExtraCharge": 181.0
+    },
+    {
+      "Organization": "西予市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "東温市",
+      "BaseAmount": 1.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 80.0
+    },
+    {
+      "Organization": "上島町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2805.0,
+      "ExtraCharge": 297.0
+    },
+    {
+      "Organization": "松前町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 792.0,
+      "ExtraCharge": 127.0
+    },
+    {
+      "Organization": "砥部町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 957.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "内子町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 985.0,
+      "ExtraCharge": 157.0
+    },
+    {
+      "Organization": "伊方町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "鬼北町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "愛南町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1260.0,
+      "ExtraCharge": 220.0
+    }
+  ],
+  "高知県": [
+    {
+      "Organization": "高知市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 891.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "室戸市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 980.0,
+      "ExtraCharge": 170.0
+    },
+    {
+      "Organization": "安芸市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 902.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "南国市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 451.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "土佐市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 712.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "須崎市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1375.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "宿毛市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 960.0,
+      "ExtraCharge": 145.0
+    },
+    {
+      "Organization": "土佐清水市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 968.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "四万十市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1069.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "香南市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 970.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "香美市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "いの町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 687.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "佐川町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 942.0,
+      "ExtraCharge": 116.0
+    },
+    {
+      "Organization": "四万十町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "黒潮町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1287.0,
+      "ExtraCharge": 171.0
+    }
+  ],
+  "福岡県": [
+    {
+      "Organization": "北九州市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 748.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "福岡市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 18.0
+    },
+    {
+      "Organization": "大牟田市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 41.0
+    },
+    {
+      "Organization": "久留米市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "直方市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 247.0
+    },
+    {
+      "Organization": "飯塚市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1353.0,
+      "ExtraCharge": 170.0
+    },
+    {
+      "Organization": "柳川市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 850.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "八女市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2240.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "筑後市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "大川市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1290.0,
+      "ExtraCharge": 225.0
+    },
+    {
+      "Organization": "行橋市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1570.0,
+      "ExtraCharge": 200.0
+    },
+    {
+      "Organization": "豊前市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1480.0,
+      "ExtraCharge": 250.0
+    },
+    {
+      "Organization": "中間市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 847.0,
+      "ExtraCharge": 159.0
+    },
+    {
+      "Organization": "筑紫野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 838.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "大野城市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "太宰府市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "古賀市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 0.0
+    },
+    {
+      "Organization": "宮若市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 248.0
+    },
+    {
+      "Organization": "嘉麻市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1078.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "朝倉市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "みやま市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1342.0,
+      "ExtraCharge": 168.0
+    },
+    {
+      "Organization": "糸島市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "宇美町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1310.0,
+      "ExtraCharge": 130.0
+    },
+    {
+      "Organization": "篠栗町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 193.0
+    },
+    {
+      "Organization": "志免町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 8.0
+    },
+    {
+      "Organization": "須恵町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "新宮町",
+      "BaseAmount": 6.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "久山町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 120.0
+    },
+    {
+      "Organization": "粕屋町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1265.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "岡垣町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 202.0
+    },
+    {
+      "Organization": "小竹町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 253.0
+    },
+    {
+      "Organization": "鞍手町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 150.0
+    },
+    {
+      "Organization": "桂川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "筑前町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2160.0,
+      "ExtraCharge": 216.0
+    },
+    {
+      "Organization": "大木町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1930.0,
+      "ExtraCharge": 193.0
+    },
+    {
+      "Organization": "広川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "香春町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1694.0,
+      "ExtraCharge": 264.0
+    },
+    {
+      "Organization": "添田町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 242.0
+    },
+    {
+      "Organization": "大任町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1730.0,
+      "ExtraCharge": 308.0
+    },
+    {
+      "Organization": "苅田町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1630.0,
+      "ExtraCharge": 180.0
+    },
+    {
+      "Organization": "みやこ町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2200.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "吉富町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "築上町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2360.0,
+      "ExtraCharge": 253.0
+    },
+    {
+      "Organization": "宗像地区事務組合",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1257.0,
+      "ExtraCharge": 231.0
+    },
+    {
+      "Organization": "三井水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1980.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "春日那珂川水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 51.0
+    },
+    {
+      "Organization": "田川広域水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 869.0,
+      "ExtraCharge": 253.0
+    }
+  ],
+  "佐賀県": [
+    {
+      "Organization": "佐賀市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "唐津市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1623.0,
+      "ExtraCharge": 275.0
+    },
+    {
+      "Organization": "鳥栖市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1650.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "伊万里市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 2100.0,
+      "ExtraCharge": 240.0
+    },
+    {
+      "Organization": "鹿島市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "小城市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1188.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "玄海町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1440.0,
+      "ExtraCharge": 210.0
+    },
+    {
+      "Organization": "有田町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 715.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "太良町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "佐賀東部水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 253.0
+    },
+    {
+      "Organization": "佐賀西部広域水道企業団",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1683.0,
+      "ExtraCharge": 297.0
+    }
+  ],
+  "長崎県": [
+    {
+      "Organization": "長崎市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 885.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "佐世保市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1632.0,
+      "ExtraCharge": 256.0
+    },
+    {
+      "Organization": "島原市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 80.0
+    },
+    {
+      "Organization": "諫早市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 950.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "大村市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 946.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "平戸市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1660.0,
+      "ExtraCharge": 56.0
+    },
+    {
+      "Organization": "松浦市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 737.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "対馬市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 247.0
+    },
+    {
+      "Organization": "壱岐市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 640.0,
+      "ExtraCharge": 240.0
+    },
+    {
+      "Organization": "五島市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "西海市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1996.0,
+      "ExtraCharge": 260.0
+    },
+    {
+      "Organization": "雲仙市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 680.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "南島原市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1309.0,
+      "ExtraCharge": 188.0
+    },
+    {
+      "Organization": "長与町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "時津町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 72.0
+    },
+    {
+      "Organization": "東彼杵町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1950.0,
+      "ExtraCharge": 195.0
+    },
+    {
+      "Organization": "川棚町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "波佐見町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1870.0,
+      "ExtraCharge": 220.0
+    },
+    {
+      "Organization": "佐々町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "新上五島町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 308.0
+    }
+  ],
+  "熊本県": [
+    {
+      "Organization": "熊本市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 16.0
+    },
+    {
+      "Organization": "八代市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 858.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "人吉市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 803.0,
+      "ExtraCharge": 11.0
+    },
+    {
+      "Organization": "荒尾市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1155.0,
+      "ExtraCharge": 159.0
+    },
+    {
+      "Organization": "水俣市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1020.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "玉名市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 973.0,
+      "ExtraCharge": 135.0
+    },
+    {
+      "Organization": "山鹿市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 855.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "菊池市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 930.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "宇土市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 170.0
+    },
+    {
+      "Organization": "上天草市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1595.0,
+      "ExtraCharge": 319.0
+    },
+    {
+      "Organization": "宇城市",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1560.0,
+      "ExtraCharge": 232.0
+    },
+    {
+      "Organization": "阿蘇市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 149.0
+    },
+    {
+      "Organization": "天草市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 61.0
+    },
+    {
+      "Organization": "合志市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 130.0
+    },
+    {
+      "Organization": "長洲町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1007.0,
+      "ExtraCharge": 134.0
+    },
+    {
+      "Organization": "小国町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "南阿蘇村",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "御船町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1200.0,
+      "ExtraCharge": 180.0
+    },
+    {
+      "Organization": "益城町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "甲佐町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 149.0
+    },
+    {
+      "Organization": "山都町",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "芦北町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "錦町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1200.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "多良木町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1760.0,
+      "ExtraCharge": 192.0
+    },
+    {
+      "Organization": "湯前町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "あさぎり町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 946.0,
+      "ExtraCharge": 148.0
+    },
+    {
+      "Organization": "大津菊陽水道企業団",
+      "BaseAmount": 0.0,
+      "BaseCharge": 910.0,
+      "ExtraCharge": 20.0
+    },
+    {
+      "Organization": "八代生活環境事務組合（事業会計分）",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 138.0
+    }
+  ],
+  "大分県": [
+    {
+      "Organization": "大分市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 55.0
+    },
+    {
+      "Organization": "別府市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1016.0,
+      "ExtraCharge": 159.0
+    },
+    {
+      "Organization": "中津市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1273.0,
+      "ExtraCharge": 185.0
+    },
+    {
+      "Organization": "日田市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1090.0,
+      "ExtraCharge": 173.0
+    },
+    {
+      "Organization": "佐伯市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 630.0,
+      "ExtraCharge": 28.0
+    },
+    {
+      "Organization": "臼杵市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1000.0,
+      "ExtraCharge": 166.0
+    },
+    {
+      "Organization": "津久見市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "竹田市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 715.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "豊後高田市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 810.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "杵築市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 785.0,
+      "ExtraCharge": 157.0
+    },
+    {
+      "Organization": "宇佐市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 0.0,
+      "ExtraCharge": 159.0
+    },
+    {
+      "Organization": "豊後大野市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1220.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "由布市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 171.0
+    },
+    {
+      "Organization": "国東市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1290.0,
+      "ExtraCharge": 177.0
+    },
+    {
+      "Organization": "日出町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "玖珠町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 165.0
+    }
+  ],
+  "宮崎県": [
+    {
+      "Organization": "宮崎市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 29.0
+    },
+    {
+      "Organization": "都城市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 495.0,
+      "ExtraCharge": 33.0
+    },
+    {
+      "Organization": "延岡市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1107.0,
+      "ExtraCharge": 181.0
+    },
+    {
+      "Organization": "日南市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 704.0,
+      "ExtraCharge": 93.0
+    },
+    {
+      "Organization": "小林市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 825.0,
+      "ExtraCharge": 132.0
+    },
+    {
+      "Organization": "日向市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1100.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "串間市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 963.0,
+      "ExtraCharge": 81.0
+    },
+    {
+      "Organization": "西都市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "えびの市",
+      "BaseAmount": 5.0,
+      "BaseCharge": 1210.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "三股町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 44.0
+    },
+    {
+      "Organization": "高原町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "国富町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1189.0,
+      "ExtraCharge": 180.0
+    },
+    {
+      "Organization": "綾町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 830.0,
+      "ExtraCharge": 130.0
+    },
+    {
+      "Organization": "高鍋町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1540.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "新富町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 140.0
+    },
+    {
+      "Organization": "川南町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 1023.0,
+      "ExtraCharge": 165.0
+    },
+    {
+      "Organization": "都農町",
+      "BaseAmount": 6.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "門川町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "高千穂町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 945.0,
+      "ExtraCharge": 50.0
+    },
+    {
+      "Organization": "一ツ瀬川営農飲雑用水広域水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1430.0,
+      "ExtraCharge": 143.0
+    }
+  ],
+  "鹿児島県": [
+    {
+      "Organization": "鹿児島市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 49.0
+    },
+    {
+      "Organization": "鹿屋市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "枕崎市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 715.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "阿久根市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "出水市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 495.0,
+      "ExtraCharge": 38.0
+    },
+    {
+      "Organization": "指宿市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 440.0,
+      "ExtraCharge": 61.0
+    },
+    {
+      "Organization": "西之表市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "垂水市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 572.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "薩摩川内市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 740.0,
+      "ExtraCharge": 80.0
+    },
+    {
+      "Organization": "日置市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "曽於市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "霧島市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 539.0,
+      "ExtraCharge": 94.0
+    },
+    {
+      "Organization": "いちき串木野市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 748.0,
+      "ExtraCharge": 58.0
+    },
+    {
+      "Organization": "南さつま市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 647.0,
+      "ExtraCharge": 108.0
+    },
+    {
+      "Organization": "志布志市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "奄美市",
+      "BaseAmount": 1.0,
+      "BaseCharge": 682.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "南九州市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "伊佐市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 484.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "姶良市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 486.0,
+      "ExtraCharge": 91.0
+    },
+    {
+      "Organization": "さつま町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 770.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "長島町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 540.0,
+      "ExtraCharge": 130.0
+    },
+    {
+      "Organization": "湧水町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "大崎町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 781.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "東串良町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 710.0,
+      "ExtraCharge": 82.0
+    },
+    {
+      "Organization": "南大隅町",
+      "BaseAmount": 10.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "肝付町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 71.0
+    },
+    {
+      "Organization": "中種子町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "南種子町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "屋久島町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "瀬戸内町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "龍郷町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "喜界町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 550.0,
+      "ExtraCharge": 115.0
+    },
+    {
+      "Organization": "徳之島町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 99.0
+    },
+    {
+      "Organization": "天城町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 990.0,
+      "ExtraCharge": 130.0
+    },
+    {
+      "Organization": "伊仙町",
+      "BaseAmount": 7.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 143.0
+    },
+    {
+      "Organization": "和泊町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 88.0,
+      "ExtraCharge": 77.0
+    },
+    {
+      "Organization": "知名町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 880.0,
+      "ExtraCharge": 66.0
+    },
+    {
+      "Organization": "与論町",
+      "BaseAmount": 0.0,
+      "BaseCharge": 660.0,
+      "ExtraCharge": 121.0
+    }
+  ],
+  "沖縄県": [
+    {
+      "Organization": "那覇市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 631.0,
+      "ExtraCharge": 56.0
+    },
+    {
+      "Organization": "宜野湾市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1045.0,
+      "ExtraCharge": 198.0
+    },
+    {
+      "Organization": "石垣市",
+      "BaseAmount": 10.0,
+      "BaseCharge": 1353.0,
+      "ExtraCharge": 154.0
+    },
+    {
+      "Organization": "浦添市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 935.0,
+      "ExtraCharge": 192.0
+    },
+    {
+      "Organization": "名護市",
+      "BaseAmount": 6.0,
+      "BaseCharge": 913.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "糸満市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1023.0,
+      "ExtraCharge": 205.0
+    },
+    {
+      "Organization": "沖縄市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 913.0,
+      "ExtraCharge": 159.0
+    },
+    {
+      "Organization": "豊見城市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1320.0,
+      "ExtraCharge": 203.0
+    },
+    {
+      "Organization": "うるま市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1068.0,
+      "ExtraCharge": 207.0
+    },
+    {
+      "Organization": "宮古島市",
+      "BaseAmount": 0.0,
+      "BaseCharge": 605.0,
+      "ExtraCharge": 110.0
+    },
+    {
+      "Organization": "南城市",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1289.0,
+      "ExtraCharge": 193.0
+    },
+    {
+      "Organization": "今帰仁村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1111.0,
+      "ExtraCharge": 162.0
+    },
+    {
+      "Organization": "本部町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1122.0,
+      "ExtraCharge": 181.0
+    },
+    {
+      "Organization": "恩納村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 924.0,
+      "ExtraCharge": 137.0
+    },
+    {
+      "Organization": "宜野座村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 864.0,
+      "ExtraCharge": 121.0
+    },
+    {
+      "Organization": "金武町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 704.0,
+      "ExtraCharge": 88.0
+    },
+    {
+      "Organization": "伊江村",
+      "BaseAmount": 1.0,
+      "BaseCharge": 238.0,
+      "ExtraCharge": 238.0
+    },
+    {
+      "Organization": "読谷村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1047.0,
+      "ExtraCharge": 188.0
+    },
+    {
+      "Organization": "嘉手納町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 650.0,
+      "ExtraCharge": 95.0
+    },
+    {
+      "Organization": "北谷町",
+      "BaseAmount": 5.0,
+      "BaseCharge": 567.0,
+      "ExtraCharge": 118.0
+    },
+    {
+      "Organization": "北中城村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1089.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "中城村",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1220.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "西原町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1204.0,
+      "ExtraCharge": 193.0
+    },
+    {
+      "Organization": "与那原町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1414.0,
+      "ExtraCharge": 209.0
+    },
+    {
+      "Organization": "久米島町",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1166.0,
+      "ExtraCharge": 176.0
+    },
+    {
+      "Organization": "南部水道企業団",
+      "BaseAmount": 8.0,
+      "BaseCharge": 1174.0,
+      "ExtraCharge": 192.0
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+[
+  {
+    "rank": 1,
+    "pref": "神奈川県",
+    "charge": 920
+  },
+  {
+    "rank": 2,
+    "pref": "山梨県",
+    "charge": 1097
+  },
+  {
+    "rank": 3,
+    "pref": "静岡県",
+    "charge": 1130
+  },
+  {
+    "rank": 4,
+    "pref": "大阪府",
+    "charge": 1130
+  },
+  {
+    "rank": 5,
+    "pref": "高知県",
+    "charge": 1130
+  },
+  {
+    "rank": 6,
+    "pref": "東京都",
+    "charge": 1149
+  },
+  {
+    "rank": 7,
+    "pref": "埼玉県",
+    "charge": 1167
+  },
+  {
+    "rank": 8,
+    "pref": "群馬県",
+    "charge": 1184
+  },
+  {
+    "rank": 9,
+    "pref": "愛知県",
+    "charge": 1225
+  },
+  {
+    "rank": 10,
+    "pref": "福井県",
+    "charge": 1292
+  },
+  {
+    "rank": 11,
+    "pref": "徳島県",
+    "charge": 1319
+  },
+  {
+    "rank": 12,
+    "pref": "和歌山県",
+    "charge": 1339
+  },
+  {
+    "rank": 13,
+    "pref": "三重県",
+    "charge": 1353
+  },
+  {
+    "rank": 14,
+    "pref": "山口県",
+    "charge": 1366
+  },
+  {
+    "rank": 15,
+    "pref": "愛媛県",
+    "charge": 1374
+  },
+  {
+    "rank": 16,
+    "pref": "鳥取県",
+    "charge": 1387
+  },
+  {
+    "rank": 17,
+    "pref": "兵庫県",
+    "charge": 1404
+  },
+  {
+    "rank": 18,
+    "pref": "岐阜県",
+    "charge": 1412
+  },
+  {
+    "rank": 19,
+    "pref": "大分県",
+    "charge": 1416
+  },
+  {
+    "rank": 20,
+    "pref": "熊本県",
+    "charge": 1457
+  },
+  {
+    "rank": 21,
+    "pref": "富山県",
+    "charge": 1462
+  },
+  {
+    "rank": 22,
+    "pref": "沖縄県",
+    "charge": 1474
+  },
+  {
+    "rank": 23,
+    "pref": "滋賀県",
+    "charge": 1481
+  },
+  {
+    "rank": 24,
+    "pref": "宮崎県",
+    "charge": 1502
+  },
+  {
+    "rank": 25,
+    "pref": "栃木県",
+    "charge": 1512
+  },
+  {
+    "rank": 26,
+    "pref": "香川県",
+    "charge": 1540
+  },
+  {
+    "rank": 27,
+    "pref": "京都府",
+    "charge": 1546
+  },
+  {
+    "rank": 28,
+    "pref": "新潟県",
+    "charge": 1564
+  },
+  {
+    "rank": 29,
+    "pref": "長野県",
+    "charge": 1614
+  },
+  {
+    "rank": 30,
+    "pref": "広島県",
+    "charge": 1628
+  },
+  {
+    "rank": 31,
+    "pref": "鹿児島県",
+    "charge": 1632
+  },
+  {
+    "rank": 32,
+    "pref": "岡山県",
+    "charge": 1662
+  },
+  {
+    "rank": 33,
+    "pref": "石川県",
+    "charge": 1674
+  },
+  {
+    "rank": 34,
+    "pref": "福岡県",
+    "charge": 1677
+  },
+  {
+    "rank": 35,
+    "pref": "佐賀県",
+    "charge": 1728
+  },
+  {
+    "rank": 36,
+    "pref": "長崎県",
+    "charge": 1728
+  },
+  {
+    "rank": 37,
+    "pref": "奈良県",
+    "charge": 1760
+  },
+  {
+    "rank": 38,
+    "pref": "千葉県",
+    "charge": 1807
+  },
+  {
+    "rank": 39,
+    "pref": "秋田県",
+    "charge": 1857
+  },
+  {
+    "rank": 40,
+    "pref": "島根県",
+    "charge": 1862
+  },
+  {
+    "rank": 41,
+    "pref": "岩手県",
+    "charge": 1897
+  },
+  {
+    "rank": 42,
+    "pref": "茨城県",
+    "charge": 1911
+  },
+  {
+    "rank": 43,
+    "pref": "福島県",
+    "charge": 1945
+  },
+  {
+    "rank": 44,
+    "pref": "山形県",
+    "charge": 2131
+  },
+  {
+    "rank": 45,
+    "pref": "宮城県",
+    "charge": 2144
+  },
+  {
+    "rank": 46,
+    "pref": "北海道",
+    "charge": 2196
+  },
+  {
+    "rank": 47,
+    "pref": "青森県",
+    "charge": 2200
+  }
+]
