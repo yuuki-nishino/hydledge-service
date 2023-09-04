@@ -395,37 +395,47 @@ export default {
     setData() {
       this.PrefData[0] = this.AllPrefData[this.pref]
       this.DistrictMeanData[0] = this.DistrictData[this.pref]
-      for (let i = 0; i < this.PrefData[0].length; i++) {
-        this.SearchItems.push(this.PrefData[0][i].district)
-        this.SearchItems.push(this.PrefData[0][i].facility)
+      if (this.PrefData[0] !== undefined) {
+        for (let i = 0; i < this.PrefData[0].length; i++) {
+          this.SearchItems.push(this.PrefData[0][i].district)
+          this.SearchItems.push(this.PrefData[0][i].facility)
+        }
       }
     },
     makeChartData() {
-      for (let i = 0; i < this.PrefData[0].length; i++) {
-        this.HistData.push([
-          this.PrefData[0][i].facility,
-          this.PrefData[0][i].hardness,
-        ])
-        this.ScatterData.push([
-          this.PrefData[0][i].hardness,
-          this.PrefData[0][i].amount,
-        ])
+      if (this.PrefData[0] !== undefined) {
+        for (let i = 0; i < this.PrefData[0].length; i++) {
+          this.HistData.push([
+            this.PrefData[0][i].facility,
+            this.PrefData[0][i].hardness,
+          ])
+          this.ScatterData.push([
+            this.PrefData[0][i].hardness,
+            this.PrefData[0][i].amount,
+          ])
+        }
       }
-      for (let i = 0; i < this.DistrictMeanData[0].length; i++) {
-        this.BarData1.push([
-          this.DistrictMeanData[0][i].district,
-          this.DistrictMeanData[0][i].mean_hard,
-        ])
+      if (this.DistrictMeanData[0] !== undefined) {
+        for (let i = 0; i < this.DistrictMeanData[0].length; i++) {
+          this.BarData1.push([
+            this.DistrictMeanData[0][i].district,
+            this.DistrictMeanData[0][i].mean_hard,
+          ])
+        }
       }
     },
     setGraphHeight() {
-      this.BarOptions1.height = 30 + this.DistrictMeanData[0].length * 25
+      if (this.DistrictMeanData[0] !== undefined) {
+        this.BarOptions1.height = 30 + this.DistrictMeanData[0].length * 25
+      }
     },
     makeSelectItems() {
-      for (let i = 0; i < this.DistrictMeanData[0].length; i++) {
-        this.DistrictItems.push([this.DistrictMeanData[0][i].district])
+      if (this.DistrictMeanData[0] !== undefined) {
+        for (let i = 0; i < this.DistrictMeanData[0].length; i++) {
+          this.DistrictItems.push([this.DistrictMeanData[0][i].district])
+        }
+        this.selectedDistrict = this.DistrictItems[0]
       }
-      this.selectedDistrict = this.DistrictItems[0]
     },
     selected() {
       this.BarData2 = this.FacilityData[this.selectedDistrict]

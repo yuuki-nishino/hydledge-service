@@ -370,15 +370,17 @@ export default {
     },
     simulate() {
       let CalculatedCharge = 0
-      for (let i = 0; i < this.PrefBaseData[0].length; i++) {
-        if (this.PrefBaseData[0][i].Organization === this.select_town) {
-          if (this.use_amount <= this.PrefBaseData[0][i].BaseAmount) {
-            CalculatedCharge = this.PrefBaseData[0][i].BaseCharge
-          } else {
-            CalculatedCharge =
-              this.PrefBaseData[0][i].BaseCharge +
-              (this.use_amount - this.PrefBaseData[0][i].BaseAmount) *
-                this.PrefBaseData[0][i].ExtraCharge
+      if (this.PrefBaseData[0] !== undefined) {
+        for (let i = 0; i < this.PrefBaseData[0].length; i++) {
+          if (this.PrefBaseData[0][i].Organization === this.select_town) {
+            if (this.use_amount <= this.PrefBaseData[0][i].BaseAmount) {
+              CalculatedCharge = this.PrefBaseData[0][i].BaseCharge
+            } else {
+              CalculatedCharge =
+                this.PrefBaseData[0][i].BaseCharge +
+                (this.use_amount - this.PrefBaseData[0][i].BaseAmount) *
+                  this.PrefBaseData[0][i].ExtraCharge
+            }
           }
         }
       }
@@ -396,36 +398,66 @@ export default {
       this.pref = this.$route.query.prefName || ''
     },
     setSearch() {
-      for (let i = 0; i < this.PrefChargeRankData1013[this.pref].length; i++) {
-        this.searchItems.push(
-          this.PrefChargeRankData1013[this.pref][i].organization
-        )
+      if (this.PrefChargeRankData1013[this.pref] !== undefined) {
+        for (
+          let i = 0;
+          i < this.PrefChargeRankData1013[this.pref].length;
+          i++
+        ) {
+          this.searchItems.push(
+            this.PrefChargeRankData1013[this.pref][i].organization
+          )
+        }
       }
     },
     GraphData() {
-      for (let i = 0; i < this.PrefChargeRankData1013[this.pref].length; i++) {
-        this.GraphData1013.push([
-          this.PrefChargeRankData1013[this.pref][i].organization,
-          this.PrefChargeRankData1013[this.pref][i].Charge,
-        ])
+      if (this.PrefChargeRankData1013[this.pref] !== undefined) {
+        for (
+          let i = 0;
+          i < this.PrefChargeRankData1013[this.pref].length;
+          i++
+        ) {
+          this.GraphData1013.push([
+            this.PrefChargeRankData1013[this.pref][i].organization,
+            this.PrefChargeRankData1013[this.pref][i].Charge,
+          ])
+        }
       }
-      for (let i = 0; i < this.PrefChargeRankData2013[this.pref].length; i++) {
-        this.GraphData2013.push([
-          this.PrefChargeRankData2013[this.pref][i].organization,
-          this.PrefChargeRankData2013[this.pref][i].Charge,
-        ])
+      if (this.PrefChargeRankData2013[this.pref] !== undefined) {
+        for (
+          let i = 0;
+          i < this.PrefChargeRankData2013[this.pref].length;
+          i++
+        ) {
+          this.GraphData2013.push([
+            this.PrefChargeRankData2013[this.pref][i].organization,
+            this.PrefChargeRankData2013[this.pref][i].Charge,
+          ])
+        }
       }
-      for (let i = 0; i < this.PrefChargeRankData1020[this.pref].length; i++) {
-        this.GraphData1020.push([
-          this.PrefChargeRankData1020[this.pref][i].organization,
-          this.PrefChargeRankData1020[this.pref][i].Charge,
-        ])
+      if (this.PrefChargeRankData1020[this.pref] !== undefined) {
+        for (
+          let i = 0;
+          i < this.PrefChargeRankData1020[this.pref].length;
+          i++
+        ) {
+          this.GraphData1020.push([
+            this.PrefChargeRankData1020[this.pref][i].organization,
+            this.PrefChargeRankData1020[this.pref][i].Charge,
+          ])
+        }
       }
-      for (let i = 0; i < this.PrefChargeRankData2020[this.pref].length; i++) {
-        this.GraphData2020.push([
-          this.PrefChargeRankData2020[this.pref][i].organization,
-          this.PrefChargeRankData2020[this.pref][i].Charge,
-        ])
+      if (this.PrefChargeRankData2020[this.pref] !== undefined) {
+        for (
+          let i = 0;
+          i < this.PrefChargeRankData2020[this.pref].length;
+          i++
+        ) {
+          this.GraphData2020.push([
+            this.PrefChargeRankData2020[this.pref][i].organization,
+            this.PrefChargeRankData2020[this.pref][i].Charge,
+          ])
+        }
       }
     },
     BaseData() {
