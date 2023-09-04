@@ -90,7 +90,7 @@ export default {
     }
   },
   // buildDir: 'nuxt-dist',
-  target: 'server',
+  target: 'static',
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     transpile: [/^vue2-google-maps($|\/)/]
