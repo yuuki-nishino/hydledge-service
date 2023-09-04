@@ -349,7 +349,7 @@ export default {
   data() {
     return {
       // JapanData: JapanData,
-      hard_img_src: require('@/assets/img/hard_img.jpg'),
+      hard_img_src: require('@/assets/img/hard_img.png'),
       outlook_japan_pc_src: require('@/assets/img/outlook/japan_pc.png'),
       outlook_japan_sp_src: require('@/assets/img/outlook/japan_sp.png'),
       outlook_pref: require('@/assets/img/outlook/pref.png'),
