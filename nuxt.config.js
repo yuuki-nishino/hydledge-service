@@ -79,12 +79,12 @@ export default {
     }
   },
   
-  sitemap: {
-    path: '/sitemap.xml',
-    exclude: [
-      '/static/404.html'
-    ]
-  },
+  // sitemap: {
+  //   path: '/sitemap.xml',
+  //   exclude: [
+  //     '/static/404.html'
+  //   ]
+  // },
 
 
 
