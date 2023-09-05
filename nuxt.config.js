@@ -127,7 +127,7 @@ export default {
     optimizeImages: false,
     optimizeImagesInDev: false,
   },
-  generate: {
-    fallback: true
-  }
+  // generate: {
+  //   fallback: true
+  // }
 }
