@@ -38,15 +38,15 @@ export default {
       items: [
         {
           label: 'サイト',
-          date: '2023-05-01',
+          date: '2023-09-06',
           sentence: 'サイトを公開しました！',
         },
-        {
-          label: 'Note',
-          date: '2023-04-27',
-          sentence: 'Noteをアップロードしました。',
-          link: 'https://note.com/',
-        },
+        // {
+        //   label: 'Note',
+        //   date: '2023-04-27',
+        //   sentence: 'Noteをアップロードしました。',
+        //   link: 'https://note.com/',
+        // },
       ],
     }
   },
