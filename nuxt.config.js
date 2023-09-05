@@ -51,8 +51,8 @@ export default {
     '@nuxtjs/vuetify',
     '@nuxtjs/dotenv',
     "@nuxtjs/svg",
-    '@nuxtjs/sitemap',
-    '@nuxtjs/google-analytics',
+    // '@nuxtjs/sitemap',
+    // '@nuxtjs/google-analytics',
     // '@aceforth/nuxt-optimized-images',
   ],
 
@@ -62,8 +62,8 @@ export default {
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
-    '@nuxtjs/sitemap',
-    '@nuxtjs/google-analytics',
+    // '@nuxtjs/sitemap',
+    // '@nuxtjs/google-analytics',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -127,7 +127,7 @@ export default {
     optimizeImages: false,
     optimizeImagesInDev: false,
   },
-  // generate: {
-  //   fallback: true
-  // }
+  generate: {
+    fallback: true
+  }
 }
