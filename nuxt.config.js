@@ -8,9 +8,13 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: '「水のチカラで現在から未来の全ての人と地球を健康にする」というパーパスで水に関するデータや情報を発信するサイト-Hydledge' },
+      { hid: 'keywords', name: 'keywords', content: 'Hydledge, 水, 硬度, 水道料金'},
       { name: 'format-detection', content: 'telephone=no' },
       { property: 'og:image', content: '/thumbnail.png' },
+      { hid: 'og:site_name', property: 'og:site_name', content: 'Hydledge'},
+      { hid: 'og:title', property: 'og:title', content: 'Hydledge'},
+      { hid: 'og:description', property: 'og:description', content: '「水のチカラで現在から未来の全ての人と地球を健康にする」というパーパスで水に関するデータや情報を発信するサイト-Hydledge'},
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon_Hydledge.ico' },
