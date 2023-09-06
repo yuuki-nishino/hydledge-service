@@ -53,6 +53,7 @@ export default {
     "@nuxtjs/svg",
     // '@nuxtjs/sitemap',
     // '@nuxtjs/google-analytics',
+    '@nuxtjs/google-gtag',
     // '@aceforth/nuxt-optimized-images',
   ],
 
@@ -64,6 +65,10 @@ export default {
     '@nuxtjs/pwa',
     // '@nuxtjs/sitemap',
     // '@nuxtjs/google-analytics',
+    ['@nuxtjs/google-gtag', {
+      id: process.env.GOOGLE_ANALYTICS_ID,
+      debug: false,
+    }]
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -86,6 +91,15 @@ export default {
   //   ]
   // },
 
+  // googleAnalytics: {
+  //   id: process.env.GOOGLE_ANALYTICS_ID,
+  // },
+
+  // publicRuntimeConfig: {
+  //   googleAnalytics: {
+  //     id: process.env.GOOGLE_ANALYTICS_ID,
+  //   }
+  // },
 
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
