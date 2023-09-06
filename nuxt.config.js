@@ -65,10 +65,7 @@ export default {
     '@nuxtjs/pwa',
     // '@nuxtjs/sitemap',
     // '@nuxtjs/google-analytics',
-    ['@nuxtjs/google-gtag', {
-      id: process.env.GOOGLE_ANALYTICS_ID,
-      debug: false,
-    }]
+    '@nuxtjs/google-gtag',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -82,6 +79,11 @@ export default {
     manifest: {
       lang: 'en'
     }
+  },
+
+  'google-tag': {
+    id: process.env.GOOGLE_ANALYTICS_ID,
+    debug: false,
   },
   
   // sitemap: {
