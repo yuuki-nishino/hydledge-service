@@ -37,16 +37,16 @@ export default {
     return {
       items: [
         {
+          label: 'Note',
+          date: '2023-09-07',
+          sentence: 'Noteを投稿しました。',
+          link: 'https://note.com/hydledge/n/n74e02bc215e4',
+        },
+        {
           label: 'サイト',
           date: '2023-09-06',
           sentence: 'サイトを公開しました！',
         },
-        // {
-        //   label: 'Note',
-        //   date: '2023-04-27',
-        //   sentence: 'Noteをアップロードしました。',
-        //   link: 'https://note.com/',
-        // },
       ],
     }
   },
