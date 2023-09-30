@@ -169,7 +169,7 @@ export default {
           },
         ],
       },
-      { name: '今後公開予定', link: '/' },
+      // { name: '今後公開予定', link: '/' },
     ],
     drawer: false,
     group: null,
