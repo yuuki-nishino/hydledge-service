@@ -81,6 +81,14 @@
               {{ s.icon }}
             </v-icon>
           </v-btn>
+          <v-btn
+            href="https://twitter.com/Hydledge"
+            class="mx-4 black--text"
+            icon
+            target="_blank"
+          >
+            <v-img :src="x_icon" max-width="24px"></v-img>
+          </v-btn>
         </v-col>
       </v-row>
     </v-card>
@@ -97,12 +105,13 @@ export default {
   data() {
     return {
       logo_src: require('@/assets/img/logo_original2.png'),
+      x_icon: require('@/assets/img/icon/x.svg'),
       sns: [
         {
           icon: 'mdi-facebook',
           link: 'https://www.facebook.com/profile.php?id=100091943935693',
         },
-        { icon: 'mdi-twitter', link: 'https://twitter.com/Hydledge' },
+        // { icon: 'mdi-twitter', link: 'https://twitter.com/Hydledge' },
         { icon: 'mdi-instagram', link: 'https://www.instagram.com/Hydledge/' },
       ],
       items: [
