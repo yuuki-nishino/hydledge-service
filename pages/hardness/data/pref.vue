@@ -234,7 +234,7 @@ export default {
         vAxes: {
           // Adds titles to each axis.
           0: { title: '硬度' },
-          1: { title: '1日平均上水量' },
+          1: { title: '1日平均浄水量' },
         },
       },
       mapParameters: {
