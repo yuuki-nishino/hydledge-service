@@ -86,6 +86,7 @@
                   :headers="headers"
                   :items="ranked_data"
                   :search="search"
+                  mobile-breakpoint="0"
                 >
                 </v-data-table>
               </v-card>
@@ -188,6 +189,7 @@
                 :headers="base_headers"
                 :items="PrefBaseData[0]"
                 :search="search_base"
+                mobile-breakpoint="0"
               >
               </v-data-table>
             </v-card>

@@ -6,13 +6,7 @@
       <v-row class="my-5">
         <v-col cols="12" md="6">
           <div
-            class="
-              text-h5 text-md-h4
-              my-3
-              font-weight-bold
-              primary--text
-              text-center
-            "
+            class="text-h5 text-md-h4 my-3 font-weight-bold primary--text text-center"
           >
             平均硬度ランキング
           </div>
@@ -34,6 +28,7 @@
                 :headers="pref_headers"
                 :items="SortedData"
                 :search="pref_search"
+                mobile-breakpoint="0"
               >
                 <template #[`item.detail`]="{ item }">
                   <nuxt-link
@@ -44,7 +39,8 @@
                     tag="div"
                     class="c-p"
                   >
-                    <v-btn elevation="1" color="primary">詳細ページ</v-btn>
+                    <!-- <v-btn elevation="1" color="primary">詳細ページ</v-btn> -->
+                    <v-icon>mdi-open-in-new</v-icon>
                   </nuxt-link>
                 </template>
               </v-data-table>
@@ -53,13 +49,7 @@
         </v-col>
         <v-col cols="12" md="6">
           <div
-            class="
-              text-h5 text-md-h4
-              my-3
-              font-weight-bold
-              primary--text
-              text-center
-            "
+            class="text-h5 text-md-h4 my-3 font-weight-bold primary--text text-center"
           >
             硬度平均マップ
           </div>
@@ -73,13 +63,7 @@
             />
           </v-card>
           <div
-            class="
-              text-h5 text-md-h4
-              my-3
-              font-weight-bold
-              primary--text
-              text-center
-            "
+            class="text-h5 text-md-h4 my-3 font-weight-bold primary--text text-center"
           >
             各都道府県の詳細ページ
           </div>
@@ -121,13 +105,7 @@
         <v-row class="my-5">
           <v-col cols="12">
             <div
-              class="
-                text-h5 text-md-h4
-                my-3
-                font-weight-bold
-                primary--text
-                text-center
-              "
+              class="text-h5 text-md-h4 my-3 font-weight-bold primary--text text-center"
             >
               硬度が高い浄水場ランキング
             </div>
@@ -140,7 +118,7 @@
       </v-row> -->
         <v-row justify="center" class="mb-5">
           <v-col cols="12" md="10">
-            <v-card width="100%">
+            <v-card width="100%" class="hidden-xs-only">
               <v-card-title>
                 浄水場ごとの硬度
                 <v-spacer></v-spacer>
@@ -153,9 +131,10 @@
                 ></v-text-field>
               </v-card-title>
               <v-data-table
-                :headers="headers"
+                :headers="facility_pc_headers"
                 :items="Ranking"
                 :search="search"
+                mobile-breakpoint="0"
               >
                 <template #[`item.detail`]="{ item }">
                   <nuxt-link
@@ -166,7 +145,67 @@
                     tag="div"
                     class="c-p"
                   >
-                    <v-btn elevation="1" color="primary">詳細ページ</v-btn>
+                    <!-- <v-btn elevation="1" color="primary">詳細ページ</v-btn> -->
+                    <v-icon>mdi-open-in-new</v-icon>
+                  </nuxt-link>
+                </template>
+              </v-data-table>
+            </v-card>
+            <v-card width="100%" class="hidden-sm-and-up">
+              <v-card-title>
+                <strong>浄水場ごとの硬度</strong><br />
+                <font size="3">行をタップすると詳細情報が現れます。</font>
+                <v-spacer></v-spacer>
+                <v-text-field
+                  v-model="search"
+                  prepend-inner-icon="mdi-magnify"
+                  label="各列の値で検索"
+                  outlined
+                  hide-details
+                ></v-text-field>
+              </v-card-title>
+              <v-data-table
+                :headers="facility_mb_headers"
+                :items="Ranking"
+                :search="search"
+                mobile-breakpoint="0"
+                @click:row="(item, slot) => slot.expand(!slot.isExpanded)"
+              >
+                <template #expanded-item="{ headers, item }">
+                  <td :colspan="headers.length">
+                    <div style="padding: 5px">
+                      <strong>事業体：</strong> {{ item.pref }}&nbsp;{{
+                        item.district
+                      }}
+                    </div>
+                    <div>
+                      <strong>1日平均浄水量：</strong> {{ item.amount }}
+                      <nuxt-link
+                        :to="{
+                          path: `/hardness/data/pref`,
+                          query: { prefName: item.pref },
+                        }"
+                        tag="div"
+                        class="c-p"
+                      >
+                        <!-- <v-btn elevation="1" color="primary">詳細ページ</v-btn> -->
+                        <a>都道府県の詳細ページに遷移</a>
+                        <v-icon>mdi-open-in-new</v-icon>
+                      </nuxt-link>
+                    </div>
+                  </td>
+                </template>
+                <template #[`item.detail`]="{ item }">
+                  <nuxt-link
+                    :to="{
+                      path: `/hardness/data/pref`,
+                      query: { prefName: item.pref },
+                    }"
+                    tag="div"
+                    class="c-p"
+                  >
+                    <!-- <v-btn elevation="1" color="primary">詳細ページ</v-btn> -->
+                    <v-icon>mdi-open-in-new</v-icon>
                   </nuxt-link>
                 </template>
               </v-data-table>
@@ -231,13 +270,7 @@
         <v-row class="ml-5 my-5">
           <v-col cols="12">
             <div
-              class="
-                text-h5 text-md-h4
-                my-3
-                font-weight-bold
-                primary--text
-                text-center
-              "
+              class="text-h5 text-md-h4 my-3 font-weight-bold primary--text text-center"
             >
               都道府県の硬度平均グラフ
             </div>
@@ -365,23 +398,30 @@ export default {
   computed: {
     pref_headers() {
       return [
-        { text: '順位', value: 'rank', align: 'center' },
+        { text: '順位', value: 'rank', align: 'center', class: 'text-xs' },
         {
           text: '都道府県名',
           value: 'pref',
           sortable: false,
           align: 'start',
+          class: 'text-xs',
         },
-        { text: '硬度(mg/L)', value: 'hardness', align: 'center' },
         {
-          text: '詳細ページ',
+          text: '硬度(mg/L)',
+          value: 'hardness',
+          align: 'center',
+          class: 'text-xs',
+        },
+        {
+          text: '詳細',
           value: 'detail',
           align: 'center',
           sortable: false,
+          class: 'text-xs',
         },
       ]
     },
-    headers() {
+    facility_pc_headers() {
       return [
         { text: '順位', value: 'rank', align: 'center' },
         {
@@ -389,27 +429,55 @@ export default {
           value: 'pref',
           sortable: false,
           align: 'start',
+          class: 'text-xs',
         },
         {
           text: '事業主体名',
           value: 'district',
           sortable: false,
           align: 'start',
+          class: 'text-xs',
         },
         {
           text: '浄水場名',
           value: 'facility',
           sortable: false,
           align: 'start',
+          class: 'text-xs',
         },
         { text: '硬度(mg/L)', value: 'hardness', align: 'center' },
-        { text: '1日平均浄水量(㎥)', value: 'amount', align: 'center' },
         {
-          text: '詳細ページ',
+          text: '1日平均浄水量(㎥)',
+          value: 'amount',
+          align: 'center',
+        },
+        {
+          text: '詳細',
           value: 'detail',
           align: 'center',
           sortable: false,
+          class: 'text-xs',
         },
+      ]
+    },
+    facility_mb_headers() {
+      return [
+        { text: '順位', value: 'rank', align: 'center' },
+        {
+          text: '都道府県名',
+          value: 'pref',
+          sortable: false,
+          align: 'start',
+          class: 'text-xs',
+        },
+        {
+          text: '浄水場名',
+          value: 'facility',
+          sortable: false,
+          align: 'start',
+          class: 'text-xs',
+        },
+        { text: '硬度(mg/L)', value: 'hardness', align: 'center' },
       ]
     },
     breadcrumbs() {

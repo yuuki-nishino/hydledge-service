@@ -110,6 +110,7 @@
                 :headers="headers"
                 :items="PrefData[0]"
                 :search="search"
+                mobile-breakpoint="0"
               >
               </v-data-table>
             </v-card>

@@ -80,6 +80,7 @@
                 :headers="pref_headers"
                 :items="ranked_data"
                 :search="pref_search"
+                mobile-breakpoint="0"
               >
                 <template #[`item.detail`]="{ item }">
                   <nuxt-link
@@ -90,7 +91,8 @@
                     tag="div"
                     class="c-p"
                   >
-                    <v-btn elevation="1" color="primary">詳細ページ</v-btn>
+                    <v-icon>mdi-open-in-new</v-icon>
+                    <!-- <v-btn elevation="1" color="primary">詳細ページ</v-btn> -->
                   </nuxt-link>
                 </template>
               </v-data-table>
@@ -356,6 +358,7 @@
               :headers="organize_headers"
               :items="organize_data"
               :search="organize_search"
+              mobile-breakpoint="0"
             >
               <template #[`item.detail`]="{ item }">
                 <nuxt-link
@@ -366,7 +369,8 @@
                   tag="div"
                   class="c-p"
                 >
-                  <v-btn elevation="1" color="primary">都道府県ページ</v-btn>
+                  <v-icon>mdi-open-in-new</v-icon>
+                  <!-- <v-btn elevation="1" color="primary">都道府県ページ</v-btn> -->
                 </nuxt-link>
               </template>
             </v-data-table>
@@ -406,6 +410,7 @@
                 :headers="base_headers"
                 :items="AllBaseData"
                 :search="search_base"
+                mobile-breakpoint="0"
               >
               </v-data-table>
             </v-card>
@@ -682,14 +687,14 @@ export default {
       return [
         { text: '順位', value: 'rank', align: 'center' },
         {
-          text: '都道府県名',
+          text: '都道府県',
           value: 'pref',
           sortable: false,
           align: 'start',
         },
         { text: '平均水道料金(円)', value: 'charge', align: 'center' },
         {
-          text: '詳細ページ',
+          text: '詳細',
           value: 'detail',
           align: 'center',
           sortable: false,
@@ -713,7 +718,7 @@ export default {
         },
         { text: '平均水道料金(円)', value: 'charge', align: 'center' },
         {
-          text: '都道府県ページ',
+          text: '詳細',
           value: 'detail',
           align: 'center',
           sortable: false,
