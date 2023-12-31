@@ -7,7 +7,7 @@
         </v-col>
       </v-row>
       <v-row
-        class="d-flex justify-left flex-nowrap overflow-auto ml-0 mr-0"
+        class="d-flex card flex-nowrap overflow-auto ml-0 mr-0"
         style="height: 100%"
       >
         <v-col v-for="item in items" :key="item.title" cols="12" sm="6" lg="3">
@@ -128,5 +128,15 @@ export default {
 .contents-rgb {
   background: rgba(220 220 220);
   width: 100%;
+}
+
+.card {
+  justify-content: center;
+}
+
+@media screen and (max-width: 600px) {
+  .card {
+    justify-content: left;
+  }
 }
 </style>
