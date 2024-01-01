@@ -673,8 +673,6 @@ export default {
   },
   data() {
     return {
-      trandition_charge_system: require('@/assets/img/charge_intro/Charge_system_trandition.png'),
-      rate_charge_system: require('@/assets/img/charge_intro/Water_rate_system_classification_table.png'),
       full_cost: require('@/assets/img/charge_intro/full_cost.png'),
       charge_system: require('@/assets/img/charge_intro/charge_system.png'),
       change_graph: require('@/assets/img/charge_intro/ratio_change_graph.png'),

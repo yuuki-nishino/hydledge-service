@@ -36,7 +36,7 @@ export default {
 
 <style scoped>
 .purpose-img {
-  background-image: url('~@/assets/img/purpose_back.jpg');
+  background-image: url('~@/assets/img/purpose_back.jpeg');
   background-position: center;
   width: 100%;
   height: 30vh;

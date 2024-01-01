@@ -280,11 +280,11 @@
               <v-row class="mx-3 mb-5" justify="center">
                 <div>
                   <v-btn
-                    x-large
+                    large
                     color="#0E2997"
                     dark
                     width="100%"
-                    style="text-transform: none"
+                    class="btn"
                     @click="moveData()"
                   >
                     <v-icon>mdi-chevron-right</v-icon>
@@ -302,11 +302,11 @@
               <v-row class="mx-3 mb-5" justify="center">
                 <div>
                   <v-btn
-                    x-large
+                    large
                     color="#0E2997"
                     dark
                     width="100%"
-                    style="text-transform: none"
+                    class="btn"
                     @click="moveDataPref()"
                   >
                     <v-icon>mdi-chevron-right</v-icon>
@@ -418,5 +418,15 @@ h1::before {
 .box-ul li {
   line-height: 1.5;
   padding: 0.5em 0;
+}
+
+.btn {
+  font-size: 16px;
+}
+
+@media screen and (max-width: 600px) {
+  .btn {
+    font-size: 12px;
+  }
 }
 </style>

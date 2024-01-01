@@ -309,7 +309,6 @@ export default {
   data() {
     return {
       // JapanData: JapanData,
-      hard_img_src: require('@/assets/img/hard_img.jpg'),
       chartSettings: {
         packages: ['geochart'],
       },
