@@ -285,11 +285,12 @@
                 昭和年代は「用途別」が多かったようですが、「口径別」が増加し、令和3年度には約60%になっています。
               </div>
             </v-row>
-            <v-row class="my-2 mx-3">
+            <v-row class="my-2 mx-3 table-wrap">
               <table
                 border="1"
                 style="border-collapse: collapse"
                 bgcolor="#FFFFFF"
+                width="90%"
               >
                 <tr>
                   <th colspan="2" rowspan="2" align="center">区分</th>
@@ -602,11 +603,11 @@
             <v-row class="mx-3 mb-5" justify="center">
               <div>
                 <v-btn
-                  x-large
+                  large
                   color="#0E2997"
                   dark
                   width="100%"
-                  style="text-transform: none"
+                  class="btn"
                   @click="moveData()"
                 >
                   <v-icon>mdi-chevron-right</v-icon>
@@ -628,17 +629,17 @@
             <v-row class="mx-3 mb-5" justify="center">
               <div>
                 <v-btn
-                  x-large
+                  large
                   color="#0E2997"
                   dark
                   width="100%"
-                  style="text-transform: none"
+                  class="btn"
                   @click="moveDataPref()"
                 >
                   <v-icon>mdi-chevron-right</v-icon>
-                  <strong
-                    >&nbsp;都道府県ごとの水道料金データを見てみよう！</strong
-                  >
+                  <strong>
+                    &nbsp;都道府県ごとの水道料金データを見てみよう！
+                  </strong>
                 </v-btn>
               </div>
             </v-row>
@@ -766,5 +767,19 @@ td {
 
 th {
   padding: 5px;
+}
+
+.table-wrap {
+  overflow-x: scroll;
+}
+
+.btn {
+  font-size: 16px;
+}
+
+@media screen and (max-width: 600px) {
+  .btn {
+    font-size: 12px;
+  }
 }
 </style>
