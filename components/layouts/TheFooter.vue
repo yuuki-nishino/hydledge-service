@@ -7,9 +7,9 @@
             <!-- <strong><a class="primary--text">Hydledge</a></strong> -->
             <v-img :src="logo_src" max-width="200"></v-img>
           </v-row>
-          <v-row class="text-h6 my-3" justify="center">
+          <!-- <v-row class="text-h6 my-3" justify="center">
             <a href="mailto:info@hydledge.com">info@hydledge.com</a>
-          </v-row>
+          </v-row> -->
         </v-col>
         <v-divider vertical class="my-2 mx-2"></v-divider>
         <v-divider class="hidden-md-and-up"></v-divider>
@@ -39,7 +39,8 @@
                 x-large
                 color="amber darken-3"
                 dark
-                href="mailto:info@hydledge.com"
+                href="https://forms.gle/36u8RPmxo1y2eGXk8"
+                target="_blank"
                 width="100%"
                 style="text-transform: none"
               >
