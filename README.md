@@ -6,6 +6,8 @@
 # install dependencies
 $ npm install
 
+$ export NODE_OPTIONS=--openssl-legacy-provider
+
 # serve with hot reload at localhost:3000
 $ npm run dev
 
