@@ -666,9 +666,21 @@
       >
         水道料金の計算方法について詳しく知る →
       </a>
-      <p class="mt-6 mb-8 text-sm text-gray-600">
+      <p class="mt-6 mb-2 text-sm text-gray-600">
         水道料金の仕組みについて解説しています。<br />
         水道料金がどのように計算されているのか知りたい方は上のボタンを押してみてください。
+      </p>
+    </div>
+    <div class="mt-2 mb-8 py-4 text-center">
+      <p class="text-sm text-gray-600">
+        &emsp;※本サイトで使用する水質データは（公社）日本水道協会
+        <a
+          href="http://www.jwwa.or.jp/info/suidou_statistics.html"
+          target="_blank"
+        >
+          「水道統計 令和4年度版」
+        </a>
+        を利用しています。
       </p>
     </div>
   </div>
