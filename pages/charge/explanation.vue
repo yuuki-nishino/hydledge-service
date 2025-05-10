@@ -555,7 +555,7 @@
       </section>
       <v-divider></v-divider>
       <v-row class="my-8" justify="center">
-        <v-btn color="primary" large @click="$router.push('/charge_fix')">
+        <v-btn color="primary" large @click="$router.push('/charge')">
           水道料金データの分析ページを見てみる →
         </v-btn>
       </v-row>

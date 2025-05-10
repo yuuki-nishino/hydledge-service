@@ -657,7 +657,7 @@
     <!-- 水道料金説明ページへのリンク -->
     <div class="mt-12 mb-8 py-4 text-center">
       <a
-        href="/charge"
+        href="/charge/explanation"
         class="px-8 py-3 bg-main text-white rounded-lg shadow-md hover:bg-main-dark transition-colors font-medium"
         style="text-decoration: none"
       >
