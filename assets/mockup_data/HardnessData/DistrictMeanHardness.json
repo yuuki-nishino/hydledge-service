@@ -1,0 +1,5496 @@
+{
+  "北海道": [
+    {
+      "district": "日高町",
+      "mean_hard": 142.58
+    },
+    {
+      "district": "富良野市",
+      "mean_hard": 137.97
+    },
+    {
+      "district": "美瑛町",
+      "mean_hard": 102.81
+    },
+    {
+      "district": "新ひだか町",
+      "mean_hard": 92.98
+    },
+    {
+      "district": "八雲町",
+      "mean_hard": 91.74
+    },
+    {
+      "district": "伊達市",
+      "mean_hard": 68.0
+    },
+    {
+      "district": "厚岸町",
+      "mean_hard": 67.98
+    },
+    {
+      "district": "北斗市",
+      "mean_hard": 63.92
+    },
+    {
+      "district": "白糠町",
+      "mean_hard": 59.98
+    },
+    {
+      "district": "東神楽町",
+      "mean_hard": 57.77
+    },
+    {
+      "district": "室蘭市",
+      "mean_hard": 56.37
+    },
+    {
+      "district": "標茶町",
+      "mean_hard": 54.96
+    },
+    {
+      "district": "当麻町",
+      "mean_hard": 53.98
+    },
+    {
+      "district": "長万部町",
+      "mean_hard": 52.75
+    },
+    {
+      "district": "様似町",
+      "mean_hard": 50.97
+    },
+    {
+      "district": "由仁町",
+      "mean_hard": 50.8
+    },
+    {
+      "district": "長幌上水道企業団",
+      "mean_hard": 47.34
+    },
+    {
+      "district": "中空知広域水道企業団",
+      "mean_hard": 44.0
+    },
+    {
+      "district": "別海町",
+      "mean_hard": 42.44
+    },
+    {
+      "district": "洞爺湖町",
+      "mean_hard": 41.99
+    },
+    {
+      "district": "上富良野町",
+      "mean_hard": 39.44
+    },
+    {
+      "district": "赤平市",
+      "mean_hard": 38.99
+    },
+    {
+      "district": "札幌市",
+      "mean_hard": 38.97
+    },
+    {
+      "district": "苫小牧市",
+      "mean_hard": 38.31
+    },
+    {
+      "district": "釧路市",
+      "mean_hard": 38.0
+    },
+    {
+      "district": "羅臼町",
+      "mean_hard": 37.99
+    },
+    {
+      "district": "浜中町",
+      "mean_hard": 36.98
+    },
+    {
+      "district": "江別市",
+      "mean_hard": 36.17
+    },
+    {
+      "district": "根室市",
+      "mean_hard": 36.0
+    },
+    {
+      "district": "倶知安町",
+      "mean_hard": 35.91
+    },
+    {
+      "district": "芦別市",
+      "mean_hard": 35.9
+    },
+    {
+      "district": "斜里町",
+      "mean_hard": 33.0
+    },
+    {
+      "district": "三笠市",
+      "mean_hard": 33.0
+    },
+    {
+      "district": "弟子屈町",
+      "mean_hard": 32.76
+    },
+    {
+      "district": "岩見沢市",
+      "mean_hard": 32.67
+    },
+    {
+      "district": "美唄市",
+      "mean_hard": 32.5
+    },
+    {
+      "district": "白老町",
+      "mean_hard": 32.19
+    },
+    {
+      "district": "湧別町",
+      "mean_hard": 32.12
+    },
+    {
+      "district": "桂沢水道企業団",
+      "mean_hard": 32.0
+    },
+    {
+      "district": "月新水道企業団",
+      "mean_hard": 31.99
+    },
+    {
+      "district": "七飯町",
+      "mean_hard": 31.33
+    },
+    {
+      "district": "網走市",
+      "mean_hard": 31.03
+    },
+    {
+      "district": "安平町",
+      "mean_hard": 31.01
+    },
+    {
+      "district": "深川市",
+      "mean_hard": 31.01
+    },
+    {
+      "district": "北見市",
+      "mean_hard": 30.91
+    },
+    {
+      "district": "森町",
+      "mean_hard": 30.13
+    },
+    {
+      "district": "松前町",
+      "mean_hard": 28.99
+    },
+    {
+      "district": "旭川市",
+      "mean_hard": 28.1
+    },
+    {
+      "district": "浦河町",
+      "mean_hard": 27.99
+    },
+    {
+      "district": "むかわ町",
+      "mean_hard": 27.98
+    },
+    {
+      "district": "登別市",
+      "mean_hard": 27.29
+    },
+    {
+      "district": "石狩東部広域水道企業団",
+      "mean_hard": 27.14
+    },
+    {
+      "district": "士別市",
+      "mean_hard": 26.64
+    },
+    {
+      "district": "恵庭市",
+      "mean_hard": 26.0
+    },
+    {
+      "district": "稚内市",
+      "mean_hard": 25.94
+    },
+    {
+      "district": "北広島市",
+      "mean_hard": 25.5
+    },
+    {
+      "district": "紋別市",
+      "mean_hard": 25.0
+    },
+    {
+      "district": "北空知広域水道企業団",
+      "mean_hard": 25.0
+    },
+    {
+      "district": "羽幌町",
+      "mean_hard": 24.99
+    },
+    {
+      "district": "音更町",
+      "mean_hard": 24.0
+    },
+    {
+      "district": "遠軽町",
+      "mean_hard": 23.82
+    },
+    {
+      "district": "千歳市",
+      "mean_hard": 23.58
+    },
+    {
+      "district": "小樽市",
+      "mean_hard": 23.4
+    },
+    {
+      "district": "帯広市",
+      "mean_hard": 23.0
+    },
+    {
+      "district": "栗山町",
+      "mean_hard": 22.0
+    },
+    {
+      "district": "石狩西部広域水道企業団",
+      "mean_hard": 22.0
+    },
+    {
+      "district": "留萌市",
+      "mean_hard": 20.0
+    },
+    {
+      "district": "枝幸町",
+      "mean_hard": 19.99
+    },
+    {
+      "district": "函館市",
+      "mean_hard": 19.64
+    },
+    {
+      "district": "夕張市",
+      "mean_hard": 19.27
+    },
+    {
+      "district": "中標津町",
+      "mean_hard": 19.0
+    },
+    {
+      "district": "美幌町",
+      "mean_hard": 19.0
+    },
+    {
+      "district": "石狩市",
+      "mean_hard": 17.8
+    },
+    {
+      "district": "余市町",
+      "mean_hard": 17.25
+    },
+    {
+      "district": "岩内町",
+      "mean_hard": 17.24
+    },
+    {
+      "district": "名寄市",
+      "mean_hard": 16.67
+    },
+    {
+      "district": "当別町",
+      "mean_hard": 15.0
+    },
+    {
+      "district": "増毛町",
+      "mean_hard": 14.99
+    },
+    {
+      "district": "芽室町",
+      "mean_hard": 14.98
+    },
+    {
+      "district": "清水町",
+      "mean_hard": 14.94
+    },
+    {
+      "district": "新得町",
+      "mean_hard": 14.86
+    },
+    {
+      "district": "知内町",
+      "mean_hard": 14.0
+    },
+    {
+      "district": "大樹町",
+      "mean_hard": 14.0
+    },
+    {
+      "district": "広尾町",
+      "mean_hard": 12.99
+    },
+    {
+      "district": "幕別町",
+      "mean_hard": 11.0
+    },
+    {
+      "district": "十勝中部広域水道企業団",
+      "mean_hard": 9.0
+    },
+    {
+      "district": "足寄町",
+      "mean_hard": 9.0
+    },
+    {
+      "district": "池田町",
+      "mean_hard": 7.0
+    }
+  ],
+  "青森県": [
+    {
+      "district": "三沢市",
+      "mean_hard": 71.51
+    },
+    {
+      "district": "鰺ヶ沢町",
+      "mean_hard": 65.39
+    },
+    {
+      "district": "青森市",
+      "mean_hard": 59.63
+    },
+    {
+      "district": "八戸圏域水道企業団",
+      "mean_hard": 52.61
+    },
+    {
+      "district": "深浦町",
+      "mean_hard": 46.66
+    },
+    {
+      "district": "十和田市",
+      "mean_hard": 46.02
+    },
+    {
+      "district": "中泊町",
+      "mean_hard": 43.95
+    },
+    {
+      "district": "六ケ所村",
+      "mean_hard": 40.93
+    },
+    {
+      "district": "黒石市",
+      "mean_hard": 35.63
+    },
+    {
+      "district": "むつ市",
+      "mean_hard": 32.85
+    },
+    {
+      "district": "大間町",
+      "mean_hard": 31.88
+    },
+    {
+      "district": "東北町",
+      "mean_hard": 30.95
+    },
+    {
+      "district": "平内町",
+      "mean_hard": 30.17
+    },
+    {
+      "district": "久吉ダム水道企業団",
+      "mean_hard": 29.99
+    },
+    {
+      "district": "弘前市",
+      "mean_hard": 29.31
+    },
+    {
+      "district": "東通村",
+      "mean_hard": 28.19
+    },
+    {
+      "district": "田子町",
+      "mean_hard": 26.74
+    },
+    {
+      "district": "板柳町",
+      "mean_hard": 21.0
+    },
+    {
+      "district": "五所川原市",
+      "mean_hard": 20.97
+    },
+    {
+      "district": "七戸町",
+      "mean_hard": 20.64
+    },
+    {
+      "district": "野辺地町",
+      "mean_hard": 20.26
+    },
+    {
+      "district": "津軽広域水道企業団（西北）",
+      "mean_hard": 19.4
+    },
+    {
+      "district": "津軽広域水道企業団（津軽）",
+      "mean_hard": 19.0
+    },
+    {
+      "district": "平川市",
+      "mean_hard": 18.59
+    },
+    {
+      "district": "鶴田町",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "藤崎町",
+      "mean_hard": 14.99
+    },
+    {
+      "district": "田舎館村",
+      "mean_hard": 13.0
+    }
+  ],
+  "岩手県": [
+    {
+      "district": "平泉町",
+      "mean_hard": 127.93
+    },
+    {
+      "district": "久慈市",
+      "mean_hard": 69.27
+    },
+    {
+      "district": "陸前高田市",
+      "mean_hard": 64.15
+    },
+    {
+      "district": "奥州市",
+      "mean_hard": 61.07
+    },
+    {
+      "district": "八幡平市",
+      "mean_hard": 59.62
+    },
+    {
+      "district": "一関市",
+      "mean_hard": 57.82
+    },
+    {
+      "district": "矢巾町",
+      "mean_hard": 56.03
+    },
+    {
+      "district": "軽米町",
+      "mean_hard": 51.72
+    },
+    {
+      "district": "大船渡市",
+      "mean_hard": 50.51
+    },
+    {
+      "district": "滝沢市",
+      "mean_hard": 49.49
+    },
+    {
+      "district": "岩手中部水道企業団",
+      "mean_hard": 47.43
+    },
+    {
+      "district": "岩泉町",
+      "mean_hard": 45.67
+    },
+    {
+      "district": "釜石市",
+      "mean_hard": 44.56
+    },
+    {
+      "district": "葛巻町",
+      "mean_hard": 39.31
+    },
+    {
+      "district": "岩手町",
+      "mean_hard": 35.24
+    },
+    {
+      "district": "一戸町（一戸）",
+      "mean_hard": 33.99
+    },
+    {
+      "district": "九戸村",
+      "mean_hard": 33.76
+    },
+    {
+      "district": "雫石町",
+      "mean_hard": 33.29
+    },
+    {
+      "district": "宮古市",
+      "mean_hard": 29.15
+    },
+    {
+      "district": "大槌町",
+      "mean_hard": 28.95
+    },
+    {
+      "district": "二戸市",
+      "mean_hard": 28.35
+    },
+    {
+      "district": "盛岡市",
+      "mean_hard": 23.74
+    },
+    {
+      "district": "一戸町（奥中山）",
+      "mean_hard": 21.99
+    },
+    {
+      "district": "金ケ崎町",
+      "mean_hard": 21.1
+    },
+    {
+      "district": "奥州金ケ崎行政事務組合",
+      "mean_hard": 21.0
+    },
+    {
+      "district": "洋野町",
+      "mean_hard": 20.94
+    },
+    {
+      "district": "西和賀町",
+      "mean_hard": 19.11
+    },
+    {
+      "district": "遠野市",
+      "mean_hard": 18.93
+    },
+    {
+      "district": "山田町",
+      "mean_hard": 18.31
+    }
+  ],
+  "宮城県": [
+    {
+      "district": "気仙沼市",
+      "mean_hard": 43.66
+    },
+    {
+      "district": "石巻地方広域水道企業団",
+      "mean_hard": 41.48
+    },
+    {
+      "district": "栗原市",
+      "mean_hard": 41.11
+    },
+    {
+      "district": "女川町",
+      "mean_hard": 40.52
+    },
+    {
+      "district": "大河原町",
+      "mean_hard": 39.98
+    },
+    {
+      "district": "登米市",
+      "mean_hard": 38.36
+    },
+    {
+      "district": "山元町",
+      "mean_hard": 37.71
+    },
+    {
+      "district": "南三陸町",
+      "mean_hard": 37.15
+    },
+    {
+      "district": "岩沼市",
+      "mean_hard": 34.99
+    },
+    {
+      "district": "名取市",
+      "mean_hard": 30.0
+    },
+    {
+      "district": "蔵王町",
+      "mean_hard": 29.14
+    },
+    {
+      "district": "利府町",
+      "mean_hard": 28.99
+    },
+    {
+      "district": "仙台市",
+      "mean_hard": 28.35
+    },
+    {
+      "district": "大郷町",
+      "mean_hard": 27.16
+    },
+    {
+      "district": "川崎町",
+      "mean_hard": 24.94
+    },
+    {
+      "district": "白石市",
+      "mean_hard": 24.91
+    },
+    {
+      "district": "七ヶ浜町",
+      "mean_hard": 24.0
+    },
+    {
+      "district": "亘理町",
+      "mean_hard": 23.0
+    },
+    {
+      "district": "角田市",
+      "mean_hard": 22.2
+    },
+    {
+      "district": "多賀城市",
+      "mean_hard": 22.0
+    },
+    {
+      "district": "塩竈市",
+      "mean_hard": 22.0
+    },
+    {
+      "district": "宮城県（仙南・仙塩）",
+      "mean_hard": 21.0
+    },
+    {
+      "district": "松島町",
+      "mean_hard": 20.79
+    },
+    {
+      "district": "富谷市",
+      "mean_hard": 20.77
+    },
+    {
+      "district": "丸森町",
+      "mean_hard": 20.13
+    },
+    {
+      "district": "大和町",
+      "mean_hard": 20.01
+    },
+    {
+      "district": "柴田町",
+      "mean_hard": 20.0
+    },
+    {
+      "district": "村田町",
+      "mean_hard": 19.99
+    },
+    {
+      "district": "大崎市",
+      "mean_hard": 19.79
+    },
+    {
+      "district": "美里町",
+      "mean_hard": 19.71
+    },
+    {
+      "district": "加美町",
+      "mean_hard": 16.05
+    },
+    {
+      "district": "宮城県（大崎）",
+      "mean_hard": 14.16
+    },
+    {
+      "district": "大衡村",
+      "mean_hard": 14.0
+    },
+    {
+      "district": "涌谷町",
+      "mean_hard": 13.97
+    }
+  ],
+  "秋田県": [
+    {
+      "district": "潟上市",
+      "mean_hard": 67.66
+    },
+    {
+      "district": "三種町",
+      "mean_hard": 60.66
+    },
+    {
+      "district": "北秋田市（鷹巣）",
+      "mean_hard": 56.98
+    },
+    {
+      "district": "羽後町",
+      "mean_hard": 51.68
+    },
+    {
+      "district": "北秋田市（森吉・合川）",
+      "mean_hard": 48.99
+    },
+    {
+      "district": "横手市",
+      "mean_hard": 48.96
+    },
+    {
+      "district": "男鹿市",
+      "mean_hard": 48.9
+    },
+    {
+      "district": "美郷町",
+      "mean_hard": 45.91
+    },
+    {
+      "district": "湯沢市（稲川）",
+      "mean_hard": 44.26
+    },
+    {
+      "district": "大仙市",
+      "mean_hard": 42.42
+    },
+    {
+      "district": "大館市",
+      "mean_hard": 36.14
+    },
+    {
+      "district": "仙北市",
+      "mean_hard": 35.56
+    },
+    {
+      "district": "五城目町",
+      "mean_hard": 29.95
+    },
+    {
+      "district": "能代市",
+      "mean_hard": 29.52
+    },
+    {
+      "district": "にかほ市",
+      "mean_hard": 28.93
+    },
+    {
+      "district": "湯沢市（湯沢）",
+      "mean_hard": 27.0
+    },
+    {
+      "district": "秋田市",
+      "mean_hard": 26.75
+    },
+    {
+      "district": "八郎潟町",
+      "mean_hard": 25.99
+    },
+    {
+      "district": "井川町",
+      "mean_hard": 20.99
+    },
+    {
+      "district": "小坂町",
+      "mean_hard": 19.92
+    },
+    {
+      "district": "鹿角市",
+      "mean_hard": 17.91
+    },
+    {
+      "district": "由利本荘市",
+      "mean_hard": 15.12
+    }
+  ],
+  "山形県": [
+    {
+      "district": "東根市",
+      "mean_hard": 80.96
+    },
+    {
+      "district": "高畠町",
+      "mean_hard": 53.49
+    },
+    {
+      "district": "尾花沢市大石田町環境衛生事業組合",
+      "mean_hard": 50.99
+    },
+    {
+      "district": "寒河江市",
+      "mean_hard": 41.22
+    },
+    {
+      "district": "大江町",
+      "mean_hard": 40.2
+    },
+    {
+      "district": "白鷹町",
+      "mean_hard": 38.98
+    },
+    {
+      "district": "遊佐町",
+      "mean_hard": 38.3
+    },
+    {
+      "district": "米沢市",
+      "mean_hard": 36.6
+    },
+    {
+      "district": "最上町",
+      "mean_hard": 35.94
+    },
+    {
+      "district": "西川町",
+      "mean_hard": 34.91
+    },
+    {
+      "district": "真室川町",
+      "mean_hard": 33.28
+    },
+    {
+      "district": "朝日町",
+      "mean_hard": 28.63
+    },
+    {
+      "district": "酒田市",
+      "mean_hard": 27.06
+    },
+    {
+      "district": "舟形町",
+      "mean_hard": 25.89
+    },
+    {
+      "district": "鶴岡市",
+      "mean_hard": 25.67
+    },
+    {
+      "district": "庄内町",
+      "mean_hard": 25.54
+    },
+    {
+      "district": "山形県（庄内）",
+      "mean_hard": 25.27
+    },
+    {
+      "district": "最上川中部水道企業団",
+      "mean_hard": 24.99
+    },
+    {
+      "district": "山形市",
+      "mean_hard": 24.45
+    },
+    {
+      "district": "南陽市",
+      "mean_hard": 23.96
+    },
+    {
+      "district": "山形県（置賜）",
+      "mean_hard": 23.0
+    },
+    {
+      "district": "天童市",
+      "mean_hard": 23.0
+    },
+    {
+      "district": "上山市",
+      "mean_hard": 21.02
+    },
+    {
+      "district": "川西町",
+      "mean_hard": 21.0
+    },
+    {
+      "district": "山形県（村山）",
+      "mean_hard": 21.0
+    },
+    {
+      "district": "飯豊町",
+      "mean_hard": 20.98
+    },
+    {
+      "district": "小国町",
+      "mean_hard": 18.0
+    },
+    {
+      "district": "長井市",
+      "mean_hard": 18.0
+    },
+    {
+      "district": "新庄市",
+      "mean_hard": 17.03
+    },
+    {
+      "district": "山形県（最上）",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "河北町",
+      "mean_hard": 13.92
+    },
+    {
+      "district": "金山町",
+      "mean_hard": 10.99
+    },
+    {
+      "district": "村山市",
+      "mean_hard": 7.0
+    }
+  ],
+  "福島県": [
+    {
+      "district": "三春町",
+      "mean_hard": 56.68
+    },
+    {
+      "district": "塙町",
+      "mean_hard": 54.59
+    },
+    {
+      "district": "西郷村",
+      "mean_hard": 53.91
+    },
+    {
+      "district": "須賀川市",
+      "mean_hard": 49.45
+    },
+    {
+      "district": "矢祭町",
+      "mean_hard": 48.85
+    },
+    {
+      "district": "白河市",
+      "mean_hard": 45.41
+    },
+    {
+      "district": "玉川村",
+      "mean_hard": 42.78
+    },
+    {
+      "district": "田村市",
+      "mean_hard": 42.77
+    },
+    {
+      "district": "いわき市",
+      "mean_hard": 38.25
+    },
+    {
+      "district": "浪江町",
+      "mean_hard": 36.67
+    },
+    {
+      "district": "石川町",
+      "mean_hard": 36.25
+    },
+    {
+      "district": "郡山市",
+      "mean_hard": 35.87
+    },
+    {
+      "district": "相馬地方広域水道企業団",
+      "mean_hard": 35.0
+    },
+    {
+      "district": "本宮市",
+      "mean_hard": 34.66
+    },
+    {
+      "district": "猪苗代町",
+      "mean_hard": 32.48
+    },
+    {
+      "district": "南相馬市（原町）",
+      "mean_hard": 32.31
+    },
+    {
+      "district": "小野町",
+      "mean_hard": 30.99
+    },
+    {
+      "district": "浅川町",
+      "mean_hard": 29.1
+    },
+    {
+      "district": "二本松市",
+      "mean_hard": 26.02
+    },
+    {
+      "district": "天栄村",
+      "mean_hard": 25.99
+    },
+    {
+      "district": "会津若松市",
+      "mean_hard": 25.78
+    },
+    {
+      "district": "喜多方市",
+      "mean_hard": 24.99
+    },
+    {
+      "district": "大玉村",
+      "mean_hard": 24.54
+    },
+    {
+      "district": "国見町",
+      "mean_hard": 23.99
+    },
+    {
+      "district": "会津美里町",
+      "mean_hard": 23.76
+    },
+    {
+      "district": "西会津町",
+      "mean_hard": 23.38
+    },
+    {
+      "district": "川俣町",
+      "mean_hard": 22.99
+    },
+    {
+      "district": "矢吹町",
+      "mean_hard": 22.92
+    },
+    {
+      "district": "白河地方広域市町村圏整備組合",
+      "mean_hard": 22.0
+    },
+    {
+      "district": "会津坂下町",
+      "mean_hard": 22.0
+    },
+    {
+      "district": "泉崎村",
+      "mean_hard": 22.0
+    },
+    {
+      "district": "会津若松地方広域市町村圏整備組合",
+      "mean_hard": 22.0
+    },
+    {
+      "district": "双葉地方水道企業団",
+      "mean_hard": 21.85
+    },
+    {
+      "district": "棚倉町",
+      "mean_hard": 20.83
+    },
+    {
+      "district": "福島市",
+      "mean_hard": 19.06
+    },
+    {
+      "district": "鏡石町",
+      "mean_hard": 18.45
+    },
+    {
+      "district": "福島地方水道用水供給企業団",
+      "mean_hard": 17.0
+    },
+    {
+      "district": "伊達市",
+      "mean_hard": 16.81
+    },
+    {
+      "district": "南会津町",
+      "mean_hard": 14.26
+    },
+    {
+      "district": "桑折町",
+      "mean_hard": 13.99
+    }
+  ],
+  "茨城県": [
+    {
+      "district": "神栖市",
+      "mean_hard": 95.62
+    },
+    {
+      "district": "茨城県（鹿行）",
+      "mean_hard": 90.99
+    },
+    {
+      "district": "茨城町",
+      "mean_hard": 90.84
+    },
+    {
+      "district": "潮来市",
+      "mean_hard": 89.99
+    },
+    {
+      "district": "鹿嶋市",
+      "mean_hard": 87.12
+    },
+    {
+      "district": "大洗町",
+      "mean_hard": 86.99
+    },
+    {
+      "district": "行方市",
+      "mean_hard": 79.98
+    },
+    {
+      "district": "稲敷市",
+      "mean_hard": 79.78
+    },
+    {
+      "district": "つくば市",
+      "mean_hard": 77.4
+    },
+    {
+      "district": "土浦市",
+      "mean_hard": 77.37
+    },
+    {
+      "district": "河内町",
+      "mean_hard": 77.0
+    },
+    {
+      "district": "美浦村",
+      "mean_hard": 76.99
+    },
+    {
+      "district": "桜川市",
+      "mean_hard": 75.77
+    },
+    {
+      "district": "茨城県（県南西）",
+      "mean_hard": 74.07
+    },
+    {
+      "district": "茨城県南水道企業団",
+      "mean_hard": 72.59
+    },
+    {
+      "district": "阿見町",
+      "mean_hard": 69.56
+    },
+    {
+      "district": "守谷市",
+      "mean_hard": 69.0
+    },
+    {
+      "district": "かすみがうら市",
+      "mean_hard": 66.75
+    },
+    {
+      "district": "坂東市",
+      "mean_hard": 65.97
+    },
+    {
+      "district": "つくばみらい市",
+      "mean_hard": 64.57
+    },
+    {
+      "district": "古河市",
+      "mean_hard": 61.38
+    },
+    {
+      "district": "五霞町",
+      "mean_hard": 59.97
+    },
+    {
+      "district": "ひたちなか市",
+      "mean_hard": 59.58
+    },
+    {
+      "district": "常総市",
+      "mean_hard": 59.39
+    },
+    {
+      "district": "結城市",
+      "mean_hard": 58.96
+    },
+    {
+      "district": "石岡市",
+      "mean_hard": 57.11
+    },
+    {
+      "district": "八千代町",
+      "mean_hard": 56.98
+    },
+    {
+      "district": "筑西市",
+      "mean_hard": 55.62
+    },
+    {
+      "district": "水戸市",
+      "mean_hard": 55.0
+    },
+    {
+      "district": "境町",
+      "mean_hard": 54.42
+    },
+    {
+      "district": "茨城県（県中央）",
+      "mean_hard": 53.44
+    },
+    {
+      "district": "鉾田市",
+      "mean_hard": 53.15
+    },
+    {
+      "district": "那珂市",
+      "mean_hard": 52.67
+    },
+    {
+      "district": "笠間市",
+      "mean_hard": 52.66
+    },
+    {
+      "district": "下妻市",
+      "mean_hard": 52.23
+    },
+    {
+      "district": "常陸太田市",
+      "mean_hard": 51.99
+    },
+    {
+      "district": "東海村",
+      "mean_hard": 48.99
+    },
+    {
+      "district": "常陸大宮市",
+      "mean_hard": 48.94
+    },
+    {
+      "district": "小美玉市",
+      "mean_hard": 45.32
+    },
+    {
+      "district": "城里町",
+      "mean_hard": 43.78
+    },
+    {
+      "district": "湖北水道企業団",
+      "mean_hard": 42.95
+    },
+    {
+      "district": "日立市",
+      "mean_hard": 42.8
+    },
+    {
+      "district": "大子町",
+      "mean_hard": 41.97
+    },
+    {
+      "district": "北茨城市",
+      "mean_hard": 27.13
+    },
+    {
+      "district": "高萩市",
+      "mean_hard": 22.89
+    }
+  ],
+  "栃木県": [
+    {
+      "district": "下野市",
+      "mean_hard": 98.16
+    },
+    {
+      "district": "上三川町",
+      "mean_hard": 89.03
+    },
+    {
+      "district": "佐野市",
+      "mean_hard": 86.11
+    },
+    {
+      "district": "壬生町",
+      "mean_hard": 69.65
+    },
+    {
+      "district": "栃木市",
+      "mean_hard": 68.74
+    },
+    {
+      "district": "那珂川町",
+      "mean_hard": 65.62
+    },
+    {
+      "district": "真岡市",
+      "mean_hard": 63.87
+    },
+    {
+      "district": "野木町",
+      "mean_hard": 63.05
+    },
+    {
+      "district": "那須烏山市",
+      "mean_hard": 62.13
+    },
+    {
+      "district": "小山市",
+      "mean_hard": 60.15
+    },
+    {
+      "district": "足利市",
+      "mean_hard": 58.11
+    },
+    {
+      "district": "芳賀中部上水道企業団",
+      "mean_hard": 54.27
+    },
+    {
+      "district": "高根沢町",
+      "mean_hard": 53.72
+    },
+    {
+      "district": "茂木町",
+      "mean_hard": 50.36
+    },
+    {
+      "district": "さくら市",
+      "mean_hard": 47.47
+    },
+    {
+      "district": "那須町",
+      "mean_hard": 46.62
+    },
+    {
+      "district": "大田原市",
+      "mean_hard": 45.19
+    },
+    {
+      "district": "宇都宮市",
+      "mean_hard": 44.31
+    },
+    {
+      "district": "那須塩原市",
+      "mean_hard": 41.92
+    },
+    {
+      "district": "矢板市",
+      "mean_hard": 39.49
+    },
+    {
+      "district": "栃木県（鬼怒）",
+      "mean_hard": 38.0
+    },
+    {
+      "district": "日光市",
+      "mean_hard": 37.15
+    },
+    {
+      "district": "鹿沼市",
+      "mean_hard": 37.11
+    },
+    {
+      "district": "塩谷町",
+      "mean_hard": 36.68
+    },
+    {
+      "district": "栃木県（北那須）",
+      "mean_hard": 32.0
+    },
+    {
+      "district": "那須ハイランド水道",
+      "mean_hard": 27.98
+    }
+  ],
+  "群馬県": [
+    {
+      "district": "藤岡市",
+      "mean_hard": 94.77
+    },
+    {
+      "district": "前橋市",
+      "mean_hard": 89.65
+    },
+    {
+      "district": "富岡市",
+      "mean_hard": 85.49
+    },
+    {
+      "district": "玉村町",
+      "mean_hard": 79.99
+    },
+    {
+      "district": "下仁田町",
+      "mean_hard": 65.7
+    },
+    {
+      "district": "群馬東部水道企業団",
+      "mean_hard": 62.04
+    },
+    {
+      "district": "伊勢崎市",
+      "mean_hard": 61.99
+    },
+    {
+      "district": "渋川市",
+      "mean_hard": 56.44
+    },
+    {
+      "district": "嬬恋村",
+      "mean_hard": 53.69
+    },
+    {
+      "district": "甘楽町",
+      "mean_hard": 53.05
+    },
+    {
+      "district": "吉岡町",
+      "mean_hard": 52.99
+    },
+    {
+      "district": "榛東村",
+      "mean_hard": 52.71
+    },
+    {
+      "district": "安中市",
+      "mean_hard": 41.29
+    },
+    {
+      "district": "中之条町",
+      "mean_hard": 39.97
+    },
+    {
+      "district": "高崎市",
+      "mean_hard": 39.91
+    },
+    {
+      "district": "みなかみ町",
+      "mean_hard": 37.45
+    },
+    {
+      "district": "桐生市",
+      "mean_hard": 37.41
+    },
+    {
+      "district": "東吾妻町",
+      "mean_hard": 31.22
+    },
+    {
+      "district": "沼田市",
+      "mean_hard": 29.0
+    },
+    {
+      "district": "草津町",
+      "mean_hard": 22.22
+    },
+    {
+      "district": "群馬県（県央第一）",
+      "mean_hard": 21.0
+    },
+    {
+      "district": "群馬県（県央第二）",
+      "mean_hard": 20.0
+    }
+  ],
+  "埼玉県": [
+    {
+      "district": "本庄市",
+      "mean_hard": 169.16
+    },
+    {
+      "district": "上里町",
+      "mean_hard": 158.3
+    },
+    {
+      "district": "深谷市",
+      "mean_hard": 115.12
+    },
+    {
+      "district": "美里町",
+      "mean_hard": 114.96
+    },
+    {
+      "district": "羽生市",
+      "mean_hard": 103.2
+    },
+    {
+      "district": "熊谷市",
+      "mean_hard": 97.34
+    },
+    {
+      "district": "伊奈町",
+      "mean_hard": 93.97
+    },
+    {
+      "district": "嵐山町",
+      "mean_hard": 90.65
+    },
+    {
+      "district": "毛呂山町",
+      "mean_hard": 87.06
+    },
+    {
+      "district": "朝霞市",
+      "mean_hard": 82.07
+    },
+    {
+      "district": "神川町",
+      "mean_hard": 81.96
+    },
+    {
+      "district": "富士見市",
+      "mean_hard": 81.51
+    },
+    {
+      "district": "和光市",
+      "mean_hard": 81.15
+    },
+    {
+      "district": "蕨市",
+      "mean_hard": 79.49
+    },
+    {
+      "district": "行田市",
+      "mean_hard": 79.31
+    },
+    {
+      "district": "川越市",
+      "mean_hard": 77.11
+    },
+    {
+      "district": "小川町",
+      "mean_hard": 76.49
+    },
+    {
+      "district": "新座市",
+      "mean_hard": 76.23
+    },
+    {
+      "district": "入間市",
+      "mean_hard": 76.01
+    },
+    {
+      "district": "白岡市",
+      "mean_hard": 75.27
+    },
+    {
+      "district": "志木市",
+      "mean_hard": 74.99
+    },
+    {
+      "district": "東松山市",
+      "mean_hard": 73.99
+    },
+    {
+      "district": "狭山市",
+      "mean_hard": 73.91
+    },
+    {
+      "district": "日高市",
+      "mean_hard": 72.51
+    },
+    {
+      "district": "ふじみ野市",
+      "mean_hard": 72.36
+    },
+    {
+      "district": "所沢市",
+      "mean_hard": 72.17
+    },
+    {
+      "district": "戸田市",
+      "mean_hard": 71.94
+    },
+    {
+      "district": "鴻巣市",
+      "mean_hard": 70.61
+    },
+    {
+      "district": "三芳町",
+      "mean_hard": 69.98
+    },
+    {
+      "district": "川口市",
+      "mean_hard": 69.91
+    },
+    {
+      "district": "上尾市",
+      "mean_hard": 69.56
+    },
+    {
+      "district": "春日部市",
+      "mean_hard": 69.12
+    },
+    {
+      "district": "鳩山町",
+      "mean_hard": 68.92
+    },
+    {
+      "district": "宮代町",
+      "mean_hard": 68.58
+    },
+    {
+      "district": "川島町",
+      "mean_hard": 67.99
+    },
+    {
+      "district": "加須市",
+      "mean_hard": 67.4
+    },
+    {
+      "district": "三郷市",
+      "mean_hard": 66.35
+    },
+    {
+      "district": "寄居町",
+      "mean_hard": 66.29
+    },
+    {
+      "district": "杉戸町",
+      "mean_hard": 65.85
+    },
+    {
+      "district": "桶川北本水道企業団",
+      "mean_hard": 64.31
+    },
+    {
+      "district": "さいたま市",
+      "mean_hard": 64.19
+    },
+    {
+      "district": "埼玉県",
+      "mean_hard": 64.11
+    },
+    {
+      "district": "坂戸、鶴ヶ島水道企業団",
+      "mean_hard": 63.99
+    },
+    {
+      "district": "蓮田市",
+      "mean_hard": 63.96
+    },
+    {
+      "district": "吉川市",
+      "mean_hard": 62.86
+    },
+    {
+      "district": "越谷・松伏水道企業団",
+      "mean_hard": 62.16
+    },
+    {
+      "district": "滑川町",
+      "mean_hard": 62.0
+    },
+    {
+      "district": "八潮市",
+      "mean_hard": 60.99
+    },
+    {
+      "district": "草加市",
+      "mean_hard": 60.86
+    },
+    {
+      "district": "幸手市",
+      "mean_hard": 60.46
+    },
+    {
+      "district": "飯能市",
+      "mean_hard": 60.39
+    },
+    {
+      "district": "越生町",
+      "mean_hard": 58.98
+    },
+    {
+      "district": "秩父広域市町村圏組合",
+      "mean_hard": 58.48
+    },
+    {
+      "district": "久喜市",
+      "mean_hard": 57.94
+    },
+    {
+      "district": "吉見町",
+      "mean_hard": 56.0
+    },
+    {
+      "district": "ときがわ町",
+      "mean_hard": 38.49
+    }
+  ],
+  "千葉県": [
+    {
+      "district": "鋸南町",
+      "mean_hard": 113.9
+    },
+    {
+      "district": "大多喜町",
+      "mean_hard": 101.11
+    },
+    {
+      "district": "かずさ水道広域連合企業団",
+      "mean_hard": 99.13
+    },
+    {
+      "district": "市原市",
+      "mean_hard": 97.72
+    },
+    {
+      "district": "長生郡市広域市町村圏組合",
+      "mean_hard": 95.47
+    },
+    {
+      "district": "山武郡市広域水道企業団",
+      "mean_hard": 94.15
+    },
+    {
+      "district": "長門川水道企業団",
+      "mean_hard": 93.94
+    },
+    {
+      "district": "南房総広域水道企業団",
+      "mean_hard": 93.0
+    },
+    {
+      "district": "八匝水道企業団",
+      "mean_hard": 91.99
+    },
+    {
+      "district": "九十九里地域水道企業団",
+      "mean_hard": 91.41
+    },
+    {
+      "district": "旭市",
+      "mean_hard": 90.99
+    },
+    {
+      "district": "多古町",
+      "mean_hard": 90.58
+    },
+    {
+      "district": "東庄町",
+      "mean_hard": 90.0
+    },
+    {
+      "district": "東庄町（第２）",
+      "mean_hard": 89.0
+    },
+    {
+      "district": "三芳水道企業団",
+      "mean_hard": 87.56
+    },
+    {
+      "district": "勝浦市",
+      "mean_hard": 86.04
+    },
+    {
+      "district": "銚子市",
+      "mean_hard": 84.19
+    },
+    {
+      "district": "富里市",
+      "mean_hard": 82.98
+    },
+    {
+      "district": "習志野市",
+      "mean_hard": 82.28
+    },
+    {
+      "district": "成田市",
+      "mean_hard": 80.48
+    },
+    {
+      "district": "印旛郡市広域市町村圏事務組合",
+      "mean_hard": 80.43
+    },
+    {
+      "district": "八街市",
+      "mean_hard": 80.3
+    },
+    {
+      "district": "香取市（佐原）",
+      "mean_hard": 79.87
+    },
+    {
+      "district": "東総広域水道企業団",
+      "mean_hard": 79.0
+    },
+    {
+      "district": "香取市（小見川・山田）",
+      "mean_hard": 78.99
+    },
+    {
+      "district": "神崎町",
+      "mean_hard": 78.95
+    },
+    {
+      "district": "千葉県",
+      "mean_hard": 78.11
+    },
+    {
+      "district": "佐倉市",
+      "mean_hard": 77.22
+    },
+    {
+      "district": "いすみ市",
+      "mean_hard": 75.71
+    },
+    {
+      "district": "南房総市",
+      "mean_hard": 75.1
+    },
+    {
+      "district": "流山市",
+      "mean_hard": 74.15
+    },
+    {
+      "district": "印西市（印西）",
+      "mean_hard": 73.55
+    },
+    {
+      "district": "北千葉広域水道企業団",
+      "mean_hard": 72.0
+    },
+    {
+      "district": "我孫子市",
+      "mean_hard": 70.99
+    },
+    {
+      "district": "白井市",
+      "mean_hard": 69.99
+    },
+    {
+      "district": "八千代市",
+      "mean_hard": 69.05
+    },
+    {
+      "district": "野田市",
+      "mean_hard": 68.97
+    },
+    {
+      "district": "松戸市",
+      "mean_hard": 68.38
+    },
+    {
+      "district": "柏市",
+      "mean_hard": 67.57
+    },
+    {
+      "district": "鴨川市",
+      "mean_hard": 63.54
+    },
+    {
+      "district": "酒々井町",
+      "mean_hard": 60.99
+    },
+    {
+      "district": "四街道市",
+      "mean_hard": 59.73
+    },
+    {
+      "district": "山武市",
+      "mean_hard": 58.97
+    },
+    {
+      "district": "千葉市",
+      "mean_hard": 57.92
+    },
+    {
+      "district": "御宿町",
+      "mean_hard": 50.97
+    }
+  ],
+  "東京都": [
+    {
+      "district": "武蔵野市",
+      "mean_hard": 82.25
+    },
+    {
+      "district": "大島町",
+      "mean_hard": 77.77
+    },
+    {
+      "district": "羽村市",
+      "mean_hard": 73.0
+    },
+    {
+      "district": "昭島市",
+      "mean_hard": 65.57
+    },
+    {
+      "district": "東京都",
+      "mean_hard": 63.55
+    },
+    {
+      "district": "八丈町",
+      "mean_hard": 35.84
+    }
+  ],
+  "神奈川県": [
+    {
+      "district": "座間市",
+      "mean_hard": 102.05
+    },
+    {
+      "district": "神奈川県（箱根）",
+      "mean_hard": 100.71
+    },
+    {
+      "district": "中井町",
+      "mean_hard": 99.77
+    },
+    {
+      "district": "秦野市",
+      "mean_hard": 82.48
+    },
+    {
+      "district": "山北町",
+      "mean_hard": 75.22
+    },
+    {
+      "district": "松田町",
+      "mean_hard": 73.12
+    },
+    {
+      "district": "大井町",
+      "mean_hard": 70.99
+    },
+    {
+      "district": "開成町",
+      "mean_hard": 63.99
+    },
+    {
+      "district": "神奈川県内広域水道企業団",
+      "mean_hard": 63.36
+    },
+    {
+      "district": "横須賀市",
+      "mean_hard": 62.78
+    },
+    {
+      "district": "神奈川県",
+      "mean_hard": 61.68
+    },
+    {
+      "district": "小田原市",
+      "mean_hard": 61.59
+    },
+    {
+      "district": "三浦市",
+      "mean_hard": 60.25
+    },
+    {
+      "district": "愛川町",
+      "mean_hard": 60.24
+    },
+    {
+      "district": "横浜市",
+      "mean_hard": 55.42
+    },
+    {
+      "district": "川崎市",
+      "mean_hard": 55.0
+    },
+    {
+      "district": "南足柄市",
+      "mean_hard": 40.35
+    },
+    {
+      "district": "箱根町",
+      "mean_hard": 38.77
+    },
+    {
+      "district": "真鶴町",
+      "mean_hard": 34.38
+    },
+    {
+      "district": "湯河原町（湯河原）",
+      "mean_hard": 31.99
+    },
+    {
+      "district": "湯河原町（吉浜）",
+      "mean_hard": 27.83
+    }
+  ],
+  "新潟県": [
+    {
+      "district": "糸魚川市",
+      "mean_hard": 127.27
+    },
+    {
+      "district": "佐渡市",
+      "mean_hard": 66.58
+    },
+    {
+      "district": "十日町市",
+      "mean_hard": 59.47
+    },
+    {
+      "district": "田上町",
+      "mean_hard": 52.58
+    },
+    {
+      "district": "魚沼市",
+      "mean_hard": 44.62
+    },
+    {
+      "district": "小千谷市",
+      "mean_hard": 44.35
+    },
+    {
+      "district": "長岡市",
+      "mean_hard": 38.74
+    },
+    {
+      "district": "村上市",
+      "mean_hard": 37.05
+    },
+    {
+      "district": "燕・弥彦総合事務組合",
+      "mean_hard": 36.62
+    },
+    {
+      "district": "見附市",
+      "mean_hard": 34.0
+    },
+    {
+      "district": "妙高市（新井）",
+      "mean_hard": 33.78
+    },
+    {
+      "district": "上越市",
+      "mean_hard": 32.68
+    },
+    {
+      "district": "妙高市（妙高高原）",
+      "mean_hard": 31.9
+    },
+    {
+      "district": "五泉市",
+      "mean_hard": 30.7
+    },
+    {
+      "district": "新潟市",
+      "mean_hard": 27.35
+    },
+    {
+      "district": "阿賀野市",
+      "mean_hard": 25.03
+    },
+    {
+      "district": "湯沢町",
+      "mean_hard": 24.09
+    },
+    {
+      "district": "聖籠町",
+      "mean_hard": 23.0
+    },
+    {
+      "district": "柏崎市",
+      "mean_hard": 22.2
+    },
+    {
+      "district": "南魚沼市",
+      "mean_hard": 21.32
+    },
+    {
+      "district": "新潟東港地域水道用水供給企業団",
+      "mean_hard": 20.0
+    },
+    {
+      "district": "阿賀町",
+      "mean_hard": 18.89
+    },
+    {
+      "district": "加茂市",
+      "mean_hard": 17.88
+    },
+    {
+      "district": "新発田市",
+      "mean_hard": 16.09
+    },
+    {
+      "district": "三条市",
+      "mean_hard": 16.01
+    },
+    {
+      "district": "胎内市",
+      "mean_hard": 12.0
+    }
+  ],
+  "富山県": [
+    {
+      "district": "高岡市",
+      "mean_hard": 65.09
+    },
+    {
+      "district": "魚津市",
+      "mean_hard": 51.0
+    },
+    {
+      "district": "南砺市",
+      "mean_hard": 48.59
+    },
+    {
+      "district": "立山町",
+      "mean_hard": 41.65
+    },
+    {
+      "district": "上市町",
+      "mean_hard": 41.44
+    },
+    {
+      "district": "黒部市",
+      "mean_hard": 38.33
+    },
+    {
+      "district": "富山市",
+      "mean_hard": 36.82
+    },
+    {
+      "district": "滑川市",
+      "mean_hard": 36.0
+    },
+    {
+      "district": "砺波市",
+      "mean_hard": 26.94
+    },
+    {
+      "district": "射水市",
+      "mean_hard": 26.43
+    },
+    {
+      "district": "砺波広域圏事務組合",
+      "mean_hard": 25.0
+    },
+    {
+      "district": "富山県（西部）",
+      "mean_hard": 24.56
+    },
+    {
+      "district": "小矢部市",
+      "mean_hard": 21.52
+    },
+    {
+      "district": "氷見市",
+      "mean_hard": 21.0
+    }
+  ],
+  "石川県": [
+    {
+      "district": "白山市",
+      "mean_hard": 101.12
+    },
+    {
+      "district": "津幡町",
+      "mean_hard": 96.14
+    },
+    {
+      "district": "野々市市",
+      "mean_hard": 80.91
+    },
+    {
+      "district": "中能登町",
+      "mean_hard": 78.99
+    },
+    {
+      "district": "かほく市",
+      "mean_hard": 75.85
+    },
+    {
+      "district": "羽咋市",
+      "mean_hard": 65.97
+    },
+    {
+      "district": "能美市",
+      "mean_hard": 58.15
+    },
+    {
+      "district": "宝達志水町",
+      "mean_hard": 57.45
+    },
+    {
+      "district": "七尾市",
+      "mean_hard": 54.64
+    },
+    {
+      "district": "志賀町",
+      "mean_hard": 50.59
+    },
+    {
+      "district": "小松市",
+      "mean_hard": 48.89
+    },
+    {
+      "district": "石川県",
+      "mean_hard": 36.0
+    },
+    {
+      "district": "内灘町",
+      "mean_hard": 35.0
+    },
+    {
+      "district": "金沢市",
+      "mean_hard": 27.39
+    },
+    {
+      "district": "輪島市",
+      "mean_hard": 23.2
+    },
+    {
+      "district": "加賀市",
+      "mean_hard": 22.5
+    },
+    {
+      "district": "能登町",
+      "mean_hard": 19.9
+    },
+    {
+      "district": "珠洲市",
+      "mean_hard": 19.75
+    },
+    {
+      "district": "穴水町",
+      "mean_hard": 15.41
+    }
+  ],
+  "福井県": [
+    {
+      "district": "美浜町",
+      "mean_hard": 58.98
+    },
+    {
+      "district": "越前町",
+      "mean_hard": 52.17
+    },
+    {
+      "district": "大野市",
+      "mean_hard": 44.97
+    },
+    {
+      "district": "福井市",
+      "mean_hard": 43.3
+    },
+    {
+      "district": "永平寺町",
+      "mean_hard": 41.99
+    },
+    {
+      "district": "高浜町",
+      "mean_hard": 41.99
+    },
+    {
+      "district": "若狭町",
+      "mean_hard": 37.45
+    },
+    {
+      "district": "越前市",
+      "mean_hard": 34.95
+    },
+    {
+      "district": "坂井市",
+      "mean_hard": 29.87
+    },
+    {
+      "district": "鯖江市",
+      "mean_hard": 25.99
+    },
+    {
+      "district": "福井県（日野川）",
+      "mean_hard": 25.0
+    },
+    {
+      "district": "南越前町",
+      "mean_hard": 24.96
+    },
+    {
+      "district": "敦賀市",
+      "mean_hard": 23.97
+    },
+    {
+      "district": "勝山市",
+      "mean_hard": 16.76
+    },
+    {
+      "district": "福井県（坂井）",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "あわら市",
+      "mean_hard": 11.46
+    }
+  ],
+  "山梨県": [
+    {
+      "district": "富士川町",
+      "mean_hard": 119.81
+    },
+    {
+      "district": "市川三郷町",
+      "mean_hard": 109.97
+    },
+    {
+      "district": "中央市",
+      "mean_hard": 88.92
+    },
+    {
+      "district": "南アルプス市",
+      "mean_hard": 88.32
+    },
+    {
+      "district": "山梨市",
+      "mean_hard": 65.39
+    },
+    {
+      "district": "甲斐市",
+      "mean_hard": 56.33
+    },
+    {
+      "district": "都留市",
+      "mean_hard": 53.28
+    },
+    {
+      "district": "韮崎市",
+      "mean_hard": 50.92
+    },
+    {
+      "district": "富士吉田市",
+      "mean_hard": 43.51
+    },
+    {
+      "district": "笛吹市",
+      "mean_hard": 42.23
+    },
+    {
+      "district": "東部地域広域水道企業団",
+      "mean_hard": 41.37
+    },
+    {
+      "district": "忍野村",
+      "mean_hard": 38.98
+    },
+    {
+      "district": "富士河口湖町",
+      "mean_hard": 38.14
+    },
+    {
+      "district": "峡北地域広域水道企業団",
+      "mean_hard": 34.64
+    },
+    {
+      "district": "甲州市",
+      "mean_hard": 33.86
+    },
+    {
+      "district": "甲府市",
+      "mean_hard": 25.49
+    },
+    {
+      "district": "北杜市",
+      "mean_hard": 23.53
+    },
+    {
+      "district": "峡東地域広域水道企業団",
+      "mean_hard": 20.0
+    }
+  ],
+  "長野県": [
+    {
+      "district": "浅麓水道企業団",
+      "mean_hard": 184.04
+    },
+    {
+      "district": "御代田町",
+      "mean_hard": 131.62
+    },
+    {
+      "district": "小諸市",
+      "mean_hard": 130.78
+    },
+    {
+      "district": "小布施町",
+      "mean_hard": 120.95
+    },
+    {
+      "district": "東御市",
+      "mean_hard": 96.38
+    },
+    {
+      "district": "中野市",
+      "mean_hard": 84.51
+    },
+    {
+      "district": "千曲市",
+      "mean_hard": 64.99
+    },
+    {
+      "district": "須坂市",
+      "mean_hard": 57.64
+    },
+    {
+      "district": "長野市",
+      "mean_hard": 55.62
+    },
+    {
+      "district": "富士見町",
+      "mean_hard": 55.48
+    },
+    {
+      "district": "長野県",
+      "mean_hard": 53.79
+    },
+    {
+      "district": "豊丘村",
+      "mean_hard": 53.53
+    },
+    {
+      "district": "岡谷市",
+      "mean_hard": 51.65
+    },
+    {
+      "district": "軽井沢町",
+      "mean_hard": 50.41
+    },
+    {
+      "district": "松本市（四賀）",
+      "mean_hard": 49.87
+    },
+    {
+      "district": "池田町",
+      "mean_hard": 47.07
+    },
+    {
+      "district": "佐久水道企業団",
+      "mean_hard": 45.34
+    },
+    {
+      "district": "上田市",
+      "mean_hard": 42.41
+    },
+    {
+      "district": "安曇野市",
+      "mean_hard": 40.35
+    },
+    {
+      "district": "白馬村",
+      "mean_hard": 39.68
+    },
+    {
+      "district": "松本市（梓川）",
+      "mean_hard": 39.03
+    },
+    {
+      "district": "松本市（松本）",
+      "mean_hard": 37.54
+    },
+    {
+      "district": "山ノ内町",
+      "mean_hard": 36.97
+    },
+    {
+      "district": "（株）蓼科ビレッジ",
+      "mean_hard": 36.7
+    },
+    {
+      "district": "飯綱町（牟礼）",
+      "mean_hard": 34.99
+    },
+    {
+      "district": "塩尻市",
+      "mean_hard": 34.84
+    },
+    {
+      "district": "辰野町",
+      "mean_hard": 34.14
+    },
+    {
+      "district": "飯山市",
+      "mean_hard": 33.95
+    },
+    {
+      "district": "諏訪市",
+      "mean_hard": 33.5
+    },
+    {
+      "district": "長和町",
+      "mean_hard": 33.0
+    },
+    {
+      "district": "小海町",
+      "mean_hard": 32.28
+    },
+    {
+      "district": "伊那市",
+      "mean_hard": 31.49
+    },
+    {
+      "district": "南箕輪村",
+      "mean_hard": 30.94
+    },
+    {
+      "district": "山形村",
+      "mean_hard": 29.21
+    },
+    {
+      "district": "箕輪町",
+      "mean_hard": 28.11
+    },
+    {
+      "district": "（株）三井の森",
+      "mean_hard": 27.95
+    },
+    {
+      "district": "茅野市",
+      "mean_hard": 27.27
+    },
+    {
+      "district": "長野県上伊那広域水道企業団",
+      "mean_hard": 27.0
+    },
+    {
+      "district": "木島平村",
+      "mean_hard": 24.4
+    },
+    {
+      "district": "立科町",
+      "mean_hard": 23.99
+    },
+    {
+      "district": "アルピコリゾート＆ライフ㈱",
+      "mean_hard": 23.95
+    },
+    {
+      "district": "木曽町",
+      "mean_hard": 21.18
+    },
+    {
+      "district": "高森町",
+      "mean_hard": 21.02
+    },
+    {
+      "district": "宮田村",
+      "mean_hard": 19.95
+    },
+    {
+      "district": "駒ヶ根市",
+      "mean_hard": 18.83
+    },
+    {
+      "district": "飯島町",
+      "mean_hard": 18.0
+    },
+    {
+      "district": "松本市（波田）",
+      "mean_hard": 17.97
+    },
+    {
+      "district": "（株）八ヶ岳高原ロッジ",
+      "mean_hard": 16.73
+    },
+    {
+      "district": "野沢温泉村",
+      "mean_hard": 16.24
+    },
+    {
+      "district": "下諏訪町",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "大町市",
+      "mean_hard": 15.68
+    },
+    {
+      "district": "松川村",
+      "mean_hard": 13.03
+    },
+    {
+      "district": "東急不動産（株）",
+      "mean_hard": 11.98
+    },
+    {
+      "district": "喬木村",
+      "mean_hard": 10.92
+    },
+    {
+      "district": "阿智村",
+      "mean_hard": 10.8
+    },
+    {
+      "district": "鹿島リゾート（株）",
+      "mean_hard": 10.57
+    },
+    {
+      "district": "飯田市",
+      "mean_hard": 8.95
+    },
+    {
+      "district": "松川町",
+      "mean_hard": 8.92
+    }
+  ],
+  "岐阜県": [
+    {
+      "district": "笠松町",
+      "mean_hard": 69.88
+    },
+    {
+      "district": "養老町",
+      "mean_hard": 68.45
+    },
+    {
+      "district": "北方町",
+      "mean_hard": 64.99
+    },
+    {
+      "district": "岐南町",
+      "mean_hard": 64.94
+    },
+    {
+      "district": "山県市（高富）",
+      "mean_hard": 61.52
+    },
+    {
+      "district": "関ヶ原町",
+      "mean_hard": 53.89
+    },
+    {
+      "district": "大野町",
+      "mean_hard": 52.29
+    },
+    {
+      "district": "大垣市",
+      "mean_hard": 51.53
+    },
+    {
+      "district": "羽島市",
+      "mean_hard": 51.14
+    },
+    {
+      "district": "山県市（美山）",
+      "mean_hard": 51.06
+    },
+    {
+      "district": "本巣市",
+      "mean_hard": 50.3
+    },
+    {
+      "district": "各務原市",
+      "mean_hard": 49.57
+    },
+    {
+      "district": "揖斐川町",
+      "mean_hard": 44.58
+    },
+    {
+      "district": "瑞穂市",
+      "mean_hard": 43.91
+    },
+    {
+      "district": "飛騨市",
+      "mean_hard": 42.49
+    },
+    {
+      "district": "安八町",
+      "mean_hard": 42.0
+    },
+    {
+      "district": "岐阜市",
+      "mean_hard": 41.9
+    },
+    {
+      "district": "輪之内町",
+      "mean_hard": 40.99
+    },
+    {
+      "district": "関市",
+      "mean_hard": 40.24
+    },
+    {
+      "district": "垂井町",
+      "mean_hard": 38.37
+    },
+    {
+      "district": "池田町",
+      "mean_hard": 38.3
+    },
+    {
+      "district": "神戸町",
+      "mean_hard": 37.48
+    },
+    {
+      "district": "海津市",
+      "mean_hard": 32.21
+    },
+    {
+      "district": "美濃市",
+      "mean_hard": 24.69
+    },
+    {
+      "district": "郡上市",
+      "mean_hard": 23.76
+    },
+    {
+      "district": "高山市",
+      "mean_hard": 23.7
+    },
+    {
+      "district": "可児市",
+      "mean_hard": 17.8
+    },
+    {
+      "district": "土岐市",
+      "mean_hard": 17.0
+    },
+    {
+      "district": "坂祝町",
+      "mean_hard": 16.99
+    },
+    {
+      "district": "多治見市",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "富加町",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "瑞浪市",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "御嵩町",
+      "mean_hard": 15.81
+    },
+    {
+      "district": "中津川市",
+      "mean_hard": 15.47
+    },
+    {
+      "district": "下呂市",
+      "mean_hard": 13.0
+    },
+    {
+      "district": "八百津町",
+      "mean_hard": 12.78
+    },
+    {
+      "district": "美濃加茂市",
+      "mean_hard": 12.57
+    },
+    {
+      "district": "岐阜県",
+      "mean_hard": 12.52
+    },
+    {
+      "district": "川辺町",
+      "mean_hard": 12.0
+    },
+    {
+      "district": "恵那市",
+      "mean_hard": 11.97
+    }
+  ],
+  "静岡県": [
+    {
+      "district": "西伊豆町",
+      "mean_hard": 102.23
+    },
+    {
+      "district": "富士市（富士川）",
+      "mean_hard": 82.99
+    },
+    {
+      "district": "菊川市",
+      "mean_hard": 69.93
+    },
+    {
+      "district": "静岡市",
+      "mean_hard": 69.59
+    },
+    {
+      "district": "焼津市",
+      "mean_hard": 66.78
+    },
+    {
+      "district": "大井上水道企業団",
+      "mean_hard": 61.44
+    },
+    {
+      "district": "静岡県（榛南）",
+      "mean_hard": 60.0
+    },
+    {
+      "district": "御殿場市",
+      "mean_hard": 58.65
+    },
+    {
+      "district": "三島市",
+      "mean_hard": 58.0
+    },
+    {
+      "district": "藤枝市",
+      "mean_hard": 57.62
+    },
+    {
+      "district": "吉田町",
+      "mean_hard": 56.17
+    },
+    {
+      "district": "牧之原市",
+      "mean_hard": 53.67
+    },
+    {
+      "district": "富士市（富士）",
+      "mean_hard": 53.17
+    },
+    {
+      "district": "磐田市",
+      "mean_hard": 53.01
+    },
+    {
+      "district": "松崎町",
+      "mean_hard": 52.59
+    },
+    {
+      "district": "小山町",
+      "mean_hard": 51.81
+    },
+    {
+      "district": "掛川市",
+      "mean_hard": 50.3
+    },
+    {
+      "district": "浜松市",
+      "mean_hard": 49.71
+    },
+    {
+      "district": "函南町",
+      "mean_hard": 49.57
+    },
+    {
+      "district": "島田市",
+      "mean_hard": 49.49
+    },
+    {
+      "district": "御前崎市",
+      "mean_hard": 48.25
+    },
+    {
+      "district": "湖西市",
+      "mean_hard": 47.01
+    },
+    {
+      "district": "袋井市",
+      "mean_hard": 46.63
+    },
+    {
+      "district": "静岡県（駿豆）",
+      "mean_hard": 46.0
+    },
+    {
+      "district": "伊豆の国市",
+      "mean_hard": 45.89
+    },
+    {
+      "district": "静岡県（遠州）",
+      "mean_hard": 44.55
+    },
+    {
+      "district": "大井川広域水道企業団",
+      "mean_hard": 44.0
+    },
+    {
+      "district": "沼津市",
+      "mean_hard": 43.89
+    },
+    {
+      "district": "森町",
+      "mean_hard": 42.98
+    },
+    {
+      "district": "下田市",
+      "mean_hard": 41.65
+    },
+    {
+      "district": "東伊豆町",
+      "mean_hard": 41.08
+    },
+    {
+      "district": "南伊豆町",
+      "mean_hard": 40.88
+    },
+    {
+      "district": "熱海市",
+      "mean_hard": 40.44
+    },
+    {
+      "district": "富士宮市",
+      "mean_hard": 39.63
+    },
+    {
+      "district": "長泉町",
+      "mean_hard": 39.56
+    },
+    {
+      "district": "河津町",
+      "mean_hard": 38.85
+    },
+    {
+      "district": "裾野市",
+      "mean_hard": 38.5
+    },
+    {
+      "district": "伊東市",
+      "mean_hard": 37.99
+    },
+    {
+      "district": "伊豆市",
+      "mean_hard": 31.19
+    },
+    {
+      "district": "伊豆急行（株）",
+      "mean_hard": 27.99
+    },
+    {
+      "district": "（株）ＩＣＰ",
+      "mean_hard": 26.99
+    }
+  ],
+  "愛知県": [
+    {
+      "district": "江南市",
+      "mean_hard": 52.93
+    },
+    {
+      "district": "岩倉市",
+      "mean_hard": 47.98
+    },
+    {
+      "district": "一宮市",
+      "mean_hard": 39.88
+    },
+    {
+      "district": "豊橋市",
+      "mean_hard": 38.7
+    },
+    {
+      "district": "小牧市",
+      "mean_hard": 37.43
+    },
+    {
+      "district": "常滑市",
+      "mean_hard": 36.27
+    },
+    {
+      "district": "美浜町",
+      "mean_hard": 35.0
+    },
+    {
+      "district": "武豊町",
+      "mean_hard": 35.0
+    },
+    {
+      "district": "阿久比町",
+      "mean_hard": 34.16
+    },
+    {
+      "district": "丹羽広域事務組合",
+      "mean_hard": 33.85
+    },
+    {
+      "district": "東浦町",
+      "mean_hard": 33.5
+    },
+    {
+      "district": "半田市",
+      "mean_hard": 33.0
+    },
+    {
+      "district": "豊川市",
+      "mean_hard": 32.74
+    },
+    {
+      "district": "知多市",
+      "mean_hard": 32.0
+    },
+    {
+      "district": "南知多町",
+      "mean_hard": 31.7
+    },
+    {
+      "district": "北名古屋水道企業団",
+      "mean_hard": 30.02
+    },
+    {
+      "district": "新城市",
+      "mean_hard": 28.64
+    },
+    {
+      "district": "愛西市",
+      "mean_hard": 26.34
+    },
+    {
+      "district": "犬山市",
+      "mean_hard": 25.23
+    },
+    {
+      "district": "刈谷市",
+      "mean_hard": 25.22
+    },
+    {
+      "district": "津島市",
+      "mean_hard": 22.8
+    },
+    {
+      "district": "岡崎市",
+      "mean_hard": 21.9
+    },
+    {
+      "district": "西尾市",
+      "mean_hard": 20.91
+    },
+    {
+      "district": "春日井市",
+      "mean_hard": 20.82
+    },
+    {
+      "district": "稲沢市",
+      "mean_hard": 20.47
+    },
+    {
+      "district": "田原市",
+      "mean_hard": 20.2
+    },
+    {
+      "district": "愛知県",
+      "mean_hard": 20.17
+    },
+    {
+      "district": "高浜市",
+      "mean_hard": 20.0
+    },
+    {
+      "district": "知立市",
+      "mean_hard": 19.78
+    },
+    {
+      "district": "名古屋市",
+      "mean_hard": 18.54
+    },
+    {
+      "district": "豊田市",
+      "mean_hard": 18.48
+    },
+    {
+      "district": "安城市",
+      "mean_hard": 18.46
+    },
+    {
+      "district": "あま市",
+      "mean_hard": 18.0
+    },
+    {
+      "district": "愛知中部水道企業団",
+      "mean_hard": 17.66
+    },
+    {
+      "district": "東海市",
+      "mean_hard": 17.37
+    },
+    {
+      "district": "瀬戸市",
+      "mean_hard": 17.17
+    },
+    {
+      "district": "蒲郡市",
+      "mean_hard": 17.14
+    },
+    {
+      "district": "海部南部水道企業団",
+      "mean_hard": 17.12
+    },
+    {
+      "district": "蟹江町",
+      "mean_hard": 17.0
+    },
+    {
+      "district": "清須市",
+      "mean_hard": 16.97
+    },
+    {
+      "district": "尾張旭市",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "大府市",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "幸田町",
+      "mean_hard": 14.0
+    },
+    {
+      "district": "碧南市",
+      "mean_hard": 14.0
+    }
+  ],
+  "三重県": [
+    {
+      "district": "いなべ市",
+      "mean_hard": 81.71
+    },
+    {
+      "district": "東員町",
+      "mean_hard": 76.99
+    },
+    {
+      "district": "朝日町",
+      "mean_hard": 70.97
+    },
+    {
+      "district": "四日市市",
+      "mean_hard": 60.97
+    },
+    {
+      "district": "志摩市",
+      "mean_hard": 56.0
+    },
+    {
+      "district": "鈴鹿市",
+      "mean_hard": 51.43
+    },
+    {
+      "district": "桑名市",
+      "mean_hard": 49.98
+    },
+    {
+      "district": "明和町",
+      "mean_hard": 49.28
+    },
+    {
+      "district": "伊賀市",
+      "mean_hard": 49.07
+    },
+    {
+      "district": "亀山市",
+      "mean_hard": 47.73
+    },
+    {
+      "district": "鳥羽市",
+      "mean_hard": 45.99
+    },
+    {
+      "district": "多気町",
+      "mean_hard": 45.17
+    },
+    {
+      "district": "松阪市",
+      "mean_hard": 44.11
+    },
+    {
+      "district": "伊勢市",
+      "mean_hard": 43.03
+    },
+    {
+      "district": "大台町",
+      "mean_hard": 41.76
+    },
+    {
+      "district": "三重県（南勢志摩）",
+      "mean_hard": 36.0
+    },
+    {
+      "district": "津市",
+      "mean_hard": 34.52
+    },
+    {
+      "district": "名張市",
+      "mean_hard": 32.95
+    },
+    {
+      "district": "玉城町",
+      "mean_hard": 30.99
+    },
+    {
+      "district": "三重県（北中勢）",
+      "mean_hard": 30.47
+    },
+    {
+      "district": "度会町",
+      "mean_hard": 26.31
+    },
+    {
+      "district": "菰野町",
+      "mean_hard": 26.12
+    },
+    {
+      "district": "大紀町",
+      "mean_hard": 25.37
+    },
+    {
+      "district": "御浜町",
+      "mean_hard": 24.97
+    },
+    {
+      "district": "南伊勢町",
+      "mean_hard": 22.81
+    },
+    {
+      "district": "木曽岬町",
+      "mean_hard": 19.98
+    },
+    {
+      "district": "川越町",
+      "mean_hard": 19.0
+    },
+    {
+      "district": "紀宝町",
+      "mean_hard": 15.92
+    },
+    {
+      "district": "熊野市",
+      "mean_hard": 15.14
+    },
+    {
+      "district": "紀北町",
+      "mean_hard": 13.62
+    },
+    {
+      "district": "尾鷲市",
+      "mean_hard": 10.0
+    }
+  ],
+  "滋賀県": [
+    {
+      "district": "甲良町",
+      "mean_hard": 76.97
+    },
+    {
+      "district": "米原市",
+      "mean_hard": 69.98
+    },
+    {
+      "district": "多賀町",
+      "mean_hard": 62.99
+    },
+    {
+      "district": "栗東市",
+      "mean_hard": 54.5
+    },
+    {
+      "district": "豊郷町",
+      "mean_hard": 53.34
+    },
+    {
+      "district": "彦根市",
+      "mean_hard": 50.73
+    },
+    {
+      "district": "野洲市",
+      "mean_hard": 48.65
+    },
+    {
+      "district": "長浜水道企業団（高月）",
+      "mean_hard": 46.99
+    },
+    {
+      "district": "長浜水道企業団（長浜）",
+      "mean_hard": 45.4
+    },
+    {
+      "district": "愛知郡広域行政組合",
+      "mean_hard": 44.11
+    },
+    {
+      "district": "近江八幡市",
+      "mean_hard": 43.29
+    },
+    {
+      "district": "長浜水道企業団（木之本）",
+      "mean_hard": 41.98
+    },
+    {
+      "district": "東近江市",
+      "mean_hard": 40.75
+    },
+    {
+      "district": "滋賀県",
+      "mean_hard": 39.18
+    },
+    {
+      "district": "日野町",
+      "mean_hard": 39.0
+    },
+    {
+      "district": "竜王町",
+      "mean_hard": 38.99
+    },
+    {
+      "district": "守山市",
+      "mean_hard": 38.0
+    },
+    {
+      "district": "大津市",
+      "mean_hard": 37.18
+    },
+    {
+      "district": "長浜水道企業団（浅井）",
+      "mean_hard": 34.83
+    },
+    {
+      "district": "甲賀市",
+      "mean_hard": 31.75
+    },
+    {
+      "district": "高島市",
+      "mean_hard": 30.6
+    },
+    {
+      "district": "湖南市",
+      "mean_hard": 28.9
+    }
+  ],
+  "京都府": [
+    {
+      "district": "大山崎町",
+      "mean_hard": 56.97
+    },
+    {
+      "district": "井手町",
+      "mean_hard": 55.97
+    },
+    {
+      "district": "長岡京市",
+      "mean_hard": 50.0
+    },
+    {
+      "district": "京田辺市",
+      "mean_hard": 49.77
+    },
+    {
+      "district": "向日市",
+      "mean_hard": 47.99
+    },
+    {
+      "district": "精華町",
+      "mean_hard": 45.89
+    },
+    {
+      "district": "木津川市",
+      "mean_hard": 45.37
+    },
+    {
+      "district": "宇治市",
+      "mean_hard": 45.26
+    },
+    {
+      "district": "京都市",
+      "mean_hard": 43.4
+    },
+    {
+      "district": "宇治田原町",
+      "mean_hard": 43.2
+    },
+    {
+      "district": "京丹後市",
+      "mean_hard": 41.56
+    },
+    {
+      "district": "亀岡市",
+      "mean_hard": 40.61
+    },
+    {
+      "district": "南丹市",
+      "mean_hard": 40.19
+    },
+    {
+      "district": "久御山町",
+      "mean_hard": 39.99
+    },
+    {
+      "district": "福知山市",
+      "mean_hard": 38.48
+    },
+    {
+      "district": "綾部市",
+      "mean_hard": 38.43
+    },
+    {
+      "district": "与謝野町",
+      "mean_hard": 36.84
+    },
+    {
+      "district": "八幡市",
+      "mean_hard": 35.71
+    },
+    {
+      "district": "城陽市",
+      "mean_hard": 32.98
+    },
+    {
+      "district": "舞鶴市",
+      "mean_hard": 32.84
+    },
+    {
+      "district": "宮津市",
+      "mean_hard": 23.57
+    },
+    {
+      "district": "京丹波町",
+      "mean_hard": 20.39
+    }
+  ],
+  "大阪府": [
+    {
+      "district": "大阪広域水道企業団（太子）",
+      "mean_hard": 93.96
+    },
+    {
+      "district": "柏原市",
+      "mean_hard": 88.99
+    },
+    {
+      "district": "羽曵野市",
+      "mean_hard": 86.34
+    },
+    {
+      "district": "島本町",
+      "mean_hard": 84.99
+    },
+    {
+      "district": "大阪広域水道企業団（藤井寺）",
+      "mean_hard": 78.7
+    },
+    {
+      "district": "高槻市",
+      "mean_hard": 75.69
+    },
+    {
+      "district": "摂津市",
+      "mean_hard": 67.99
+    },
+    {
+      "district": "箕面市",
+      "mean_hard": 59.22
+    },
+    {
+      "district": "豊中市",
+      "mean_hard": 58.0
+    },
+    {
+      "district": "交野市",
+      "mean_hard": 58.0
+    },
+    {
+      "district": "池田市",
+      "mean_hard": 56.0
+    },
+    {
+      "district": "泉佐野市",
+      "mean_hard": 54.99
+    },
+    {
+      "district": "和泉市",
+      "mean_hard": 51.91
+    },
+    {
+      "district": "茨木市",
+      "mean_hard": 50.0
+    },
+    {
+      "district": "大阪広域水道企業団（豊能）",
+      "mean_hard": 48.0
+    },
+    {
+      "district": "泉大津市",
+      "mean_hard": 47.0
+    },
+    {
+      "district": "岸和田市",
+      "mean_hard": 46.99
+    },
+    {
+      "district": "貝塚市",
+      "mean_hard": 44.98
+    },
+    {
+      "district": "吹田市",
+      "mean_hard": 44.49
+    },
+    {
+      "district": "守口市",
+      "mean_hard": 43.0
+    },
+    {
+      "district": "大阪広域水道企業団（四條畷）",
+      "mean_hard": 42.99
+    },
+    {
+      "district": "大阪広域水道企業団（泉南）",
+      "mean_hard": 42.45
+    },
+    {
+      "district": "寝屋川市",
+      "mean_hard": 42.4
+    },
+    {
+      "district": "東大阪市",
+      "mean_hard": 42.27
+    },
+    {
+      "district": "大阪広域水道企業団（熊取）",
+      "mean_hard": 42.0
+    },
+    {
+      "district": "大阪広域水道企業団（田尻）",
+      "mean_hard": 41.99
+    },
+    {
+      "district": "高石市",
+      "mean_hard": 41.86
+    },
+    {
+      "district": "堺市",
+      "mean_hard": 41.81
+    },
+    {
+      "district": "大阪広域水道企業団",
+      "mean_hard": 41.75
+    },
+    {
+      "district": "門真市",
+      "mean_hard": 41.65
+    },
+    {
+      "district": "八尾市",
+      "mean_hard": 41.0
+    },
+    {
+      "district": "大阪広域水道企業団（大阪狭山）",
+      "mean_hard": 41.0
+    },
+    {
+      "district": "大東市",
+      "mean_hard": 41.0
+    },
+    {
+      "district": "松原市",
+      "mean_hard": 40.92
+    },
+    {
+      "district": "枚方市",
+      "mean_hard": 39.13
+    },
+    {
+      "district": "大阪広域水道企業団（河南）",
+      "mean_hard": 39.0
+    },
+    {
+      "district": "大阪広域水道企業団（千早赤阪)",
+      "mean_hard": 38.98
+    },
+    {
+      "district": "大阪広域水道企業団（阪南）",
+      "mean_hard": 38.0
+    },
+    {
+      "district": "河内長野市",
+      "mean_hard": 34.84
+    },
+    {
+      "district": "大阪広域水道企業団（岬）",
+      "mean_hard": 31.97
+    },
+    {
+      "district": "富田林市",
+      "mean_hard": 30.0
+    },
+    {
+      "district": "能勢町",
+      "mean_hard": 20.07
+    }
+  ],
+  "兵庫県": [
+    {
+      "district": "播磨高原広域事務組合",
+      "mean_hard": 75.96
+    },
+    {
+      "district": "明石市",
+      "mean_hard": 75.95
+    },
+    {
+      "district": "西宮市",
+      "mean_hard": 63.48
+    },
+    {
+      "district": "川西市",
+      "mean_hard": 61.99
+    },
+    {
+      "district": "太子町",
+      "mean_hard": 57.71
+    },
+    {
+      "district": "丹波市（市島）",
+      "mean_hard": 57.0
+    },
+    {
+      "district": "伊丹市",
+      "mean_hard": 55.0
+    },
+    {
+      "district": "丹波市（中央）",
+      "mean_hard": 53.78
+    },
+    {
+      "district": "淡路広域水道企業団",
+      "mean_hard": 52.49
+    },
+    {
+      "district": "上郡町",
+      "mean_hard": 52.23
+    },
+    {
+      "district": "加古川市",
+      "mean_hard": 49.74
+    },
+    {
+      "district": "西脇市",
+      "mean_hard": 49.56
+    },
+    {
+      "district": "赤穂市",
+      "mean_hard": 47.08
+    },
+    {
+      "district": "高砂市",
+      "mean_hard": 45.0
+    },
+    {
+      "district": "豊岡市",
+      "mean_hard": 44.28
+    },
+    {
+      "district": "姫路市",
+      "mean_hard": 44.11
+    },
+    {
+      "district": "宝塚市",
+      "mean_hard": 43.48
+    },
+    {
+      "district": "阪神水道企業団",
+      "mean_hard": 43.0
+    },
+    {
+      "district": "西播磨水道企業団",
+      "mean_hard": 42.94
+    },
+    {
+      "district": "丹波市（山南）",
+      "mean_hard": 41.87
+    },
+    {
+      "district": "猪名川町",
+      "mean_hard": 39.93
+    },
+    {
+      "district": "小野市",
+      "mean_hard": 39.3
+    },
+    {
+      "district": "たつの市",
+      "mean_hard": 39.02
+    },
+    {
+      "district": "養父市",
+      "mean_hard": 38.72
+    },
+    {
+      "district": "三田市",
+      "mean_hard": 38.11
+    },
+    {
+      "district": "尼崎市",
+      "mean_hard": 38.0
+    },
+    {
+      "district": "兵庫県",
+      "mean_hard": 37.69
+    },
+    {
+      "district": "播磨町",
+      "mean_hard": 37.0
+    },
+    {
+      "district": "芦屋市",
+      "mean_hard": 35.1
+    },
+    {
+      "district": "加西市",
+      "mean_hard": 34.39
+    },
+    {
+      "district": "多可町",
+      "mean_hard": 33.42
+    },
+    {
+      "district": "神戸市",
+      "mean_hard": 33.29
+    },
+    {
+      "district": "丹波篠山市",
+      "mean_hard": 33.28
+    },
+    {
+      "district": "福崎町",
+      "mean_hard": 32.99
+    },
+    {
+      "district": "宍粟市",
+      "mean_hard": 32.79
+    },
+    {
+      "district": "朝来市",
+      "mean_hard": 31.95
+    },
+    {
+      "district": "香美町",
+      "mean_hard": 31.5
+    },
+    {
+      "district": "新温泉町",
+      "mean_hard": 30.52
+    },
+    {
+      "district": "加東市",
+      "mean_hard": 29.58
+    },
+    {
+      "district": "市川町",
+      "mean_hard": 26.87
+    },
+    {
+      "district": "三木市",
+      "mean_hard": 25.92
+    },
+    {
+      "district": "稲美町",
+      "mean_hard": 25.63
+    },
+    {
+      "district": "神河町",
+      "mean_hard": 17.9
+    }
+  ],
+  "奈良県": [
+    {
+      "district": "御所市",
+      "mean_hard": 135.93
+    },
+    {
+      "district": "桜井市",
+      "mean_hard": 74.99
+    },
+    {
+      "district": "宇陀市",
+      "mean_hard": 60.99
+    },
+    {
+      "district": "天理市",
+      "mean_hard": 60.81
+    },
+    {
+      "district": "大和郡山市",
+      "mean_hard": 57.91
+    },
+    {
+      "district": "三郷町",
+      "mean_hard": 57.0
+    },
+    {
+      "district": "河合町",
+      "mean_hard": 53.0
+    },
+    {
+      "district": "生駒市",
+      "mean_hard": 50.14
+    },
+    {
+      "district": "葛城市",
+      "mean_hard": 48.16
+    },
+    {
+      "district": "明日香村",
+      "mean_hard": 47.0
+    },
+    {
+      "district": "斑鳩町",
+      "mean_hard": 46.5
+    },
+    {
+      "district": "高取町",
+      "mean_hard": 46.0
+    },
+    {
+      "district": "大淀町",
+      "mean_hard": 44.99
+    },
+    {
+      "district": "橿原市",
+      "mean_hard": 43.0
+    },
+    {
+      "district": "平群町",
+      "mean_hard": 43.0
+    },
+    {
+      "district": "上牧町",
+      "mean_hard": 42.99
+    },
+    {
+      "district": "吉野町",
+      "mean_hard": 42.69
+    },
+    {
+      "district": "磯城郡水道企業団（田原本町）",
+      "mean_hard": 42.5
+    },
+    {
+      "district": "奈良県",
+      "mean_hard": 42.32
+    },
+    {
+      "district": "磯城郡水道企業団（三宅町）",
+      "mean_hard": 42.0
+    },
+    {
+      "district": "五條市",
+      "mean_hard": 42.0
+    },
+    {
+      "district": "磯城郡水道企業団（川西町）",
+      "mean_hard": 42.0
+    },
+    {
+      "district": "香芝市",
+      "mean_hard": 41.0
+    },
+    {
+      "district": "安堵町",
+      "mean_hard": 41.0
+    },
+    {
+      "district": "奈良市",
+      "mean_hard": 38.11
+    },
+    {
+      "district": "大和高田市",
+      "mean_hard": 37.0
+    },
+    {
+      "district": "王寺町",
+      "mean_hard": 37.0
+    },
+    {
+      "district": "下市町",
+      "mean_hard": 36.99
+    },
+    {
+      "district": "奈良市（都祁上水道）",
+      "mean_hard": 33.97
+    }
+  ],
+  "和歌山県": [
+    {
+      "district": "かつらぎ町",
+      "mean_hard": 69.04
+    },
+    {
+      "district": "紀の川市（河北）",
+      "mean_hard": 62.5
+    },
+    {
+      "district": "和歌山市",
+      "mean_hard": 58.34
+    },
+    {
+      "district": "紀の川市（河南）",
+      "mean_hard": 56.81
+    },
+    {
+      "district": "岩出市",
+      "mean_hard": 56.0
+    },
+    {
+      "district": "海南市（下津）",
+      "mean_hard": 53.08
+    },
+    {
+      "district": "海南市（海南）",
+      "mean_hard": 51.0
+    },
+    {
+      "district": "田辺市",
+      "mean_hard": 47.26
+    },
+    {
+      "district": "みなべ町",
+      "mean_hard": 42.0
+    },
+    {
+      "district": "橋本市",
+      "mean_hard": 42.0
+    },
+    {
+      "district": "有田市",
+      "mean_hard": 41.98
+    },
+    {
+      "district": "有田川町",
+      "mean_hard": 37.0
+    },
+    {
+      "district": "白浜町",
+      "mean_hard": 35.85
+    },
+    {
+      "district": "湯浅町",
+      "mean_hard": 35.64
+    },
+    {
+      "district": "印南町",
+      "mean_hard": 26.64
+    },
+    {
+      "district": "御坊市",
+      "mean_hard": 22.49
+    },
+    {
+      "district": "日高町",
+      "mean_hard": 21.99
+    },
+    {
+      "district": "由良町",
+      "mean_hard": 21.99
+    },
+    {
+      "district": "日高川町",
+      "mean_hard": 21.4
+    },
+    {
+      "district": "美浜町",
+      "mean_hard": 17.99
+    },
+    {
+      "district": "新宮市",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "那智勝浦町",
+      "mean_hard": 11.61
+    },
+    {
+      "district": "すさみ町",
+      "mean_hard": 10.99
+    },
+    {
+      "district": "串本町",
+      "mean_hard": 8.07
+    }
+  ],
+  "鳥取県": [
+    {
+      "district": "南部町",
+      "mean_hard": 63.13
+    },
+    {
+      "district": "北栄町",
+      "mean_hard": 50.76
+    },
+    {
+      "district": "岩美町",
+      "mean_hard": 46.66
+    },
+    {
+      "district": "伯耆町",
+      "mean_hard": 42.3
+    },
+    {
+      "district": "米子市",
+      "mean_hard": 41.83
+    },
+    {
+      "district": "湯梨浜町",
+      "mean_hard": 37.86
+    },
+    {
+      "district": "琴浦町",
+      "mean_hard": 34.32
+    },
+    {
+      "district": "大山町",
+      "mean_hard": 33.5
+    },
+    {
+      "district": "智頭町",
+      "mean_hard": 30.96
+    },
+    {
+      "district": "鳥取市",
+      "mean_hard": 29.61
+    },
+    {
+      "district": "倉吉市",
+      "mean_hard": 27.9
+    },
+    {
+      "district": "三朝町",
+      "mean_hard": 26.99
+    }
+  ],
+  "島根県": [
+    {
+      "district": "大田市",
+      "mean_hard": 78.47
+    },
+    {
+      "district": "津和野町",
+      "mean_hard": 47.51
+    },
+    {
+      "district": "隠岐の島町",
+      "mean_hard": 44.08
+    },
+    {
+      "district": "江津市",
+      "mean_hard": 39.81
+    },
+    {
+      "district": "益田市",
+      "mean_hard": 37.49
+    },
+    {
+      "district": "雲南市",
+      "mean_hard": 35.21
+    },
+    {
+      "district": "浜田市",
+      "mean_hard": 33.61
+    },
+    {
+      "district": "出雲市",
+      "mean_hard": 31.54
+    },
+    {
+      "district": "斐川宍道水道企業団",
+      "mean_hard": 30.05
+    },
+    {
+      "district": "奥出雲町",
+      "mean_hard": 26.34
+    },
+    {
+      "district": "安来市",
+      "mean_hard": 24.97
+    },
+    {
+      "district": "松江市",
+      "mean_hard": 24.1
+    },
+    {
+      "district": "島根県（江の川）",
+      "mean_hard": 24.0
+    },
+    {
+      "district": "島根県（島根県）",
+      "mean_hard": 22.56
+    },
+    {
+      "district": "吉賀町",
+      "mean_hard": 21.74
+    },
+    {
+      "district": "邑南町",
+      "mean_hard": 19.27
+    }
+  ],
+  "岡山県": [
+    {
+      "district": "矢掛町",
+      "mean_hard": 87.98
+    },
+    {
+      "district": "倉敷市",
+      "mean_hard": 69.04
+    },
+    {
+      "district": "総社市",
+      "mean_hard": 67.85
+    },
+    {
+      "district": "井原市",
+      "mean_hard": 66.9
+    },
+    {
+      "district": "高梁市",
+      "mean_hard": 64.01
+    },
+    {
+      "district": "早島町",
+      "mean_hard": 56.0
+    },
+    {
+      "district": "岡山県南部水道企業団",
+      "mean_hard": 56.0
+    },
+    {
+      "district": "備南水道企業団",
+      "mean_hard": 55.0
+    },
+    {
+      "district": "浅口市",
+      "mean_hard": 55.0
+    },
+    {
+      "district": "赤磐市",
+      "mean_hard": 54.05
+    },
+    {
+      "district": "岡山県西南水道企業団",
+      "mean_hard": 53.59
+    },
+    {
+      "district": "里庄町",
+      "mean_hard": 51.0
+    },
+    {
+      "district": "笠岡市",
+      "mean_hard": 51.0
+    },
+    {
+      "district": "和気町",
+      "mean_hard": 49.01
+    },
+    {
+      "district": "美咲町",
+      "mean_hard": 47.42
+    },
+    {
+      "district": "新見市",
+      "mean_hard": 44.67
+    },
+    {
+      "district": "美作市",
+      "mean_hard": 43.46
+    },
+    {
+      "district": "備前市",
+      "mean_hard": 37.98
+    },
+    {
+      "district": "瀬戸内市",
+      "mean_hard": 37.48
+    },
+    {
+      "district": "岡山県広域水道企業団",
+      "mean_hard": 34.45
+    },
+    {
+      "district": "岡山市",
+      "mean_hard": 33.94
+    },
+    {
+      "district": "真庭市",
+      "mean_hard": 31.96
+    },
+    {
+      "district": "玉野市",
+      "mean_hard": 30.7
+    },
+    {
+      "district": "吉備中央町",
+      "mean_hard": 26.44
+    },
+    {
+      "district": "奈義町",
+      "mean_hard": 21.99
+    },
+    {
+      "district": "勝央町",
+      "mean_hard": 21.0
+    },
+    {
+      "district": "津山市",
+      "mean_hard": 19.96
+    },
+    {
+      "district": "鏡野町",
+      "mean_hard": 11.62
+    }
+  ],
+  "広島県": [
+    {
+      "district": "海田町",
+      "mean_hard": 48.87
+    },
+    {
+      "district": "世羅町",
+      "mean_hard": 43.77
+    },
+    {
+      "district": "府中市",
+      "mean_hard": 42.07
+    },
+    {
+      "district": "福山市",
+      "mean_hard": 41.87
+    },
+    {
+      "district": "広島県（沼田川）",
+      "mean_hard": 37.99
+    },
+    {
+      "district": "竹原市",
+      "mean_hard": 37.69
+    },
+    {
+      "district": "尾道市",
+      "mean_hard": 36.98
+    },
+    {
+      "district": "安芸高田市",
+      "mean_hard": 35.99
+    },
+    {
+      "district": "三原市",
+      "mean_hard": 35.34
+    },
+    {
+      "district": "庄原市",
+      "mean_hard": 28.57
+    },
+    {
+      "district": "三次市",
+      "mean_hard": 24.06
+    },
+    {
+      "district": "呉市",
+      "mean_hard": 24.0
+    },
+    {
+      "district": "東広島市",
+      "mean_hard": 22.42
+    },
+    {
+      "district": "大崎上島町",
+      "mean_hard": 21.99
+    },
+    {
+      "district": "広島県（広島）",
+      "mean_hard": 21.2
+    },
+    {
+      "district": "熊野町",
+      "mean_hard": 20.77
+    },
+    {
+      "district": "北広島町",
+      "mean_hard": 20.31
+    },
+    {
+      "district": "広島県（広島西部）",
+      "mean_hard": 19.85
+    },
+    {
+      "district": "廿日市市",
+      "mean_hard": 19.64
+    },
+    {
+      "district": "江田島市",
+      "mean_hard": 19.0
+    },
+    {
+      "district": "広島市",
+      "mean_hard": 18.78
+    },
+    {
+      "district": "大竹市",
+      "mean_hard": 16.0
+    }
+  ],
+  "山口県": [
+    {
+      "district": "美祢市",
+      "mean_hard": 93.93
+    },
+    {
+      "district": "山陽小野田市",
+      "mean_hard": 71.44
+    },
+    {
+      "district": "宇部市",
+      "mean_hard": 71.02
+    },
+    {
+      "district": "山口市",
+      "mean_hard": 39.73
+    },
+    {
+      "district": "下関市",
+      "mean_hard": 36.48
+    },
+    {
+      "district": "長門市（長門）",
+      "mean_hard": 35.8
+    },
+    {
+      "district": "萩市",
+      "mean_hard": 34.42
+    },
+    {
+      "district": "光市",
+      "mean_hard": 34.0
+    },
+    {
+      "district": "防府市",
+      "mean_hard": 30.66
+    },
+    {
+      "district": "岩国市",
+      "mean_hard": 27.12
+    },
+    {
+      "district": "周南市",
+      "mean_hard": 26.14
+    },
+    {
+      "district": "下松市",
+      "mean_hard": 26.0
+    },
+    {
+      "district": "周防大島町",
+      "mean_hard": 16.82
+    },
+    {
+      "district": "柳井市",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "柳井地域広域水道企業団",
+      "mean_hard": 16.0
+    },
+    {
+      "district": "田布施・平生水道企業団",
+      "mean_hard": 15.99
+    }
+  ],
+  "徳島県": [
+    {
+      "district": "上板町",
+      "mean_hard": 80.0
+    },
+    {
+      "district": "美馬市",
+      "mean_hard": 61.88
+    },
+    {
+      "district": "吉野川市",
+      "mean_hard": 60.52
+    },
+    {
+      "district": "阿波市",
+      "mean_hard": 59.32
+    },
+    {
+      "district": "つるぎ町",
+      "mean_hard": 52.52
+    },
+    {
+      "district": "阿南市",
+      "mean_hard": 46.52
+    },
+    {
+      "district": "北島町",
+      "mean_hard": 42.99
+    },
+    {
+      "district": "石井町",
+      "mean_hard": 42.0
+    },
+    {
+      "district": "松茂町",
+      "mean_hard": 41.99
+    },
+    {
+      "district": "徳島市",
+      "mean_hard": 41.92
+    },
+    {
+      "district": "鳴門市",
+      "mean_hard": 40.0
+    },
+    {
+      "district": "小松島市",
+      "mean_hard": 39.0
+    },
+    {
+      "district": "板野町",
+      "mean_hard": 37.22
+    },
+    {
+      "district": "三好市",
+      "mean_hard": 35.32
+    },
+    {
+      "district": "東みよし町",
+      "mean_hard": 33.97
+    },
+    {
+      "district": "藍住町",
+      "mean_hard": 31.58
+    },
+    {
+      "district": "海陽町",
+      "mean_hard": 16.69
+    },
+    {
+      "district": "美波町",
+      "mean_hard": 13.71
+    }
+  ],
+  "香川県": [
+    {
+      "district": "香川県広域水道企業団",
+      "mean_hard": 42.36
+    }
+  ],
+  "愛媛県": [
+    {
+      "district": "今治市（菊間）",
+      "mean_hard": 86.94
+    },
+    {
+      "district": "東温市",
+      "mean_hard": 86.46
+    },
+    {
+      "district": "伊予市",
+      "mean_hard": 78.7
+    },
+    {
+      "district": "松前町",
+      "mean_hard": 72.94
+    },
+    {
+      "district": "砥部町",
+      "mean_hard": 70.31
+    },
+    {
+      "district": "松山市",
+      "mean_hard": 69.14
+    },
+    {
+      "district": "内子町",
+      "mean_hard": 67.47
+    },
+    {
+      "district": "伊方町",
+      "mean_hard": 66.84
+    },
+    {
+      "district": "四国中央市（土居地域）",
+      "mean_hard": 61.58
+    },
+    {
+      "district": "大洲市",
+      "mean_hard": 61.02
+    },
+    {
+      "district": "西予市",
+      "mean_hard": 59.5
+    },
+    {
+      "district": "西条市",
+      "mean_hard": 58.71
+    },
+    {
+      "district": "南予水道企業団",
+      "mean_hard": 48.99
+    },
+    {
+      "district": "新居浜市",
+      "mean_hard": 47.1
+    },
+    {
+      "district": "今治市（今治）",
+      "mean_hard": 41.75
+    },
+    {
+      "district": "今治市（玉川）",
+      "mean_hard": 36.97
+    },
+    {
+      "district": "宇和島市",
+      "mean_hard": 33.06
+    },
+    {
+      "district": "上島町",
+      "mean_hard": 32.99
+    },
+    {
+      "district": "今治市（朝倉）",
+      "mean_hard": 29.67
+    },
+    {
+      "district": "四国中央市（四国中央）",
+      "mean_hard": 26.0
+    },
+    {
+      "district": "今治市（越智諸島）",
+      "mean_hard": 22.96
+    },
+    {
+      "district": "津島水道企業団",
+      "mean_hard": 19.87
+    },
+    {
+      "district": "愛南町",
+      "mean_hard": 17.4
+    }
+  ],
+  "高知県": [
+    {
+      "district": "香南市",
+      "mean_hard": 72.92
+    },
+    {
+      "district": "香美市",
+      "mean_hard": 69.99
+    },
+    {
+      "district": "南国市",
+      "mean_hard": 63.6
+    },
+    {
+      "district": "四万十市",
+      "mean_hard": 60.46
+    },
+    {
+      "district": "須崎市",
+      "mean_hard": 54.99
+    },
+    {
+      "district": "土佐市",
+      "mean_hard": 48.01
+    },
+    {
+      "district": "佐川町",
+      "mean_hard": 44.81
+    },
+    {
+      "district": "いの町（伊野）",
+      "mean_hard": 42.88
+    },
+    {
+      "district": "高知市",
+      "mean_hard": 41.23
+    },
+    {
+      "district": "安芸市",
+      "mean_hard": 36.56
+    },
+    {
+      "district": "室戸市",
+      "mean_hard": 26.12
+    },
+    {
+      "district": "黒潮町",
+      "mean_hard": 25.16
+    },
+    {
+      "district": "四万十町",
+      "mean_hard": 23.62
+    },
+    {
+      "district": "宿毛市",
+      "mean_hard": 16.22
+    },
+    {
+      "district": "土佐清水市",
+      "mean_hard": 14.03
+    }
+  ],
+  "福岡県": [
+    {
+      "district": "岡垣町",
+      "mean_hard": 106.99
+    },
+    {
+      "district": "小竹町",
+      "mean_hard": 105.78
+    },
+    {
+      "district": "大任町",
+      "mean_hard": 98.01
+    },
+    {
+      "district": "鞍手町",
+      "mean_hard": 94.98
+    },
+    {
+      "district": "新宮町",
+      "mean_hard": 92.86
+    },
+    {
+      "district": "中間市",
+      "mean_hard": 91.98
+    },
+    {
+      "district": "宗像地区事務組合",
+      "mean_hard": 90.0
+    },
+    {
+      "district": "直方市",
+      "mean_hard": 81.6
+    },
+    {
+      "district": "飯塚市",
+      "mean_hard": 79.4
+    },
+    {
+      "district": "田川広域水道企業団（田川市）",
+      "mean_hard": 79.11
+    },
+    {
+      "district": "宮若市",
+      "mean_hard": 74.97
+    },
+    {
+      "district": "嘉麻市",
+      "mean_hard": 70.89
+    },
+    {
+      "district": "筑後市",
+      "mean_hard": 68.23
+    },
+    {
+      "district": "みやま市",
+      "mean_hard": 68.09
+    },
+    {
+      "district": "志免町",
+      "mean_hard": 65.23
+    },
+    {
+      "district": "古賀市",
+      "mean_hard": 64.97
+    },
+    {
+      "district": "田川広域水道企業団（川崎町）",
+      "mean_hard": 61.62
+    },
+    {
+      "district": "築上町",
+      "mean_hard": 57.13
+    },
+    {
+      "district": "朝倉市",
+      "mean_hard": 56.53
+    },
+    {
+      "district": "香春町",
+      "mean_hard": 56.27
+    },
+    {
+      "district": "添田町",
+      "mean_hard": 54.98
+    },
+    {
+      "district": "吉富町",
+      "mean_hard": 53.63
+    },
+    {
+      "district": "大野城市",
+      "mean_hard": 53.57
+    },
+    {
+      "district": "大牟田市",
+      "mean_hard": 53.42
+    },
+    {
+      "district": "田川広域水道企業団（福智町）",
+      "mean_hard": 52.79
+    },
+    {
+      "district": "篠栗町",
+      "mean_hard": 52.2
+    },
+    {
+      "district": "久山町",
+      "mean_hard": 50.98
+    },
+    {
+      "district": "糸島市",
+      "mean_hard": 50.02
+    },
+    {
+      "district": "太宰府市",
+      "mean_hard": 49.38
+    },
+    {
+      "district": "筑紫野市",
+      "mean_hard": 49.34
+    },
+    {
+      "district": "福岡県南広域水道企業団",
+      "mean_hard": 49.0
+    },
+    {
+      "district": "筑前町",
+      "mean_hard": 48.99
+    },
+    {
+      "district": "粕屋町",
+      "mean_hard": 47.99
+    },
+    {
+      "district": "八女市",
+      "mean_hard": 47.98
+    },
+    {
+      "district": "桂川町",
+      "mean_hard": 47.63
+    },
+    {
+      "district": "柳川市",
+      "mean_hard": 46.65
+    },
+    {
+      "district": "福岡地区水道企業団",
+      "mean_hard": 46.1
+    },
+    {
+      "district": "山神水道企業団",
+      "mean_hard": 46.0
+    },
+    {
+      "district": "久留米市",
+      "mean_hard": 45.74
+    },
+    {
+      "district": "苅田町",
+      "mean_hard": 45.5
+    },
+    {
+      "district": "三井水道企業団",
+      "mean_hard": 44.64
+    },
+    {
+      "district": "行橋市",
+      "mean_hard": 43.14
+    },
+    {
+      "district": "広川町",
+      "mean_hard": 43.0
+    },
+    {
+      "district": "福岡市",
+      "mean_hard": 42.76
+    },
+    {
+      "district": "豊前市",
+      "mean_hard": 41.96
+    },
+    {
+      "district": "宇美町",
+      "mean_hard": 40.19
+    },
+    {
+      "district": "大川市",
+      "mean_hard": 40.0
+    },
+    {
+      "district": "須恵町",
+      "mean_hard": 39.47
+    },
+    {
+      "district": "大木町",
+      "mean_hard": 37.99
+    },
+    {
+      "district": "みやこ町",
+      "mean_hard": 33.0
+    },
+    {
+      "district": "田川広域水道企業団（糸田町）",
+      "mean_hard": 31.83
+    },
+    {
+      "district": "春日那珂川水道企業団",
+      "mean_hard": 30.27
+    },
+    {
+      "district": "京築地区水道企業団",
+      "mean_hard": 27.39
+    }
+  ],
+  "佐賀県": [
+    {
+      "district": "鹿島市",
+      "mean_hard": 67.83
+    },
+    {
+      "district": "唐津市",
+      "mean_hard": 62.3
+    },
+    {
+      "district": "小城市",
+      "mean_hard": 60.14
+    },
+    {
+      "district": "玄海町",
+      "mean_hard": 56.1
+    },
+    {
+      "district": "鳥栖市",
+      "mean_hard": 52.0
+    },
+    {
+      "district": "佐賀東部水道企業団",
+      "mean_hard": 48.0
+    },
+    {
+      "district": "伊万里市",
+      "mean_hard": 43.11
+    },
+    {
+      "district": "佐賀西部広域水道企業団",
+      "mean_hard": 39.56
+    },
+    {
+      "district": "太良町",
+      "mean_hard": 32.41
+    },
+    {
+      "district": "佐賀市",
+      "mean_hard": 31.13
+    },
+    {
+      "district": "有田町",
+      "mean_hard": 11.81
+    }
+  ],
+  "長崎県": [
+    {
+      "district": "長与町",
+      "mean_hard": 86.44
+    },
+    {
+      "district": "時津町",
+      "mean_hard": 83.74
+    },
+    {
+      "district": "壱岐市",
+      "mean_hard": 80.98
+    },
+    {
+      "district": "島原市",
+      "mean_hard": 73.17
+    },
+    {
+      "district": "佐々町",
+      "mean_hard": 67.99
+    },
+    {
+      "district": "諫早市",
+      "mean_hard": 57.15
+    },
+    {
+      "district": "東彼杵町",
+      "mean_hard": 51.9
+    },
+    {
+      "district": "南島原市",
+      "mean_hard": 51.46
+    },
+    {
+      "district": "五島市",
+      "mean_hard": 43.92
+    },
+    {
+      "district": "佐世保市",
+      "mean_hard": 43.24
+    },
+    {
+      "district": "波佐見町",
+      "mean_hard": 42.08
+    },
+    {
+      "district": "松浦市",
+      "mean_hard": 41.65
+    },
+    {
+      "district": "西海市",
+      "mean_hard": 37.28
+    },
+    {
+      "district": "大村市",
+      "mean_hard": 37.26
+    },
+    {
+      "district": "平戸市",
+      "mean_hard": 36.7
+    },
+    {
+      "district": "長崎市",
+      "mean_hard": 35.91
+    },
+    {
+      "district": "対馬市",
+      "mean_hard": 35.79
+    },
+    {
+      "district": "雲仙市",
+      "mean_hard": 35.38
+    },
+    {
+      "district": "川棚町",
+      "mean_hard": 34.92
+    },
+    {
+      "district": "新上五島町",
+      "mean_hard": 29.35
+    }
+  ],
+  "熊本県": [
+    {
+      "district": "長洲町",
+      "mean_hard": 121.51
+    },
+    {
+      "district": "宇城市（松橋・小川）",
+      "mean_hard": 99.47
+    },
+    {
+      "district": "南阿蘇村",
+      "mean_hard": 94.79
+    },
+    {
+      "district": "宇城市（三角）",
+      "mean_hard": 90.96
+    },
+    {
+      "district": "熊本市",
+      "mean_hard": 80.28
+    },
+    {
+      "district": "合志市",
+      "mean_hard": 79.48
+    },
+    {
+      "district": "芦北町",
+      "mean_hard": 77.8
+    },
+    {
+      "district": "山鹿市",
+      "mean_hard": 76.45
+    },
+    {
+      "district": "大津菊陽水道企業団",
+      "mean_hard": 75.12
+    },
+    {
+      "district": "甲佐町",
+      "mean_hard": 72.21
+    },
+    {
+      "district": "荒尾市",
+      "mean_hard": 71.38
+    },
+    {
+      "district": "御船町",
+      "mean_hard": 60.59
+    },
+    {
+      "district": "菊池市",
+      "mean_hard": 58.77
+    },
+    {
+      "district": "阿蘇市",
+      "mean_hard": 58.32
+    },
+    {
+      "district": "益城町",
+      "mean_hard": 56.99
+    },
+    {
+      "district": "玉名市",
+      "mean_hard": 54.5
+    },
+    {
+      "district": "あさぎり町",
+      "mean_hard": 52.25
+    },
+    {
+      "district": "八代市",
+      "mean_hard": 49.94
+    },
+    {
+      "district": "天草市",
+      "mean_hard": 47.15
+    },
+    {
+      "district": "湯前町",
+      "mean_hard": 46.97
+    },
+    {
+      "district": "上天草・宇城水道企業団",
+      "mean_hard": 46.0
+    },
+    {
+      "district": "山都町",
+      "mean_hard": 45.67
+    },
+    {
+      "district": "八代生活環境事務組合",
+      "mean_hard": 42.0
+    },
+    {
+      "district": "宇土市",
+      "mean_hard": 40.24
+    },
+    {
+      "district": "小国町",
+      "mean_hard": 39.98
+    },
+    {
+      "district": "錦町",
+      "mean_hard": 39.95
+    },
+    {
+      "district": "人吉市",
+      "mean_hard": 39.42
+    },
+    {
+      "district": "水俣市",
+      "mean_hard": 38.37
+    },
+    {
+      "district": "上天草市",
+      "mean_hard": 38.07
+    },
+    {
+      "district": "多良木町",
+      "mean_hard": 35.09
+    }
+  ],
+  "大分県": [
+    {
+      "district": "津久見市",
+      "mean_hard": 83.48
+    },
+    {
+      "district": "国東市",
+      "mean_hard": 78.48
+    },
+    {
+      "district": "臼杵市",
+      "mean_hard": 75.24
+    },
+    {
+      "district": "豊後高田市",
+      "mean_hard": 70.5
+    },
+    {
+      "district": "竹田市",
+      "mean_hard": 63.38
+    },
+    {
+      "district": "大分市",
+      "mean_hard": 62.76
+    },
+    {
+      "district": "杵築市",
+      "mean_hard": 53.54
+    },
+    {
+      "district": "豊後大野市",
+      "mean_hard": 52.96
+    },
+    {
+      "district": "由布市（挾間）",
+      "mean_hard": 51.66
+    },
+    {
+      "district": "宇佐市",
+      "mean_hard": 47.81
+    },
+    {
+      "district": "佐伯市",
+      "mean_hard": 46.88
+    },
+    {
+      "district": "由布市（湯布院）",
+      "mean_hard": 39.94
+    },
+    {
+      "district": "別府市",
+      "mean_hard": 38.87
+    },
+    {
+      "district": "日出町",
+      "mean_hard": 38.4
+    },
+    {
+      "district": "日田市",
+      "mean_hard": 38.01
+    },
+    {
+      "district": "中津市",
+      "mean_hard": 34.52
+    },
+    {
+      "district": "玖珠町",
+      "mean_hard": 16.91
+    }
+  ],
+  "宮崎県": [
+    {
+      "district": "小林市",
+      "mean_hard": 64.18
+    },
+    {
+      "district": "都城市",
+      "mean_hard": 45.71
+    },
+    {
+      "district": "国富町",
+      "mean_hard": 45.49
+    },
+    {
+      "district": "串間市",
+      "mean_hard": 44.04
+    },
+    {
+      "district": "高千穂町",
+      "mean_hard": 43.99
+    },
+    {
+      "district": "宮崎市",
+      "mean_hard": 43.18
+    },
+    {
+      "district": "えびの市",
+      "mean_hard": 39.99
+    },
+    {
+      "district": "一ツ瀬川営農飲雑用水広域水道企業団",
+      "mean_hard": 34.99
+    },
+    {
+      "district": "日南市",
+      "mean_hard": 34.3
+    },
+    {
+      "district": "川南町",
+      "mean_hard": 34.01
+    },
+    {
+      "district": "高原町",
+      "mean_hard": 32.38
+    },
+    {
+      "district": "延岡市",
+      "mean_hard": 32.06
+    },
+    {
+      "district": "日向市",
+      "mean_hard": 32.0
+    },
+    {
+      "district": "三股町",
+      "mean_hard": 30.87
+    },
+    {
+      "district": "西都市",
+      "mean_hard": 30.43
+    },
+    {
+      "district": "綾町",
+      "mean_hard": 28.99
+    },
+    {
+      "district": "門川町",
+      "mean_hard": 27.0
+    },
+    {
+      "district": "新富町",
+      "mean_hard": 23.0
+    },
+    {
+      "district": "都農町",
+      "mean_hard": 8.83
+    }
+  ],
+  "鹿児島県": [
+    {
+      "district": "知名町",
+      "mean_hard": 234.57
+    },
+    {
+      "district": "与論町",
+      "mean_hard": 210.88
+    },
+    {
+      "district": "和泊町",
+      "mean_hard": 154.92
+    },
+    {
+      "district": "喜界町",
+      "mean_hard": 105.95
+    },
+    {
+      "district": "伊仙町",
+      "mean_hard": 100.26
+    },
+    {
+      "district": "姶良市",
+      "mean_hard": 74.24
+    },
+    {
+      "district": "いちき串木野市",
+      "mean_hard": 70.2
+    },
+    {
+      "district": "出水市（高尾野）",
+      "mean_hard": 59.98
+    },
+    {
+      "district": "枕崎市",
+      "mean_hard": 59.39
+    },
+    {
+      "district": "徳之島町",
+      "mean_hard": 59.21
+    },
+    {
+      "district": "出水市（出水）",
+      "mean_hard": 57.47
+    },
+    {
+      "district": "長島町",
+      "mean_hard": 55.14
+    },
+    {
+      "district": "東串良町",
+      "mean_hard": 54.61
+    },
+    {
+      "district": "阿久根市",
+      "mean_hard": 53.01
+    },
+    {
+      "district": "南さつま市",
+      "mean_hard": 52.95
+    },
+    {
+      "district": "南九州市",
+      "mean_hard": 50.36
+    },
+    {
+      "district": "志布志市",
+      "mean_hard": 48.34
+    },
+    {
+      "district": "大崎町",
+      "mean_hard": 48.34
+    },
+    {
+      "district": "曽於市",
+      "mean_hard": 46.46
+    },
+    {
+      "district": "中種子町",
+      "mean_hard": 45.83
+    },
+    {
+      "district": "湧水町",
+      "mean_hard": 43.33
+    },
+    {
+      "district": "南種子町",
+      "mean_hard": 43.22
+    },
+    {
+      "district": "鹿児島市",
+      "mean_hard": 43.0
+    },
+    {
+      "district": "日置市",
+      "mean_hard": 42.21
+    },
+    {
+      "district": "南大隅町",
+      "mean_hard": 41.06
+    },
+    {
+      "district": "鹿屋市",
+      "mean_hard": 40.65
+    },
+    {
+      "district": "指宿市",
+      "mean_hard": 39.52
+    },
+    {
+      "district": "西之表市",
+      "mean_hard": 38.33
+    },
+    {
+      "district": "薩摩川内市",
+      "mean_hard": 37.14
+    },
+    {
+      "district": "霧島市",
+      "mean_hard": 36.52
+    },
+    {
+      "district": "肝付町",
+      "mean_hard": 36.34
+    },
+    {
+      "district": "さつま町",
+      "mean_hard": 36.04
+    },
+    {
+      "district": "天城町",
+      "mean_hard": 35.97
+    },
+    {
+      "district": "龍郷町",
+      "mean_hard": 31.44
+    },
+    {
+      "district": "伊佐市",
+      "mean_hard": 30.92
+    },
+    {
+      "district": "奄美市",
+      "mean_hard": 29.76
+    },
+    {
+      "district": "瀬戸内町",
+      "mean_hard": 28.7
+    },
+    {
+      "district": "垂水市",
+      "mean_hard": 16.59
+    },
+    {
+      "district": "屋久島町",
+      "mean_hard": 4.92
+    }
+  ],
+  "沖縄県": [
+    {
+      "district": "本部町",
+      "mean_hard": 179.53
+    },
+    {
+      "district": "今帰仁村",
+      "mean_hard": 156.43
+    },
+    {
+      "district": "宮古島市",
+      "mean_hard": 112.09
+    },
+    {
+      "district": "金武町",
+      "mean_hard": 106.77
+    },
+    {
+      "district": "南部水道企業団",
+      "mean_hard": 104.96
+    },
+    {
+      "district": "名護市",
+      "mean_hard": 72.94
+    },
+    {
+      "district": "久米島町",
+      "mean_hard": 59.15
+    },
+    {
+      "district": "北谷町",
+      "mean_hard": 44.0
+    },
+    {
+      "district": "北中城村",
+      "mean_hard": 44.0
+    },
+    {
+      "district": "宜野湾市",
+      "mean_hard": 43.0
+    },
+    {
+      "district": "中城村",
+      "mean_hard": 40.5
+    },
+    {
+      "district": "沖縄市",
+      "mean_hard": 39.67
+    },
+    {
+      "district": "石垣市",
+      "mean_hard": 39.23
+    },
+    {
+      "district": "伊江村",
+      "mean_hard": 36.51
+    },
+    {
+      "district": "浦添市",
+      "mean_hard": 36.0
+    },
+    {
+      "district": "沖縄県",
+      "mean_hard": 35.3
+    },
+    {
+      "district": "うるま市",
+      "mean_hard": 35.0
+    },
+    {
+      "district": "読谷村",
+      "mean_hard": 33.0
+    },
+    {
+      "district": "那覇市",
+      "mean_hard": 32.5
+    },
+    {
+      "district": "恩納村",
+      "mean_hard": 32.0
+    },
+    {
+      "district": "西原町",
+      "mean_hard": 30.0
+    },
+    {
+      "district": "南城市",
+      "mean_hard": 29.0
+    },
+    {
+      "district": "嘉手納町",
+      "mean_hard": 28.0
+    },
+    {
+      "district": "与那原町",
+      "mean_hard": 27.48
+    },
+    {
+      "district": "糸満市",
+      "mean_hard": 26.0
+    },
+    {
+      "district": "豊見城市",
+      "mean_hard": 26.0
+    },
+    {
+      "district": "宜野座村",
+      "mean_hard": 24.99
+    }
+  ]
+}
