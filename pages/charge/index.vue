@@ -1,39 +1,42 @@
 <template>
   <div class="p-3 md:p-4 max-w-6xl mx-auto bg-gray-50 rounded-lg shadow">
-    <h1 class="text-2xl font-bold text-center mb-6 text-main">
+    <h1 class="text-2xl font-bold text-center mb-6 text-main h1-title-margin">
       水道料金分析ページ
     </h1>
+    <div class="text-center text-gray-700 mb-6 text-base">
+      このページでは全国の水道料金を様々な視点で比較・分析できます。<br />
+      下のタブをクリックして、シミュレーターやランキング、グラフなどを切り替えてご利用ください。
+    </div>
 
     <!-- タブメニュー -->
     <div class="mb-6">
       <!-- PC用タブメニュー -->
       <div
         v-if="!isMobile"
-        class="radio-tabs bg-white p-2 rounded-lg shadow-sm grid grid-cols-3 gap-2"
+        class="radio-tabs bg-white p-2 rounded-lg shadow-sm flex flex-row gap-2"
       >
-        <label
+        <button
           v-for="tab in ['compare', 'graph', 'ranking', 'averageRanking']"
           :key="tab"
-          class="radio-tab cursor-pointer p-3 rounded-md text-center font-medium flex items-center justify-center transition-all"
+          type="button"
+          class="radio-tab cursor-pointer rounded-md text-center font-medium flex items-center justify-center transition-all"
           :class="
             activeTab === tab
               ? 'bg-main text-white shadow-sm'
               : 'bg-gray-100 hover:bg-gray-200'
           "
+          @click="activeTab = tab"
         >
-          <input v-model="activeTab" type="radio" :value="tab" class="hidden" />
-          <span>
-            {{
-              tab === 'compare'
-                ? '水道料金比較シミュレーター'
-                : tab === 'graph'
-                ? '都道府県内比較グラフ'
-                : tab === 'ranking'
-                ? '全国自治体水道料金ランキング'
-                : '都道府県平均水道料金ランキング'
-            }}
-          </span>
-        </label>
+          {{
+            tab === 'compare'
+              ? '水道料金比較シミュレーター'
+              : tab === 'graph'
+              ? '都道府県内比較グラフ'
+              : tab === 'ranking'
+              ? '全国自治体水道料金ランキング'
+              : '都道府県平均水道料金ランキング'
+          }}
+        </button>
       </div>
 
       <!-- モバイル用プルダウンメニュー -->
@@ -359,14 +362,14 @@
         />
         <div class="flex mt-2 space-x-4">
           <button
-            class="px-4 py-2 bg-main text-white rounded"
+            class="px-6 py-2 bg-main text-white rounded"
             @click="searchRankingCity"
           >
             検索
           </button>
           <button
             v-if="searchedCityResult"
-            class="px-4 py-2 text-white rounded hover:bg-gray-600"
+            class="px-6 py-2 text-white rounded hover:bg-gray-600"
             style="background-color: #6b7280"
             @click="clearSearch"
           >
@@ -1209,8 +1212,8 @@ export default {
 }
 
 .text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
 }
 
 .font-bold {
@@ -1392,7 +1395,6 @@ input {
   }
 
   .radio-tab {
-    padding: 0.75rem 0.5rem;
     font-size: 0.875rem;
   }
 }
@@ -1455,5 +1457,29 @@ select {
   background-position: right 8px center;
   background-size: 16px;
   padding-right: 30px;
+}
+
+.radio-tab {
+  border: 1px solid #d1d5db;
+
+  /* 枠線を薄いグレーに */
+  background: none;
+  outline: none;
+  box-shadow: none;
+  transition: border-color 0.2s, background 0.2s, color 0.2s, padding 0.2s;
+}
+
+.radio-tab.bg-main {
+  border-color: #0e2997;
+
+  /* アクティブ時は濃い色 */
+  background-color: #0e2997;
+  color: #fff;
+  font-weight: bold;
+  z-index: 1;
+}
+
+.h1-title-margin {
+  margin-top: 1.25rem;
 }
 </style>
