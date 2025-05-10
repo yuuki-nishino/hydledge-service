@@ -12,7 +12,7 @@
         class="radio-tabs bg-white p-2 rounded-lg shadow-sm grid grid-cols-3 gap-2"
       >
         <label
-          v-for="tab in ['compare', 'graph', 'ranking']"
+          v-for="tab in ['compare', 'graph', 'ranking', 'averageRanking']"
           :key="tab"
           class="radio-tab cursor-pointer p-3 rounded-md text-center font-medium flex items-center justify-center transition-all"
           :class="
@@ -28,7 +28,9 @@
                 ? '水道料金比較シミュレーター'
                 : tab === 'graph'
                 ? '都道府県内比較グラフ'
-                : '全国自治体水道料金ランキング'
+                : tab === 'ranking'
+                ? '全国自治体水道料金ランキング'
+                : '都道府県平均水道料金ランキング'
             }}
           </span>
         </label>
@@ -43,6 +45,7 @@
           <option value="compare">水道料金比較シミュレーター</option>
           <option value="graph">都道府県内比較グラフ</option>
           <option value="ranking">全国自治体水道料金ランキング</option>
+          <option value="averageRanking">都道府県平均水道料金ランキング</option>
         </select>
       </div>
     </div>
@@ -503,6 +506,154 @@
       </div>
     </div>
 
+    <!-- 都道府県平均水道料金ランキング -->
+    <div
+      v-if="activeTab === 'averageRanking'"
+      class="bg-white p-4 md:p-6 rounded-lg shadow-sm"
+    >
+      <h2 class="text-xl font-semibold mb-4 text-main">
+        都道府県平均水道料金ランキング
+      </h2>
+      <div class="mb-4">
+        <label class="block mb-2 font-medium">使用量を選択</label>
+        <select
+          v-model="averageUsage"
+          class="w-full p-2 border rounded"
+          @change="updateAverageRankingData"
+        >
+          <option value="10m3">10m³</option>
+          <option value="15m3">15m³</option>
+          <option value="20m3">20m³</option>
+        </select>
+      </div>
+      <div class="mb-4">
+        <label class="block mb-2 font-medium">並び順を選択</label>
+        <select
+          v-model="averageSortOrder"
+          class="w-full p-2 border rounded"
+          @change="updateAverageRankingData"
+        >
+          <option value="asc">安い順</option>
+          <option value="desc">高い順</option>
+        </select>
+      </div>
+      <div class="mb-4">
+        <label class="block mb-2 font-medium">都道府県名で検索</label>
+        <input
+          v-model="averageGraphSearchPrefecture"
+          type="text"
+          class="w-full p-2 border rounded"
+          placeholder="都道府県名を入力してください"
+        />
+        <div class="flex mt-2 space-x-4">
+          <button
+            class="px-6 py-2 bg-main text-white rounded hover:bg-main-dark"
+            @click="searchAverageGraphPrefecture"
+          >
+            検索
+          </button>
+          <button
+            v-if="averageGraphHighlightedPrefecture"
+            class="px-6 py-2 text-white rounded hover:bg-gray-600"
+            style="background-color: #6b7280"
+            @click="clearAverageGraphSearch"
+          >
+            クリア
+          </button>
+        </div>
+      </div>
+      <div
+        v-if="averageGraphHighlightedPrefecture"
+        class="mb-3 p-3 bg-blue-50 rounded-lg border border-blue-200"
+      >
+        <p class="text-center font-medium">
+          「{{ averageGraphHighlightedPrefecture }}」の平均水道料金:
+          <span class="text-xl font-bold text-main">
+            {{ averageGraphHighlightedFee.toLocaleString() }}円
+          </span>
+          ({{ averageGraphHighlightedRank }}/47位)
+        </p>
+      </div>
+      <div
+        v-if="averageRankingData.length"
+        style="min-height: 500px; margin-bottom: 2rem"
+      >
+        <GChart
+          type="ColumnChart"
+          :data="averageChartData"
+          :options="{
+            title: '都道府県平均水道料金',
+            chartArea: { width: '70%', height: '70%' },
+            height: 600,
+            hAxis: {
+              title: '都道府県',
+              slantedText: true,
+              slantedTextAngle: 45,
+              textStyle: {
+                fontSize: 12,
+              },
+              showTextEvery: 1,
+            },
+            vAxis: {
+              title: '料金 (円)',
+              minValue: 0,
+            },
+            bar: { groupWidth: '60%' },
+            legend: { position: 'none' },
+          }"
+        />
+      </div>
+      <hr class="my-4 border-t border-gray-300" />
+      <div class="overflow-x-auto flex justify-center">
+        <table class="min-w-full bg-white border border-gray-200">
+          <thead>
+            <tr>
+              <th
+                class="px-4 py-2 border-b border-gray-200 bg-main text-white text-left"
+              >
+                順位
+              </th>
+              <th
+                class="px-4 py-2 border-b border-gray-200 bg-main text-white text-left"
+              >
+                都道府県
+              </th>
+              <th
+                class="px-4 py-2 border-b border-gray-200 bg-main text-white text-right"
+              >
+                平均水道料金
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              v-for="(item, index) in sortedAverageRankingData"
+              :key="index"
+              :class="index % 2 === 0 ? 'bg-gray-50' : 'bg-white'"
+            >
+              <td class="px-4 py-2 border-b border-gray-200">
+                {{ index + 1 }}位
+              </td>
+              <td class="px-4 py-2 border-b border-gray-200">
+                {{ item.prefecture }}
+              </td>
+              <td class="px-4 py-2 border-b border-gray-200 text-right">
+                {{ Number(item.averageFee).toFixed(1).toLocaleString() }}円
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="text-right mb-4">
+        <button
+          class="px-4 py-2 bg-main text-white rounded hover:bg-main-dark"
+          @click="downloadCSV"
+        >
+          CSVダウンロード
+        </button>
+      </div>
+    </div>
+
     <!-- 水道料金説明ページへのリンク -->
     <div class="mt-8 text-center">
       <a
@@ -599,6 +750,14 @@ export default {
       graphHighlightedCity: null,
       chartData: [],
       graphHighlightedCityFee: null,
+      averageUsage: '20m3',
+      averageRankingData: [],
+      averageChartData: [],
+      averageSortOrder: 'asc',
+      averageGraphSearchPrefecture: '',
+      averageGraphHighlightedPrefecture: null,
+      averageGraphHighlightedFee: null,
+      averageGraphHighlightedRank: null,
     }
   },
 
@@ -660,6 +819,18 @@ export default {
         return [...this.rankingData].sort((a, b) => b.fee - a.fee)
       }
     },
+
+    sortedAverageRankingData() {
+      if (this.averageSortOrder === 'asc') {
+        return [...this.averageRankingData].sort(
+          (a, b) => a.averageFee - b.averageFee
+        )
+      } else {
+        return [...this.averageRankingData].sort(
+          (a, b) => b.averageFee - a.averageFee
+        )
+      }
+    },
   },
 
   watch: {
@@ -712,6 +883,8 @@ export default {
         this.updateRankingData()
       } else if (newTab === 'graph') {
         this.updateGraph()
+      } else if (newTab === 'averageRanking') {
+        this.updateAverageRankingData()
       }
     },
   },
@@ -742,6 +915,7 @@ export default {
 
       this.updateRankingData()
       this.updateGraph()
+      this.updateAverageRankingData()
       this.checkMobile()
     } catch (error) {
       this.$emit('error', 'データの読み込みに失敗しました')
@@ -896,6 +1070,111 @@ export default {
       this.graphHighlightedCity = null
       this.graphHighlightedCityFee = null
       this.updateGraph()
+    },
+
+    updateAverageRankingData() {
+      const averageData = this.waterRatesData.reduce((acc, data) => {
+        if (!acc[data.prefecture]) {
+          acc[data.prefecture] = { total: 0, count: 0 }
+        }
+        acc[data.prefecture].total += data.usage_fee[this.averageUsage]
+        acc[data.prefecture].count += 1
+        return acc
+      }, {})
+
+      this.averageRankingData = Object.entries(averageData).map(
+        ([prefecture, { total, count }]) => ({
+          prefecture,
+          averageFee: total / count,
+        })
+      )
+
+      if (this.averageSortOrder === 'asc') {
+        this.averageRankingData.sort((a, b) => a.averageFee - b.averageFee)
+      } else {
+        this.averageRankingData.sort((a, b) => b.averageFee - a.averageFee)
+      }
+
+      this.averageChartData = [['都道府県', '平均料金', { role: 'style' }]]
+      this.averageRankingData.forEach((data) => {
+        this.averageChartData.push([
+          data.prefecture,
+          parseFloat(Number(data.averageFee).toFixed(1)),
+          '#0E2997',
+        ])
+      })
+    },
+
+    searchAverageGraphPrefecture() {
+      const keyword = this.averageGraphSearchPrefecture.trim()
+      if (!keyword) {
+        this.averageGraphHighlightedPrefecture = null
+        this.averageGraphHighlightedFee = null
+        this.averageGraphHighlightedRank = null
+        this.updateAverageGraph()
+        return
+      }
+
+      const foundIndex = this.sortedAverageRankingData.findIndex((data) =>
+        data.prefecture.includes(keyword)
+      )
+
+      if (foundIndex === -1) {
+        alert('該当する都道府県が見つかりませんでした')
+        this.averageGraphHighlightedPrefecture = null
+        this.averageGraphHighlightedFee = null
+        this.averageGraphHighlightedRank = null
+      } else {
+        const foundPrefecture = this.sortedAverageRankingData[foundIndex]
+        this.averageGraphHighlightedPrefecture = foundPrefecture.prefecture
+        this.averageGraphHighlightedFee = foundPrefecture.averageFee
+        this.averageGraphHighlightedRank = foundIndex + 1
+      }
+
+      this.updateAverageGraph()
+    },
+
+    clearAverageGraphSearch() {
+      this.averageGraphSearchPrefecture = ''
+      this.averageGraphHighlightedPrefecture = null
+      this.averageGraphHighlightedFee = null
+      this.averageGraphHighlightedRank = null
+      this.updateAverageGraph()
+    },
+
+    updateAverageGraph() {
+      this.averageChartData = [['都道府県', '平均料金', { role: 'style' }]]
+      this.averageRankingData.forEach((data) => {
+        const color =
+          data.prefecture === this.averageGraphHighlightedPrefecture
+            ? '#FF9800' // オレンジ
+            : '#0E2997' // 青
+
+        this.averageChartData.push([
+          data.prefecture,
+          parseFloat(Number(data.averageFee).toFixed(1)),
+          color,
+        ])
+      })
+    },
+
+    downloadCSV() {
+      const headers = ['順位', '都道府県', '平均水道料金']
+      const rows = this.sortedAverageRankingData.map((item, index) => [
+        `${index + 1}位`,
+        item.prefecture,
+        `${item.averageFee.toFixed(1)}円`,
+      ])
+
+      const csvContent = [headers, ...rows].map((e) => e.join(',')).join('\n')
+
+      const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' })
+      const link = document.createElement('a')
+      link.href = URL.createObjectURL(blob)
+      link.setAttribute('download', 'average_water_fees.csv')
+      document.body.appendChild(link)
+      link.click()
+      document.body.removeChild(link)
     },
   },
 }
