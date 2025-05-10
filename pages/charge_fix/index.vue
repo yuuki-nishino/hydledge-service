@@ -1,13 +1,15 @@
 <template>
-  <div class="p-4 max-w-6xl mx-auto bg-gray-50 rounded-lg shadow">
+  <div class="p-3 md:p-4 max-w-6xl mx-auto bg-gray-50 rounded-lg shadow">
     <h1 class="text-2xl font-bold text-center mb-6 text-main">
-      水道料金シミュレーター
+      水道料金分析ページ
     </h1>
 
     <!-- タブメニュー -->
     <div class="mb-6">
+      <!-- PC用タブメニュー -->
       <div
-        class="radio-tabs bg-white p-2 rounded-lg shadow-sm grid grid-cols-1 md:grid-cols-3 gap-2"
+        v-if="!isMobile"
+        class="radio-tabs bg-white p-2 rounded-lg shadow-sm grid grid-cols-3 gap-2"
       >
         <label
           v-for="tab in ['compare', 'graph', 'ranking']"
@@ -25,18 +27,30 @@
               tab === 'compare'
                 ? '水道料金比較シミュレーター'
                 : tab === 'graph'
-                ? '都道府県比較グラフ'
-                : '水道料金ランキング'
+                ? '都道府県内比較グラフ'
+                : '全国自治体水道料金ランキング'
             }}
           </span>
         </label>
+      </div>
+
+      <!-- モバイル用プルダウンメニュー -->
+      <div v-if="isMobile" class="px-2">
+        <select
+          v-model="activeTab"
+          class="w-full p-3 bg-white border border-gray-300 rounded-lg shadow-sm font-medium text-gray-700 focus:outline-none focus:ring-2 focus:ring-main focus:border-main"
+        >
+          <option value="compare">水道料金比較シミュレーター</option>
+          <option value="graph">都道府県内比較グラフ</option>
+          <option value="ranking">全国自治体水道料金ランキング</option>
+        </select>
       </div>
     </div>
 
     <!-- 水道料金比較シミュレーター -->
     <div
       v-if="activeTab === 'compare'"
-      class="bg-white p-6 rounded-lg shadow-sm"
+      class="bg-white p-4 md:p-6 rounded-lg shadow-sm"
     >
       <h2 class="text-xl font-semibold mb-4 text-main">
         水道料金比較シミュレーター
@@ -183,13 +197,13 @@
       </div>
     </div>
 
-    <!-- 都道府県比較グラフ -->
+    <!-- 都道府県内比較グラフ -->
     <div
       v-if="activeTab === 'graph'"
-      class="bg-white p-6 rounded-lg shadow-sm"
-      style="height: 1000px"
+      class="bg-white p-4 md:p-6 rounded-lg shadow-sm"
+      style="height: auto"
     >
-      <h2 class="text-xl font-semibold mb-4 text-main">都道府県比較グラフ</h2>
+      <h2 class="text-xl font-semibold mb-4 text-main">都道府県内比較グラフ</h2>
       <div class="mb-4">
         <label class="block mb-2 font-medium">都道府県を選択</label>
         <select
@@ -213,13 +227,53 @@
           <option value="20m3">20m³</option>
         </select>
       </div>
-      <div class="h-full" style="min-height: 800px">
+      <div class="mb-4">
+        <label class="block mb-2 font-medium">自治体名で検索</label>
+        <input
+          v-model="graphSearchCity"
+          type="text"
+          class="w-full p-2 border rounded"
+          placeholder="自治体名を入力してください"
+        />
+        <div class="flex mt-2 space-x-4">
+          <button
+            class="px-6 py-2 bg-main text-white rounded hover:bg-main-dark"
+            @click="searchGraphCity"
+          >
+            検索
+          </button>
+          <button
+            v-if="graphHighlightedCity"
+            class="px-6 py-2 text-white rounded hover:bg-gray-600"
+            style="background-color: #6b7280"
+            @click="clearGraphSearch"
+          >
+            クリア
+          </button>
+        </div>
+      </div>
+
+      <!-- 検索結果の表示 -->
+      <div
+        v-if="graphHighlightedCity && graphHighlightedCityFee"
+        class="mb-3 p-3 bg-blue-50 rounded-lg border border-blue-200"
+      >
+        <p class="text-center font-medium">
+          「{{ graphHighlightedCity }}」の水道料金:
+          <span class="text-xl font-bold text-main"
+            >{{ graphHighlightedCityFee.toLocaleString() }}円</span
+          >
+          ({{ selectedUsageFee }}使用時)
+        </p>
+      </div>
+
+      <!-- モバイル表示の場合は横棒グラフ、PC表示の場合は縦棒グラフ -->
+      <div v-if="!isMobile" style="min-height: 500px">
         <GChart
           type="ColumnChart"
           :data="chartData"
           :options="{
             title: '都道府県別水道料金',
-            colors: ['#0E2997'],
             chartArea: { width: '70%', height: '70%' },
             height: 600,
             hAxis: {
@@ -240,14 +294,39 @@
           }"
         />
       </div>
+      <div v-if="isMobile" style="min-height: 500px">
+        <GChart
+          type="BarChart"
+          :data="chartData"
+          :options="{
+            title: '都道府県別水道料金',
+            chartArea: { width: '65%', height: '80%' },
+            height: 500,
+            hAxis: {
+              title: '料金 (円)',
+              minValue: 0,
+            },
+            vAxis: {
+              title: '自治体',
+              textStyle: {
+                fontSize: 10,
+              },
+            },
+            bar: { groupWidth: '70%' },
+            legend: { position: 'none' },
+          }"
+        />
+      </div>
     </div>
 
     <!-- 水道料金ランキング -->
     <div
       v-if="activeTab === 'ranking'"
-      class="bg-white p-6 rounded-lg shadow-sm"
+      class="bg-white p-4 md:p-6 rounded-lg shadow-sm"
     >
-      <h2 class="text-xl font-semibold mb-4 text-main">水道料金ランキング</h2>
+      <h2 class="text-xl font-semibold mb-4 text-main">
+        全国自治体水道料金ランキング
+      </h2>
       <div class="mb-4">
         <label class="block mb-2 font-medium">使用量を選択</label>
         <select
@@ -267,7 +346,114 @@
           <option value="desc">高い順</option>
         </select>
       </div>
-      <div class="overflow-x-auto">
+      <div class="mb-4">
+        <label class="block mb-2 font-medium">自治体名で検索</label>
+        <input
+          v-model="searchCity"
+          type="text"
+          class="w-full p-2 border rounded"
+          placeholder="自治体名を入力してください"
+        />
+        <div class="flex mt-2 space-x-4">
+          <button
+            class="px-4 py-2 bg-main text-white rounded"
+            @click="searchRankingCity"
+          >
+            検索
+          </button>
+          <button
+            v-if="searchedCityResult"
+            class="px-4 py-2 text-white rounded hover:bg-gray-600"
+            style="background-color: #6b7280"
+            @click="clearSearch"
+          >
+            クリア
+          </button>
+        </div>
+      </div>
+      <div v-if="searchedCityResult">
+        <h3 class="text-lg font-semibold mb-2 text-main">検索結果</h3>
+        <div v-if="searchedCityResult.length > 0">
+          <div
+            v-if="searchTargetRank"
+            class="mb-4 p-3 bg-blue-50 rounded border border-blue-200"
+          >
+            <p class="text-center font-medium">
+              「{{ searchCity }}」は全{{ sortedRankingData.length }}自治体中
+              <span class="text-xl font-bold text-main"
+                >{{ searchTargetRank }}位</span
+              >
+              です
+            </p>
+          </div>
+          <div class="overflow-x-auto flex justify-center">
+            <table class="min-w-full bg-white border border-gray-200 mb-4">
+              <thead>
+                <tr>
+                  <th
+                    class="px-4 py-2 border-b border-gray-200 bg-main text-white text-left"
+                  >
+                    順位
+                  </th>
+                  <th
+                    class="px-4 py-2 border-b border-gray-200 bg-main text-white text-left"
+                  >
+                    都道府県
+                  </th>
+                  <th
+                    class="px-4 py-2 border-b border-gray-200 bg-main text-white text-left"
+                  >
+                    自治体名
+                  </th>
+                  <th
+                    class="px-4 py-2 border-b border-gray-200 bg-main text-white text-right"
+                  >
+                    水道料金
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr
+                  v-for="(item, idx) in searchedCityResult"
+                  :key="item.city + item.prefecture"
+                  :class="
+                    item.isTarget
+                      ? 'font-bold'
+                      : idx % 2 === 0
+                      ? 'bg-gray-50'
+                      : 'bg-white'
+                  "
+                  :style="item.isTarget ? 'background-color: #FFEDD5;' : ''"
+                >
+                  <td class="px-4 py-2 border-b border-gray-200">
+                    {{ item.rank }}位
+                  </td>
+                  <td class="px-4 py-2 border-b border-gray-200">
+                    {{ item.prefecture }}
+                  </td>
+                  <td class="px-4 py-2 border-b border-gray-200">
+                    {{ item.city }}
+                  </td>
+                  <td class="px-4 py-2 border-b border-gray-200 text-right">
+                    {{ item.fee.toLocaleString() }}円
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div v-else class="text-red-600">
+          該当する自治体が見つかりませんでした。
+        </div>
+      </div>
+
+      <!-- 区切り線 -->
+      <hr
+        v-if="searchedCityResult && searchedCityResult.length > 0"
+        class="my-6 border-t border-gray-300"
+      />
+
+      <div class="overflow-x-auto flex justify-center">
         <table class="min-w-full bg-white border border-gray-200">
           <thead>
             <tr>
@@ -315,6 +501,19 @@
           </tbody>
         </table>
       </div>
+    </div>
+
+    <!-- 水道料金説明ページへのリンク -->
+    <div class="mt-8 text-center">
+      <a
+        href="/charge"
+        class="px-8 py-3 bg-main text-white rounded-lg shadow-md hover:bg-main-dark transition-colors font-medium"
+      >
+        水道料金の計算方法について詳しく知る
+      </a>
+      <p class="mt-2 text-sm text-gray-600">
+        基本料金・従量料金など、水道料金の仕組みについて解説しています
+      </p>
     </div>
   </div>
 </template>
@@ -392,6 +591,14 @@ export default {
       ],
       selectedGraphPrefecture: '東京都',
       selectedUsageFee: '20m3',
+      searchCity: '',
+      searchedCityResult: null,
+      searchTargetRank: null,
+      isMobile: false,
+      graphSearchCity: '',
+      graphHighlightedCity: null,
+      chartData: [],
+      graphHighlightedCityFee: null,
     }
   },
 
@@ -474,8 +681,28 @@ export default {
         this.compareCity = this.availableCitiesInComparePrefecture[0] || ''
       }
     },
-    selectedGraphPrefecture: 'updateGraph',
-    selectedUsageFee: 'updateGraph',
+    selectedGraphPrefecture() {
+      // 都道府県が変わったら検索結果をリセット
+      this.graphHighlightedCity = null
+      this.graphHighlightedCityFee = null
+      this.graphSearchCity = ''
+      this.updateGraph()
+    },
+    selectedUsageFee() {
+      // 使用量が変わったら、ハイライト自治体の料金も更新
+      if (this.graphHighlightedCity) {
+        const foundCity = this.waterRatesData.find(
+          (data) =>
+            data.prefecture === this.selectedGraphPrefecture &&
+            data.municipality === this.graphHighlightedCity
+        )
+        if (foundCity) {
+          this.graphHighlightedCityFee =
+            foundCity.usage_fee[this.selectedUsageFee]
+        }
+      }
+      this.updateGraph()
+    },
     rankingUsage: 'updateRankingData',
     sortOrder() {
       // ソート順が変更されたときは計算プロパティが自動的に再計算される
@@ -483,6 +710,8 @@ export default {
     activeTab(newTab) {
       if (newTab === 'ranking') {
         this.updateRankingData()
+      } else if (newTab === 'graph') {
+        this.updateGraph()
       }
     },
   },
@@ -513,12 +742,26 @@ export default {
 
       this.updateRankingData()
       this.updateGraph()
+      this.checkMobile()
     } catch (error) {
       this.$emit('error', 'データの読み込みに失敗しました')
     }
   },
 
+  mounted() {
+    window.addEventListener('resize', this.checkMobile)
+    this.checkMobile()
+  },
+
+  beforeDestroy() {
+    window.removeEventListener('resize', this.checkMobile)
+  },
+
   methods: {
+    checkMobile() {
+      this.isMobile = window.innerWidth < 768
+    },
+
     calculateWaterBill(cityData) {
       if (!cityData) return 0
 
@@ -551,15 +794,108 @@ export default {
       const selectedData = this.waterRatesData.filter(
         (data) => data.prefecture === this.selectedGraphPrefecture
       )
-      const chartData = [
-        ['自治体', '料金'],
-        ...selectedData.map((data) => [
+
+      // データの並び替え（料金の降順）
+      selectedData.sort((a, b) => {
+        return (
+          b.usage_fee[this.selectedUsageFee] -
+          a.usage_fee[this.selectedUsageFee]
+        )
+      })
+
+      // Google Chartsのためのデータ形式に変換
+      const dataTable = [['自治体', '料金', { role: 'style' }]]
+
+      // データを追加（ハイライト対象はオレンジ色に）
+      selectedData.forEach((data) => {
+        const color =
+          data.municipality === this.graphHighlightedCity
+            ? '#FF9800' // オレンジ
+            : '#0E2997' // 青
+
+        dataTable.push([
           data.municipality,
           data.usage_fee[this.selectedUsageFee],
-        ]),
-      ]
+          color,
+        ])
+      })
 
-      this.chartData = chartData
+      this.chartData = dataTable
+    },
+
+    searchRankingCity() {
+      const keyword = this.searchCity.trim()
+      if (!keyword) {
+        this.searchedCityResult = []
+        this.searchTargetRank = null
+        return
+      }
+      // ランキングデータを取得
+      const data = this.sortedRankingData
+      // 検索
+      const idx = data.findIndex((item) => item.city.includes(keyword))
+      if (idx === -1) {
+        this.searchedCityResult = []
+        this.searchTargetRank = null
+        return
+      }
+
+      // 検索対象の順位を保存
+      this.searchTargetRank = idx + 1
+
+      // 前後2件を取得（計最大5件）
+      const start = Math.max(0, idx - 2)
+      const end = Math.min(data.length, idx + 3)
+      this.searchedCityResult = data.slice(start, end).map((item, i) => ({
+        ...item,
+        rank: start + i + 1,
+        isTarget: start + i === idx,
+      }))
+    },
+
+    clearSearch() {
+      this.searchCity = ''
+      this.searchedCityResult = null
+      this.searchTargetRank = null
+    },
+
+    searchGraphCity() {
+      const keyword = this.graphSearchCity.trim()
+      if (!keyword) {
+        this.graphHighlightedCity = null
+        this.updateGraph()
+        return
+      }
+
+      // 現在選択中の都道府県の自治体を検索
+      const selectedData = this.waterRatesData.filter(
+        (data) => data.prefecture === this.selectedGraphPrefecture
+      )
+
+      // 検索
+      const foundCity = selectedData.find((data) =>
+        data.municipality.includes(keyword)
+      )
+
+      if (!foundCity) {
+        alert('該当する自治体が見つかりませんでした')
+        this.graphHighlightedCity = null
+      } else {
+        // 検索対象の自治体を保存
+        this.graphHighlightedCity = foundCity.municipality
+        this.graphHighlightedCityFee =
+          foundCity.usage_fee[this.selectedUsageFee]
+      }
+
+      // グラフを更新
+      this.updateGraph()
+    },
+
+    clearGraphSearch() {
+      this.graphSearchCity = ''
+      this.graphHighlightedCity = null
+      this.graphHighlightedCityFee = null
+      this.updateGraph()
     },
   },
 }
