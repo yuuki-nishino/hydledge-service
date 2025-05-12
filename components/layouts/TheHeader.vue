@@ -161,12 +161,8 @@ export default {
         name: '水道料金',
         link: '/charge',
         children: [
-          { name: '水道料金の説明', link: '/charge' },
-          { name: '日本の水道料金データ', link: '/charge/data' },
-          {
-            name: '都道府県ごとの水道料金データ',
-            link: '/charge/data/select_pref',
-          },
+          { name: '分析ページ', link: '/charge' },
+          { name: '説明ページ', link: '/charge/explanation' },
         ],
       },
       // { name: '今後公開予定', link: '/' },

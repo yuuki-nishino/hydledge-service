@@ -175,10 +175,9 @@
 
 <script>
 import { GChart } from 'vue-google-charts'
-import NaganoData from '@/assets/mockup_data/HardnessData/NaganoHardness.json'
-import AllPref from '@/assets/mockup_data/HardnessData/pref_hardness.json'
-import DistrictMean from '@/assets/mockup_data/HardnessData/district_mean_hardness.json'
-import FacilityItem from '@/assets/mockup_data/HardnessData/facility_hardness.json'
+import AllPref from '@/assets/mockup_data/HardnessData/PrefHardness.json'
+import DistrictMean from '@/assets/mockup_data/HardnessData/DistrictMeanHardness.json'
+import FacilityItem from '@/assets/mockup_data/HardnessData/FacilityHardness.json'
 
 import BreadCrumb from '~/components/atoms/BreadCrumb.vue'
 
@@ -191,7 +190,6 @@ export default {
   data() {
     return {
       pref: '',
-      chartData: NaganoData,
       AllPrefData: AllPref,
       DistrictData: DistrictMean,
       FacilityData: FacilityItem,
@@ -288,7 +286,7 @@ export default {
         沖縄県: '&ll=26.754546940519795%2C127.42099010818342&z=7',
       },
       mapUrl:
-        'https://www.google.com/maps/d/embed?mid=102raZYf3j_ylyldshZ5zBOq80K4o9Yc&ehbc=2E312F',
+        'https://www.google.com/maps/d/embed?mid=1oxEsB45irkDtnAMCw0VVTpg1sLsMpZI&ehbc=2E312F',
 
       IconColors: [
         '#7cb342',

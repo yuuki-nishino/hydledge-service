@@ -295,7 +295,7 @@ import { GChart } from 'vue-google-charts'
 // import JapanData from '@/assets/mockup_data/HardnessData/JapanHardness.json'
 import ChartHardness from '@/assets/mockup_data/HardnessData/ChartHardness.json'
 import RankedData from '@/assets/mockup_data/HardnessData/RankedJapanHardness.json'
-import HardRanking from '@/assets/mockup_data/HardnessData/hardness_point_ranking.json'
+import HardRanking from '@/assets/mockup_data/HardnessData/HardnessPointRanking.json'
 // import SoftRanking from '@/assets/mockup_data/HardnessData/hardness_point_ranking2.json'
 
 import BreadCrumb from '~/components/atoms/BreadCrumb.vue'

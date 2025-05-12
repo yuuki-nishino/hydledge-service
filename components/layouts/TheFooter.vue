@@ -17,7 +17,6 @@
           <v-row class="text-left my-2 py-3" justify="start">
             <ul style="list-style-type: none">
               <li v-for="item in items" :key="item.title">
-                <v-icon>mdi-chevron-right</v-icon>
                 <v-btn
                   color="black"
                   text
