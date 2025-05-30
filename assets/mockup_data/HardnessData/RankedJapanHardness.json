@@ -2,236 +2,236 @@
   {
     "rank": 1,
     "pref": "千葉県",
-    "hardness": 78.39
+    "hardness": 80.13
   },
   {
     "rank": 2,
     "pref": "埼玉県",
-    "hardness": 70.76
+    "hardness": 68.57
   },
   {
     "rank": 3,
-    "pref": "沖縄県",
-    "hardness": 69.47
+    "pref": "熊本県",
+    "hardness": 68.49
   },
   {
     "rank": 4,
-    "pref": "熊本県",
-    "hardness": 67.28
+    "pref": "茨城県",
+    "hardness": 67.35
   },
   {
     "rank": 5,
-    "pref": "茨城県",
-    "hardness": 65.79
+    "pref": "東京都",
+    "hardness": 63.78
   },
   {
     "rank": 6,
-    "pref": "東京都",
-    "hardness": 65.12
+    "pref": "神奈川県",
+    "hardness": 60.13
   },
   {
     "rank": 7,
-    "pref": "神奈川県",
-    "hardness": 58.13
+    "pref": "愛媛県",
+    "hardness": 55.95
   },
   {
     "rank": 8,
     "pref": "栃木県",
-    "hardness": 54.62
+    "hardness": 54.19
   },
   {
     "rank": 9,
     "pref": "大分県",
-    "hardness": 52.38
+    "hardness": 53.56
   },
   {
     "rank": 10,
-    "pref": "群馬県",
-    "hardness": 51.59
+    "pref": "静岡県",
+    "hardness": 51.71
   },
   {
     "rank": 11,
-    "pref": "静岡県",
-    "hardness": 51.35
+    "pref": "福岡県",
+    "hardness": 50.37
   },
   {
     "rank": 12,
-    "pref": "愛媛県",
-    "hardness": 49.97
+    "pref": "群馬県",
+    "hardness": 49.73
   },
   {
     "rank": 13,
-    "pref": "福岡県",
-    "hardness": 49.57
+    "pref": "長野県",
+    "hardness": 48.24
   },
   {
     "rank": 14,
-    "pref": "長野県",
-    "hardness": 49.52
+    "pref": "和歌山県",
+    "hardness": 47.08
   },
   {
     "rank": 15,
-    "pref": "和歌山県",
-    "hardness": 48.71
+    "pref": "鹿児島県",
+    "hardness": 46.63
   },
   {
     "rank": 16,
-    "pref": "徳島県",
-    "hardness": 48.51
+    "pref": "長崎県",
+    "hardness": 46.06
   },
   {
     "rank": 17,
-    "pref": "鹿児島県",
-    "hardness": 47.05
+    "pref": "徳島県",
+    "hardness": 46.02
   },
   {
     "rank": 18,
-    "pref": "長崎県",
-    "hardness": 45.8
+    "pref": "佐賀県",
+    "hardness": 45.12
   },
   {
     "rank": 19,
-    "pref": "山梨県",
-    "hardness": 45.64
+    "pref": "高知県",
+    "hardness": 44.41
   },
   {
     "rank": 20,
-    "pref": "佐賀県",
-    "hardness": 45.0
+    "pref": "山梨県",
+    "hardness": 44.32
   },
   {
     "rank": 21,
     "pref": "石川県",
-    "hardness": 43.62
+    "hardness": 44.27
   },
   {
     "rank": 22,
-    "pref": "滋賀県",
-    "hardness": 42.72
+    "pref": "奈良県",
+    "hardness": 44.16
   },
   {
     "rank": 23,
     "pref": "岡山県",
-    "hardness": 42.19
+    "hardness": 43.82
   },
   {
     "rank": 24,
-    "pref": "奈良県",
-    "hardness": 41.91
+    "pref": "兵庫県",
+    "hardness": 43.79
   },
   {
     "rank": 25,
-    "pref": "岩手県",
-    "hardness": 41.88
+    "pref": "大阪府",
+    "hardness": 43.62
   },
   {
     "rank": 26,
-    "pref": "三重県",
-    "hardness": 41.29
+    "pref": "沖縄県",
+    "hardness": 42.85
   },
   {
     "rank": 27,
-    "pref": "高知県",
-    "hardness": 41.02
+    "pref": "香川県",
+    "hardness": 42.36
   },
   {
     "rank": 28,
-    "pref": "大阪府",
-    "hardness": 40.95
+    "pref": "滋賀県",
+    "hardness": 42.21
   },
   {
     "rank": 29,
-    "pref": "鳥取県",
-    "hardness": 40.87
+    "pref": "京都府",
+    "hardness": 42.2
   },
   {
     "rank": 30,
-    "pref": "兵庫県",
-    "hardness": 40.4
+    "pref": "岩手県",
+    "hardness": 41.99
   },
   {
     "rank": 31,
     "pref": "山口県",
-    "hardness": 40.15
+    "hardness": 41.95
   },
   {
     "rank": 32,
-    "pref": "青森県",
-    "hardness": 40.07
+    "pref": "三重県",
+    "hardness": 41.35
   },
   {
     "rank": 33,
-    "pref": "京都府",
-    "hardness": 39.67
+    "pref": "青森県",
+    "hardness": 40.29
   },
   {
     "rank": 34,
     "pref": "宮崎県",
-    "hardness": 39.62
+    "hardness": 40.2
   },
   {
     "rank": 35,
-    "pref": "香川県",
-    "hardness": 37.62
+    "pref": "鳥取県",
+    "hardness": 36.12
   },
   {
     "rank": 36,
     "pref": "岐阜県",
-    "hardness": 35.11
+    "hardness": 33.83
   },
   {
     "rank": 37,
-    "pref": "福井県",
-    "hardness": 32.73
+    "pref": "北海道",
+    "hardness": 33.44
   },
   {
     "rank": 38,
-    "pref": "新潟県",
-    "hardness": 32.37
+    "pref": "秋田県",
+    "hardness": 32.99
   },
   {
     "rank": 39,
-    "pref": "北海道",
-    "hardness": 31.98
+    "pref": "新潟県",
+    "hardness": 32.23
   },
   {
     "rank": 40,
-    "pref": "秋田県",
-    "hardness": 29.18
+    "pref": "福井県",
+    "hardness": 32.0
   },
   {
     "rank": 41,
     "pref": "福島県",
-    "hardness": 29.06
+    "hardness": 29.38
   },
   {
     "rank": 42,
     "pref": "富山県",
-    "hardness": 27.93
+    "hardness": 28.66
   },
   {
     "rank": 43,
     "pref": "島根県",
-    "hardness": 27.37
+    "hardness": 28.52
   },
   {
     "rank": 44,
     "pref": "宮城県",
-    "hardness": 26.56
+    "hardness": 26.61
   },
   {
     "rank": 45,
     "pref": "広島県",
-    "hardness": 24.31
+    "hardness": 25.62
   },
   {
     "rank": 46,
     "pref": "山形県",
-    "hardness": 23.36
+    "hardness": 24.3
   },
   {
     "rank": 47,
     "pref": "愛知県",
-    "hardness": 23.11
+    "hardness": 22.29
   }
 ]

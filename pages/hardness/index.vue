@@ -321,10 +321,10 @@
                   <br />
                   &emsp;※本サイトで使用する水質データは（公社）日本水道協会
                   <a
-                    href="http://www.jwwa.or.jp/mizu/ent_up.html"
+                    href="http://www.jwwa.or.jp/info/suidou_statistics.html"
                     target="_blank"
                   >
-                    「水道水質データベース 2018年給水栓水（平均値)」
+                    「水道統計 令和4年度版」
                   </a>
                   を利用しています。<br /><br />
 
