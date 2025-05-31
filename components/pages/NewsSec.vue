@@ -37,6 +37,12 @@ export default {
     return {
       items: [
         {
+          label: 'サイト',
+          date: '2025-05-31',
+          sentence:
+            'データを令和4年度に更新し、水道料金データのページを改善しました。',
+        },
+        {
           label: 'Note',
           date: '2023-09-07',
           sentence: 'Noteを投稿しました。',
